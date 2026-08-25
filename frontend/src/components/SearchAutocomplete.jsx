@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
+import { API_BASE } from '../config';
 
 export default function SearchAutocomplete({ onSelectStock }) {
   const [query, setQuery] = useState('');
@@ -27,7 +28,7 @@ export default function SearchAutocomplete({ onSelectStock }) {
     const timer = setTimeout(async () => {
       setLoading(true);
       try {
-        const res = await fetch(`/api/search?q=${encodeURIComponent(query)}`);
+        const res = await fetch(`${API_BASE}/api/search?q=${encodeURIComponent(query)}`);
         const data = await res.json();
         setResults(data);
         setIsOpen(true);

@@ -3,6 +3,7 @@ import StockCard from '../components/StockCard';
 import WhyModal from '../components/WhyModal';
 import FilterPanel from '../components/FilterPanel';
 import SearchAutocomplete from '../components/SearchAutocomplete';
+import { API_BASE } from '../config';
 
 export default function Dashboard({
   picks, allPicks, scanning, hasScanned,
@@ -19,7 +20,7 @@ export default function Dashboard({
     
     setIsAnalyzing(true);
     try {
-      const res = await fetch(`/api/analyze/${symbol}`);
+      const res = await fetch(`${API_BASE}/api/analyze/${symbol}`);
       if (!res.ok) {
         const errorData = await res.json();
         alert(`Error: ${errorData.detail || 'Could not analyze stock'}`);

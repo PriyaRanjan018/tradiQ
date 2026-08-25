@@ -68,7 +68,7 @@ export default function App() {
   // Fetch latest scan results from backend on page load
   const fetchLatestPicks = async () => {
     try {
-      const res = await fetch('/api/picks/latest');
+      const res = await fetch(`${API_BASE}/api/picks/latest`);
       if (res.ok) {
         const data = await res.json();
         if (Array.isArray(data) && data.length > 0) {
@@ -108,17 +108,17 @@ export default function App() {
         sector:    filters.sector,
         top_n:     20,
       });
-      const runRes = await fetch(`/api/run?${params}`, { method: 'POST' });
+      const runRes = await fetch(`${API_BASE}/api/run?${params}`, { method: 'POST' });
       if (!runRes.ok) throw new Error('Backend failed to start scan');
 
       const poll = setInterval(async () => {
         try {
-          const st = await fetch('/api/status');
+          const st = await fetch(`${API_BASE}/api/status`);
           if (st.ok) {
             const data = await st.json();
             if (!data.pipeline_running) {
               clearInterval(poll);
-              const picksRes = await fetch('/api/picks/latest');
+              const picksRes = await fetch(`${API_BASE}/api/picks/latest`);
               if (picksRes.ok) {
                 const liveData = await picksRes.json();
                 if (Array.isArray(liveData) && liveData.length > 0) {
