@@ -102,8 +102,13 @@ def run_pipeline(
         if filters.exchange != "ALL":
             universe = universe[universe["exchange"] == filters.exchange]
 
+        # Safe Fallback: If no candidate pool exists yet and no explicit limit is provided,
+        # cap at 500 stocks to prevent live requests from timing out or hitting rate limits.
         if limit:
             universe = universe.head(limit)
+        elif not load_candidate_pool():
+            logger.info("⚠️  Candidate pool missing — capping live fallback scan to Top 500 stocks for speed")
+            universe = universe.head(500)
 
     logger.info(f"   Universe size: {len(universe)} stocks")
     tickers = universe["yf_ticker"].tolist()

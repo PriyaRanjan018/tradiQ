@@ -1,6 +1,43 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
+import { API_BASE } from '../config';
 
 export default function Header({ scanning, runDate, hasScanned, alertCount, onToggleNotifications }) {
+  const [poolStatus, setPoolStatus] = useState({ has_pool: false, total_candidates: 0, updated_at: null });
+  const [isBuildingPool, setIsBuildingPool] = useState(false);
+
+  const fetchPoolStatus = async () => {
+    try {
+      const res = await fetch(`${API_BASE}/api/pool-status`);
+      if (res.ok) {
+        const data = await res.json();
+        setPoolStatus(data);
+      }
+    } catch (e) {
+      console.error(e);
+    }
+  };
+
+  useEffect(() => {
+    fetchPoolStatus();
+    const interval = setInterval(fetchPoolStatus, 15000);
+    return () => clearInterval(interval);
+  }, []);
+
+  const handleRebuildPool = async () => {
+    if (isBuildingPool) return;
+    setIsBuildingPool(true);
+    try {
+      const res = await fetch(`${API_BASE}/api/build-pool`, { method: 'POST' });
+      if (res.ok) {
+        alert('⚡ Candidate Pool build started in background (takes ~5-10 mins). Nightly scan will also run automatically at 2:00 AM IST!');
+      }
+    } catch (e) {
+      console.error(e);
+    } finally {
+      setIsBuildingPool(false);
+    }
+  };
+
   return (
     <header className="app-header">
       <div className="header-left">
@@ -42,6 +79,23 @@ export default function Header({ scanning, runDate, hasScanned, alertCount, onTo
       </div>
 
       <div className="header-right">
+        {/* Candidate Pool Status */}
+        <button
+          className="pool-badge-btn"
+          onClick={handleRebuildPool}
+          title={poolStatus.has_pool ? `Candidate Pool updated at ${poolStatus.updated_at}. Click to refresh manually!` : 'Click to build 500-stock candidate pool in background'}
+          style={{
+            display: 'flex', alignItems: 'center', gap: '6px',
+            background: poolStatus.has_pool ? 'rgba(16, 185, 129, 0.12)' : 'rgba(245, 158, 11, 0.12)',
+            border: `1px solid ${poolStatus.has_pool ? '#10b981' : '#f59e0b'}`,
+            color: poolStatus.has_pool ? '#10b981' : '#f59e0b',
+            borderRadius: '6px', padding: '5px 10px', fontSize: '12px', fontWeight: 600, cursor: 'pointer'
+          }}
+        >
+          <span>⚡</span>
+          <span>{isBuildingPool ? 'Building Pool...' : poolStatus.has_pool ? `500 Pool Ready` : 'Build Pool'}</span>
+        </button>
+
         {/* Notification Bell Icon Button */}
         <button
           className="nav-bell-btn"
@@ -63,7 +117,7 @@ export default function Header({ scanning, runDate, hasScanned, alertCount, onTo
           <span className="live-dot" />
           {scanning ? 'Scanning Market...' : hasScanned ? 'Live Report Ready' : 'Ready to Scan'}
         </div>
-        <div className="schedule-tag">Auto · Every Sunday 09:00</div>
+        <div className="schedule-tag">Auto · 02:00 AM & Sun 09:00</div>
       </div>
     </header>
   );
