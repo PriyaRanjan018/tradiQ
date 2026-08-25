@@ -3,6 +3,8 @@ import Header from './components/Header';
 import Dashboard from './pages/Dashboard';
 import CreateAlertModal from './components/CreateAlertModal';
 import NotificationsDrawer from './components/NotificationsDrawer';
+import { API_BASE } from './config';
+
 
 const DEFAULT_FILTERS = {
   priceMin: 10,
