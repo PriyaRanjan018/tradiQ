@@ -75,46 +75,45 @@ export default function Header({ scanning, runDate, hasScanned, alertCount, onTo
       </div>
 
       <div className="header-right">
-        {/* Auto Candidate Pool Status — read-only badge (no button) */}
+        {/* Auto Candidate Pool Status — read-only premium badge */}
         <div
+          className={`pool-pill ${poolStatus.has_pool ? 'pool-pill--ready' : 'pool-pill--pending'}`}
           title={
             poolStatus.has_pool
               ? `Pool auto-updated at ${poolStatus.updated_at}. Next refresh: tonight 2:00 AM IST.`
               : 'Candidate pool is being built automatically tonight at 2:00 AM IST.'
           }
-          style={{
-            display: 'flex', alignItems: 'center', gap: '6px',
-            background: poolStatus.has_pool ? 'rgba(16, 185, 129, 0.12)' : 'rgba(245, 158, 11, 0.12)',
-            border: `1px solid ${poolStatus.has_pool ? '#10b981' : '#f59e0b'}`,
-            color: poolStatus.has_pool ? '#10b981' : '#f59e0b',
-            borderRadius: '6px', padding: '5px 10px', fontSize: '12px', fontWeight: 600,
-            cursor: 'default', userSelect: 'none',
-          }}
         >
-          <span>{poolStatus.has_pool ? '⚡' : '🌙'}</span>
-          <span>
-            {poolStatus.has_pool
-              ? `Pool · ${poolStatus.total_candidates} stocks · ${poolUpdatedLabel()}`
-              : 'Pool builds tonight 2:00 AM'}
-          </span>
+          <span className="pool-pill__dot" />
+          <span className="pool-pill__icon">{poolStatus.has_pool ? '⚡' : '🌙'}</span>
+          {poolStatus.has_pool ? (
+            <>
+              <span className="pool-pill__label">Pool</span>
+              <span className="pool-pill__sep">·</span>
+              <span className="pool-pill__count">{poolStatus.total_candidates} stocks</span>
+              <span className="pool-pill__sep">·</span>
+              <span className="pool-pill__time">{poolUpdatedLabel()}</span>
+            </>
+          ) : (
+            <span className="pool-pill__label">Builds tonight 2:00 AM</span>
+          )}
         </div>
 
         {/* Notification Bell */}
         <button
           className="nav-bell-btn"
           onClick={onToggleNotifications}
-          title="Open Notifications & Alerts"
+          title="Price Alerts & Notifications"
         >
-          <span className="bell-icon">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
-              <path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"></path>
-              <path d="M13.73 21a2 2 0 0 1-3.46 0"></path>
-            </svg>
-          </span>
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9" />
+            <path d="M13.73 21a2 2 0 0 1-3.46 0" />
+          </svg>
           {alertCount > 0 && (
-            <span className="bell-badge">{alertCount}</span>
+            <span className="bell-badge">{alertCount > 9 ? '9+' : alertCount}</span>
           )}
         </button>
+
 
         <div className={`live-badge ${scanning ? 'scanning' : hasScanned ? 'idle' : 'waiting'}`}>
           <span className="live-dot" />
