@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Node dependencies
+node_modules/
+frontend/node_modules/
+
+# Build directories
+dist/
+build/
+frontend/dist/
+
+# Local data & caches (keep initial reports if needed, ignore large temporary data)
+backend/data/prices/
+*.pkl
+.DS_Store
+*.log
