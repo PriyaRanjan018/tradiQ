@@ -465,7 +465,7 @@ input, select { font-family: inherit; }
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   gap: 14px;
-  align-items: start;
+  align-items: stretch;
 }
 
 /* ═══════════════════════════════════════════════════════════════
@@ -479,8 +479,10 @@ input, select { font-family: inherit; }
   display: flex;
   flex-direction: column;
   gap: 14px;
+  height: 100%;                /* fill the grid row */
   transition: border-color 0.2s, background 0.2s, transform 0.18s;
   cursor: default;
+  box-sizing: border-box;
 }
 .sc:hover {
   border-color: var(--border);
@@ -606,13 +608,14 @@ input, select { font-family: inherit; }
   letter-spacing: 0.02em;
 }
 
-/* Summary */
+/* Summary — grows to fill remaining space so CTA buttons always sit at the bottom */
 .sc-summary {
   font-size: 12px;
   color: var(--txt-2);
   line-height: 1.55;
   border-left: 2px solid var(--c-blue);
   padding-left: 10px;
+  flex-grow: 1;
 }
 
 /* CTA */
