@@ -111,6 +111,35 @@ export default function App() {
       const runRes = await fetch(`${API_BASE}/api/run?${params}`, { method: 'POST' });
       if (!runRes.ok) throw new Error('Backend failed to start scan');
 
+      // Fast path: candidate pool scan completes in < 1 second.
+      // Wait 1.5 s then fetch results directly. If pipeline is still running,
+      // fall back to polling every 2 s until it finishes.
+      const fetchResults = async () => {
+        const picksRes = await fetch(`${API_BASE}/api/picks/latest`);
+        if (picksRes.ok) {
+          const liveData = await picksRes.json();
+          if (Array.isArray(liveData) && liveData.length > 0) {
+            setAllPicks([...liveData]);  // spread forces React to see new reference
+            setHasScanned(true);
+            setRunDate(`Live Scan · ${new Date().toLocaleTimeString('en-IN', { hour: '2-digit', minute: '2-digit' })}`);
+          }
+        }
+        setScanning(false);
+      };
+
+      await new Promise(r => setTimeout(r, 1500));
+
+      // Check if still running; if not, grab results immediately
+      const stRes = await fetch(`${API_BASE}/api/status`);
+      if (stRes.ok) {
+        const stData = await stRes.json();
+        if (!stData.pipeline_running) {
+          await fetchResults();
+          return;
+        }
+      }
+
+      // Still running — poll every 2 s until done
       const poll = setInterval(async () => {
         try {
           const st = await fetch(`${API_BASE}/api/status`);
@@ -118,28 +147,20 @@ export default function App() {
             const data = await st.json();
             if (!data.pipeline_running) {
               clearInterval(poll);
-              const picksRes = await fetch(`${API_BASE}/api/picks/latest`);
-              if (picksRes.ok) {
-                const liveData = await picksRes.json();
-                if (Array.isArray(liveData) && liveData.length > 0) {
-                  setAllPicks(liveData);
-                  setHasScanned(true);
-                  setRunDate(`Live Scan · ${new Date().toLocaleTimeString('en-IN', { hour: '2-digit', minute: '2-digit' })}`);
-                }
-              }
-              setScanning(false);
+              await fetchResults();
             }
           }
         } catch (e) {
           clearInterval(poll);
           setScanning(false);
         }
-      }, 3000);
+      }, 2000);
     } catch (err) {
       console.error('Scan error:', err);
       setScanning(false);
     }
   };
+
 
   return (
     <div className="app-root">
