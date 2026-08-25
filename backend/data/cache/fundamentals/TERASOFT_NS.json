@@ -1,0 +1,18 @@
+{
+  "ticker": "TERASOFT.NS",
+  "company_name": "Tera Software Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "current_price": 301.5,
+  "market_cap_cr": 377.23,
+  "pe_ratio": 14.69,
+  "pb_ratio": 2.58,
+  "eps": 19.82,
+  "debt_to_equity": 0.27,
+  "roe": 15.0,
+  "revenue_growth_yoy": 52.3,
+  "earnings_growth": -0.3,
+  "profit_margins": 9.72,
+  "dividend_yield": 32.0,
+  "fetched_at": "2026-08-25T18:28:24.490838"
+}

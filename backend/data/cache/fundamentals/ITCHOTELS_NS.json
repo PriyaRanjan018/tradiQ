@@ -1,0 +1,18 @@
+{
+  "ticker": "ITCHOTELS.NS",
+  "company_name": "ITC HOTELS LIMITED",
+  "sector": "Consumer Cyclical",
+  "industry": "Resorts & Casinos",
+  "current_price": 166.24,
+  "market_cap_cr": 34627.4,
+  "pe_ratio": 40.06,
+  "pb_ratio": 2.97,
+  "eps": 4.15,
+  "debt_to_equity": 0.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": 14.8,
+  "earnings_growth": 35.9,
+  "profit_margins": 20.28,
+  "dividend_yield": 61.0,
+  "fetched_at": "2026-08-25T18:28:07.604112"
+}

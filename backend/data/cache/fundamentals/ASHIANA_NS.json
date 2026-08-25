@@ -1,0 +1,23 @@
+{
+  "ticker": "ASHIANA.NS",
+  "company_name": "Ashiana Housing Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "current_price": 365.25,
+  "market_cap_cr": 3671.67,
+  "pe_ratio": 30.77,
+  "forward_pe": 21.24,
+  "pb_ratio": 4.03,
+  "eps": 11.87,
+  "debt_to_equity": 0.35,
+  "roe": 14.33,
+  "revenue_growth_yoy": -63.3,
+  "earnings_growth": 3.8,
+  "qoq_profit_growth": -62.97,
+  "profit_margins": 12.35,
+  "gross_margins": 32.28,
+  "dividend_yield": 68.0,
+  "beta": 0.41,
+  "promoter_holding": 71.85,
+  "fetched_at": "2026-08-25T18:22:46.710343"
+}

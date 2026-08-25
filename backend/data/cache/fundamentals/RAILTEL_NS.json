@@ -1,0 +1,18 @@
+{
+  "ticker": "RAILTEL.NS",
+  "company_name": "RailTel Corporation of India Limited",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "current_price": 280.8,
+  "market_cap_cr": 9011.95,
+  "pe_ratio": 26.07,
+  "pb_ratio": 3.98,
+  "eps": 10.77,
+  "debt_to_equity": 0.03,
+  "roe": 16.25,
+  "revenue_growth_yoy": 27.6,
+  "earnings_growth": 25.2,
+  "profit_margins": 8.1,
+  "dividend_yield": 115.0,
+  "fetched_at": "2026-08-25T18:28:17.821221"
+}

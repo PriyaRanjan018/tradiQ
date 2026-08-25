@@ -1,0 +1,23 @@
+{
+  "ticker": "COHANCE.NS",
+  "company_name": "Cohance Lifesciences Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 445.4,
+  "market_cap_cr": 17040.89,
+  "pe_ratio": 155.19,
+  "forward_pe": 45.28,
+  "pb_ratio": 4.37,
+  "eps": 2.87,
+  "debt_to_equity": 0.1,
+  "roe": null,
+  "revenue_growth_yoy": -23.1,
+  "earnings_growth": -96.8,
+  "qoq_profit_growth": -223.38,
+  "profit_margins": 4.96,
+  "gross_margins": 70.36,
+  "dividend_yield": null,
+  "beta": 0.6,
+  "promoter_holding": 63.96,
+  "fetched_at": "2026-08-25T18:27:54.399902"
+}

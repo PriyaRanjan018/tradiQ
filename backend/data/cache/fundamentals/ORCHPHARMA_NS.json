@@ -1,0 +1,23 @@
+{
+  "ticker": "ORCHPHARMA.NS",
+  "company_name": "Orchid Pharma Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 1038.55,
+  "market_cap_cr": 5267.43,
+  "pe_ratio": 191.97,
+  "forward_pe": 23.98,
+  "pb_ratio": 4.09,
+  "eps": 5.41,
+  "debt_to_equity": null,
+  "roe": null,
+  "revenue_growth_yoy": -1.5,
+  "earnings_growth": null,
+  "qoq_profit_growth": 288.53,
+  "profit_margins": -29.57,
+  "gross_margins": 52.99,
+  "dividend_yield": null,
+  "beta": null,
+  "promoter_holding": 59.15,
+  "fetched_at": "2026-08-25T18:29:49.272790"
+}

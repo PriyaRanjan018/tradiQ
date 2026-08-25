@@ -1,0 +1,23 @@
+{
+  "ticker": "ANTELOPUS.NS",
+  "company_name": "ANTELOPUS SELAN ENRGY LTD",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "current_price": 786.6,
+  "market_cap_cr": 2765.87,
+  "pe_ratio": 20.92,
+  "forward_pe": null,
+  "pb_ratio": 4.22,
+  "eps": 37.6,
+  "debt_to_equity": 0.01,
+  "roe": 14.7,
+  "revenue_growth_yoy": 65.3,
+  "earnings_growth": 158.9,
+  "qoq_profit_growth": 42.65,
+  "profit_margins": 32.13,
+  "gross_margins": 82.16,
+  "dividend_yield": null,
+  "beta": null,
+  "promoter_holding": 71.9,
+  "fetched_at": "2026-08-25T18:22:03.513575"
+}

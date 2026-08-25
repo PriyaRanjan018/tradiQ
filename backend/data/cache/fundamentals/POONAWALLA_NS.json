@@ -1,0 +1,18 @@
+{
+  "ticker": "POONAWALLA.NS",
+  "company_name": "Poonawalla Fincorp Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 475.95,
+  "market_cap_cr": 41686.89,
+  "pe_ratio": 49.84,
+  "pb_ratio": 3.72,
+  "eps": 9.55,
+  "debt_to_equity": 4.68,
+  "roe": 15.0,
+  "revenue_growth_yoy": 100.3,
+  "earnings_growth": 337.0,
+  "profit_margins": 22.67,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:16.926398"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "OMNI.NS",
+  "company_name": "Omnitech Engineering Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 577.0,
+  "market_cap_cr": 7135.53,
+  "pe_ratio": 68.85,
+  "pb_ratio": 9.39,
+  "eps": 8.38,
+  "debt_to_equity": 0.64,
+  "roe": 15.0,
+  "revenue_growth_yoy": 61.5,
+  "earnings_growth": 389.8,
+  "profit_margins": 18.08,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:29:47.747879"
+}

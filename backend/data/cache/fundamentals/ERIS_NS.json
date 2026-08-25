@@ -1,0 +1,23 @@
+{
+  "ticker": "ERIS.NS",
+  "company_name": "Eris Lifesciences Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 1309.6,
+  "market_cap_cr": 18148.87,
+  "pe_ratio": 27.85,
+  "forward_pe": 22.64,
+  "pb_ratio": 4.59,
+  "eps": 46.89,
+  "debt_to_equity": 0.61,
+  "roe": null,
+  "revenue_growth_yoy": 12.6,
+  "earnings_growth": 18.8,
+  "qoq_profit_growth": -49.44,
+  "profit_margins": 20.04,
+  "gross_margins": 73.53,
+  "dividend_yield": 109.0,
+  "beta": -0.04,
+  "promoter_holding": 69.92,
+  "fetched_at": "2026-08-25T18:28:53.816234"
+}

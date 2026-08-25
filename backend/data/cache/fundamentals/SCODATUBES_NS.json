@@ -1,0 +1,18 @@
+{
+  "ticker": "SCODATUBES.NS",
+  "company_name": "Scoda Tubes Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 129.87,
+  "market_cap_cr": 778.04,
+  "pe_ratio": 21.05,
+  "pb_ratio": 2.06,
+  "eps": 6.17,
+  "debt_to_equity": 0.48,
+  "roe": 15.0,
+  "revenue_growth_yoy": 27.6,
+  "earnings_growth": -38.9,
+  "profit_margins": 6.78,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:20.645960"
+}

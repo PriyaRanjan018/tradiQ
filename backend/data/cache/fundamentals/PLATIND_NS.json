@@ -1,0 +1,18 @@
+{
+  "ticker": "PLATIND.NS",
+  "company_name": "Platinum Industries Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 212.74,
+  "market_cap_cr": 1168.47,
+  "pe_ratio": 22.68,
+  "pb_ratio": 2.63,
+  "eps": 9.38,
+  "debt_to_equity": 0.02,
+  "roe": 15.0,
+  "revenue_growth_yoy": -5.6,
+  "earnings_growth": -12.5,
+  "profit_margins": 11.35,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:16.772309"
+}

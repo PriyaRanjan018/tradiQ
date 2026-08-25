@@ -1,0 +1,23 @@
+{
+  "ticker": "DIAMONDYD.NS",
+  "company_name": "Prataap Snacks Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "current_price": 1165.2,
+  "market_cap_cr": 2788.32,
+  "pe_ratio": 240.74,
+  "forward_pe": 43.4,
+  "pb_ratio": 3.95,
+  "eps": 4.84,
+  "debt_to_equity": 0.06,
+  "roe": 1.4,
+  "revenue_growth_yoy": 4.9,
+  "earnings_growth": null,
+  "qoq_profit_growth": -65.0,
+  "profit_margins": 0.56,
+  "gross_margins": 28.83,
+  "dividend_yield": 4.0,
+  "beta": 0.08,
+  "promoter_holding": 26.42,
+  "fetched_at": "2026-08-25T18:28:25.225616"
+}

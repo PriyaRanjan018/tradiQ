@@ -1,0 +1,23 @@
+{
+  "ticker": "ADSL.NS",
+  "company_name": "Allied Digital Services Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "current_price": 108.51,
+  "market_cap_cr": 614.72,
+  "pe_ratio": 17.56,
+  "forward_pe": 10.53,
+  "pb_ratio": 1.0,
+  "eps": 6.18,
+  "debt_to_equity": 0.2,
+  "roe": null,
+  "revenue_growth_yoy": 18.9,
+  "earnings_growth": -4.8,
+  "qoq_profit_growth": -124.44,
+  "profit_margins": 2.56,
+  "gross_margins": 18.43,
+  "dividend_yield": 139.0,
+  "beta": 0.71,
+  "promoter_holding": 55.27,
+  "fetched_at": "2026-08-25T18:20:32.289840"
+}

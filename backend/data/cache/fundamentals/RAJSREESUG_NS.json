@@ -1,0 +1,18 @@
+{
+  "ticker": "RAJSREESUG.NS",
+  "company_name": "Rajshree Sugars & Chemicals Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Confectioners",
+  "current_price": 38.09,
+  "market_cap_cr": 126.21,
+  "pe_ratio": null,
+  "pb_ratio": 0.48,
+  "eps": -2.39,
+  "debt_to_equity": 1.26,
+  "roe": 15.0,
+  "revenue_growth_yoy": 8.7,
+  "earnings_growth": 12.0,
+  "profit_margins": -1.45,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:17.904626"
+}

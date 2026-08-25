@@ -1,0 +1,18 @@
+{
+  "ticker": "SMSPHARMA.NS",
+  "company_name": "SMS Pharmaceuticals Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "current_price": 356.75,
+  "market_cap_cr": 3341.04,
+  "pe_ratio": 32.2,
+  "pb_ratio": 4.25,
+  "eps": 11.08,
+  "debt_to_equity": 0.46,
+  "roe": 15.0,
+  "revenue_growth_yoy": 5.6,
+  "earnings_growth": -3.5,
+  "profit_margins": 11.41,
+  "dividend_yield": 11.0,
+  "fetched_at": "2026-08-25T18:28:22.073750"
+}

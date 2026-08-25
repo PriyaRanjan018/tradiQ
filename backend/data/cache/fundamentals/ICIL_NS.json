@@ -1,0 +1,18 @@
+{
+  "ticker": "ICIL.NS",
+  "company_name": "Indo Count Industries Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "current_price": 422.5,
+  "market_cap_cr": 8367.8,
+  "pe_ratio": 53.82,
+  "pb_ratio": 3.55,
+  "eps": 7.85,
+  "debt_to_equity": 0.57,
+  "roe": 15.0,
+  "revenue_growth_yoy": 25.9,
+  "earnings_growth": 67.0,
+  "profit_margins": 3.44,
+  "dividend_yield": 35.0,
+  "fetched_at": "2026-08-25T18:28:05.833839"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "UBL.NS",
+  "company_name": "United Breweries Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Brewers",
+  "current_price": 1348.6,
+  "market_cap_cr": 35657.68,
+  "pe_ratio": 90.21,
+  "pb_ratio": 7.88,
+  "eps": 14.95,
+  "debt_to_equity": 0.29,
+  "roe": 15.0,
+  "revenue_growth_yoy": 7.1,
+  "earnings_growth": -9.5,
+  "profit_margins": 4.19,
+  "dividend_yield": 74.0,
+  "fetched_at": "2026-08-25T18:29:53.150439"
+}

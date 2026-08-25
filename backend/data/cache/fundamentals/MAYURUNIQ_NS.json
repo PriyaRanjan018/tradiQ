@@ -1,0 +1,18 @@
+{
+  "ticker": "MAYURUNIQ.NS",
+  "company_name": "Mayur Uniquoters Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "current_price": 745.4,
+  "market_cap_cr": 3238.96,
+  "pe_ratio": 15.63,
+  "pb_ratio": 2.86,
+  "eps": 47.7,
+  "debt_to_equity": 0.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": 24.7,
+  "earnings_growth": 37.9,
+  "profit_margins": 20.3,
+  "dividend_yield": 78.0,
+  "fetched_at": "2026-08-25T18:29:46.626122"
+}

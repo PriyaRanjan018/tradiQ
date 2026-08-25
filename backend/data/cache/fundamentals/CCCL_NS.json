@@ -1,0 +1,23 @@
+{
+  "ticker": "CCCL.NS",
+  "company_name": "Consolidated Construction Consortium Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "current_price": 15.04,
+  "market_cap_cr": 671.93,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "pb_ratio": 2.41,
+  "eps": -0.09,
+  "debt_to_equity": 0.0,
+  "roe": null,
+  "revenue_growth_yoy": 134.4,
+  "earnings_growth": null,
+  "qoq_profit_growth": -174.31,
+  "profit_margins": -1.21,
+  "gross_margins": 13.32,
+  "dividend_yield": null,
+  "beta": 6.5,
+  "promoter_holding": 66.46,
+  "fetched_at": "2026-08-25T18:26:29.691073"
+}

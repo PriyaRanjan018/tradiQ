@@ -1,0 +1,18 @@
+{
+  "ticker": "KIRLPNU.NS",
+  "company_name": "Kirloskar Pneumatic Company Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 721.9,
+  "market_cap_cr": 9379.39,
+  "pe_ratio": 34.81,
+  "pb_ratio": 7.51,
+  "eps": 20.74,
+  "debt_to_equity": 0.0,
+  "roe": 15.0,
+  "revenue_growth_yoy": 7.6,
+  "earnings_growth": 32.5,
+  "profit_margins": 14.54,
+  "dividend_yield": 82.0,
+  "fetched_at": "2026-08-25T18:29:45.222196"
+}

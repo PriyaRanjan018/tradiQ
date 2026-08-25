@@ -1,0 +1,18 @@
+{
+  "ticker": "GODAVARIB.NS",
+  "company_name": "GODAVARI BIOREFINERIES L",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "current_price": 241.2,
+  "market_cap_cr": 1234.36,
+  "pe_ratio": 4824.0,
+  "pb_ratio": 1.57,
+  "eps": 0.05,
+  "debt_to_equity": 0.67,
+  "roe": 15.0,
+  "revenue_growth_yoy": 4.6,
+  "earnings_growth": 12.0,
+  "profit_margins": 0.01,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:03.908182"
+}

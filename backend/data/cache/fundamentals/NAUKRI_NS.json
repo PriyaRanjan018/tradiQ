@@ -1,0 +1,18 @@
+{
+  "ticker": "NAUKRI.NS",
+  "company_name": "Info Edge (India) Limited",
+  "sector": "Communication Services",
+  "industry": "Internet Content & Information",
+  "current_price": 1350.0,
+  "market_cap_cr": 87444.57,
+  "pe_ratio": 54.63,
+  "pb_ratio": 2.31,
+  "eps": 24.71,
+  "debt_to_equity": 0.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": 11.4,
+  "earnings_growth": 50.7,
+  "profit_margins": 47.4,
+  "dividend_yield": 107.0,
+  "fetched_at": "2026-08-25T18:29:47.013617"
+}

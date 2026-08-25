@@ -1,0 +1,23 @@
+{
+  "ticker": "EMUDHRA.NS",
+  "company_name": "eMudhra Limited",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "current_price": 543.5,
+  "market_cap_cr": 4459.07,
+  "pe_ratio": 39.1,
+  "forward_pe": 25.64,
+  "pb_ratio": 4.89,
+  "eps": 13.9,
+  "debt_to_equity": 0.03,
+  "roe": null,
+  "revenue_growth_yoy": 29.5,
+  "earnings_growth": 29.3,
+  "qoq_profit_growth": 10.99,
+  "profit_margins": 15.44,
+  "gross_margins": 33.76,
+  "dividend_yield": 23.0,
+  "beta": 0.15,
+  "promoter_holding": 67.61,
+  "fetched_at": "2026-08-25T18:28:49.466121"
+}

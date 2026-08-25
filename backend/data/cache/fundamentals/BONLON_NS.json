@@ -1,0 +1,23 @@
+{
+  "ticker": "BONLON.NS",
+  "company_name": "Bonlon Industries Limited",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "current_price": 40.06,
+  "market_cap_cr": 65.63,
+  "pe_ratio": 22.26,
+  "forward_pe": null,
+  "pb_ratio": 0.57,
+  "eps": 1.8,
+  "debt_to_equity": 0.38,
+  "roe": 2.9,
+  "revenue_growth_yoy": -31.1,
+  "earnings_growth": 81.4,
+  "qoq_profit_growth": 69.62,
+  "profit_margins": 0.4,
+  "gross_margins": 2.86,
+  "dividend_yield": null,
+  "beta": 0.11,
+  "promoter_holding": 79.04,
+  "fetched_at": "2026-08-25T18:25:18.215177"
+}

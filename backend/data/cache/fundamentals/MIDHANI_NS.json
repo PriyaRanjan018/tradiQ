@@ -1,0 +1,18 @@
+{
+  "ticker": "MIDHANI.NS",
+  "company_name": "Mishra Dhatu Nigam Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 414.4,
+  "market_cap_cr": 7763.37,
+  "pe_ratio": 58.28,
+  "pb_ratio": 5.07,
+  "eps": 7.11,
+  "debt_to_equity": 0.27,
+  "roe": 15.0,
+  "revenue_growth_yoy": 40.5,
+  "earnings_growth": 27.5,
+  "profit_margins": 10.56,
+  "dividend_yield": 38.0,
+  "fetched_at": "2026-08-25T18:28:12.453064"
+}

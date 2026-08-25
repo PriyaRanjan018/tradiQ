@@ -1,0 +1,18 @@
+{
+  "ticker": "ISGEC.NS",
+  "company_name": "Isgec Heavy Engineering Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 764.05,
+  "market_cap_cr": 5618.02,
+  "pe_ratio": 48.76,
+  "pb_ratio": 2.05,
+  "eps": 15.67,
+  "debt_to_equity": 0.33,
+  "roe": 15.0,
+  "revenue_growth_yoy": 47.7,
+  "earnings_growth": -82.8,
+  "profit_margins": 1.5,
+  "dividend_yield": 77.0,
+  "fetched_at": "2026-08-25T18:29:44.080550"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "TARSONS.NS",
+  "company_name": "Tarsons Products Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "current_price": 345.5,
+  "market_cap_cr": 1838.28,
+  "pe_ratio": 166.91,
+  "pb_ratio": 2.88,
+  "eps": 2.07,
+  "debt_to_equity": 0.62,
+  "roe": 15.0,
+  "revenue_growth_yoy": 20.7,
+  "earnings_growth": 12.0,
+  "profit_margins": 2.51,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:24.447505"
+}

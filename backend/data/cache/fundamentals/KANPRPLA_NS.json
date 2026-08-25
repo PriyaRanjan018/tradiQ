@@ -1,0 +1,18 @@
+{
+  "ticker": "KANPRPLA.NS",
+  "company_name": "Kanpur Plastipack Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "current_price": 277.19,
+  "market_cap_cr": 678.53,
+  "pe_ratio": 14.7,
+  "pb_ratio": 2.53,
+  "eps": 18.86,
+  "debt_to_equity": 0.42,
+  "roe": 15.0,
+  "revenue_growth_yoy": 13.8,
+  "earnings_growth": 112.3,
+  "profit_margins": 6.09,
+  "dividend_yield": 43.0,
+  "fetched_at": "2026-08-25T18:28:08.923993"
+}

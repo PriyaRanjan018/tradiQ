@@ -1,0 +1,18 @@
+{
+  "ticker": "SUNTV.NS",
+  "company_name": "Sun TV Network Limited",
+  "sector": "Communication Services",
+  "industry": "Broadcasting",
+  "current_price": 468.9,
+  "market_cap_cr": 18478.63,
+  "pe_ratio": 12.15,
+  "pb_ratio": 1.46,
+  "eps": 38.86,
+  "debt_to_equity": 0.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": 13.0,
+  "earnings_growth": 17.0,
+  "profit_margins": 33.97,
+  "dividend_yield": 427.0,
+  "fetched_at": "2026-08-25T18:28:23.436845"
+}

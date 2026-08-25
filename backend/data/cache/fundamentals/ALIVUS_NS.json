@@ -1,0 +1,23 @@
+{
+  "ticker": "ALIVUS.NS",
+  "company_name": "Alivus Life Sciences Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 1348.4,
+  "market_cap_cr": 16554.5,
+  "pe_ratio": 27.5,
+  "forward_pe": 22.0,
+  "pb_ratio": 4.98,
+  "eps": 48.5,
+  "debt_to_equity": 0.02,
+  "roe": null,
+  "revenue_growth_yoy": 6.4,
+  "earnings_growth": 31.7,
+  "qoq_profit_growth": -1.59,
+  "profit_margins": 23.28,
+  "gross_margins": 59.42,
+  "dividend_yield": 37.0,
+  "beta": 0.05,
+  "promoter_holding": 76.08,
+  "fetched_at": "2026-08-25T18:21:22.557647"
+}

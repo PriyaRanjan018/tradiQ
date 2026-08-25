@@ -1,0 +1,18 @@
+{
+  "ticker": "SUYOG.NS",
+  "company_name": "Suyog Telematics Limited",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "current_price": 742.2,
+  "market_cap_cr": 869.64,
+  "pe_ratio": 15.0,
+  "pb_ratio": 1.78,
+  "eps": 49.48,
+  "debt_to_equity": 0.76,
+  "roe": 15.0,
+  "revenue_growth_yoy": 30.0,
+  "earnings_growth": -19.0,
+  "profit_margins": 26.66,
+  "dividend_yield": 13.0,
+  "fetched_at": "2026-08-25T18:29:51.866792"
+}

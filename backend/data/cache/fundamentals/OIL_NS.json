@@ -1,0 +1,18 @@
+{
+  "ticker": "OIL.NS",
+  "company_name": "Oil India Limited",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "current_price": 467.5,
+  "market_cap_cr": 76043.91,
+  "pe_ratio": 9.1,
+  "pb_ratio": 1.31,
+  "eps": 51.56,
+  "debt_to_equity": 0.59,
+  "roe": 15.0,
+  "revenue_growth_yoy": 57.7,
+  "earnings_growth": 91.4,
+  "profit_margins": 21.68,
+  "dividend_yield": 273.0,
+  "fetched_at": "2026-08-25T18:28:15.090899"
+}

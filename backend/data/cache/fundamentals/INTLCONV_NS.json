@@ -1,0 +1,18 @@
+{
+  "ticker": "INTLCONV.NS",
+  "company_name": "International Conveyors Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 75.42,
+  "market_cap_cr": 481.04,
+  "pe_ratio": 3.51,
+  "pb_ratio": 1.13,
+  "eps": 21.49,
+  "debt_to_equity": 0.17,
+  "roe": 15.0,
+  "revenue_growth_yoy": -0.4,
+  "earnings_growth": 127.9,
+  "profit_margins": 63.91,
+  "dividend_yield": 65.0,
+  "fetched_at": "2026-08-25T18:28:06.954952"
+}

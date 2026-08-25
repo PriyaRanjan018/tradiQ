@@ -1,0 +1,23 @@
+{
+  "ticker": "BBTC.NS",
+  "company_name": "The Bombay Burmah Trading Corporation Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "current_price": 1422.4,
+  "market_cap_cr": 9924.36,
+  "pe_ratio": 7.67,
+  "forward_pe": 3.81,
+  "pb_ratio": 1.41,
+  "eps": 185.56,
+  "debt_to_equity": 0.17,
+  "roe": null,
+  "revenue_growth_yoy": 7.8,
+  "earnings_growth": 19.7,
+  "qoq_profit_growth": 40.35,
+  "profit_margins": 6.38,
+  "gross_margins": 42.67,
+  "dividend_yield": 239.0,
+  "beta": 0.61,
+  "promoter_holding": 75.24,
+  "fetched_at": "2026-08-25T18:24:17.116827"
+}

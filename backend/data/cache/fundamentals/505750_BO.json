@@ -1,0 +1,18 @@
+{
+  "ticker": "505750.BO",
+  "company_name": "Jost's Engineering Company Limited",
+  "sector": "Industrials",
+  "industry": "General",
+  "current_price": 914.55,
+  "market_cap_cr": 912.6,
+  "pe_ratio": 59.74,
+  "pb_ratio": 13.59,
+  "eps": null,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 15.0,
+  "earnings_growth": 12.0,
+  "profit_margins": 10.0,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T19:24:59.373470"
+}

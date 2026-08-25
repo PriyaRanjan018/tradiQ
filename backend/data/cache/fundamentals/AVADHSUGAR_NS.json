@@ -1,0 +1,23 @@
+{
+  "ticker": "AVADHSUGAR.NS",
+  "company_name": "Avadh Sugar & Energy Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Confectioners",
+  "current_price": 806.15,
+  "market_cap_cr": 1613.78,
+  "pe_ratio": 24.46,
+  "forward_pe": null,
+  "pb_ratio": 1.44,
+  "eps": 32.96,
+  "debt_to_equity": 1.25,
+  "roe": null,
+  "revenue_growth_yoy": 8.7,
+  "earnings_growth": null,
+  "qoq_profit_growth": 233.07,
+  "profit_margins": 2.39,
+  "gross_margins": 18.51,
+  "dividend_yield": 120.0,
+  "beta": -0.05,
+  "promoter_holding": 71.4,
+  "fetched_at": "2026-08-25T18:23:25.050740"
+}

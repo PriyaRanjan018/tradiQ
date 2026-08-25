@@ -1,0 +1,23 @@
+{
+  "ticker": "ABCOTS.NS",
+  "company_name": "A B Cotspin India Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "current_price": 204.6,
+  "market_cap_cr": 449.38,
+  "pe_ratio": 31.92,
+  "forward_pe": null,
+  "pb_ratio": 2.93,
+  "eps": 6.37,
+  "debt_to_equity": 0.96,
+  "roe": null,
+  "revenue_growth_yoy": 51.4,
+  "earnings_growth": 21.5,
+  "qoq_profit_growth": -40.23,
+  "profit_margins": 4.19,
+  "gross_margins": 25.44,
+  "dividend_yield": null,
+  "beta": -0.66,
+  "promoter_holding": 90.9,
+  "fetched_at": "2026-08-25T18:17:38.639396"
+}

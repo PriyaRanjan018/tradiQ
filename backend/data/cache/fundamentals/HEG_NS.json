@@ -1,0 +1,18 @@
+{
+  "ticker": "HEG.NS",
+  "company_name": "HEG Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "current_price": 721.55,
+  "market_cap_cr": 13924.29,
+  "pe_ratio": 38.69,
+  "pb_ratio": 2.93,
+  "eps": 18.65,
+  "debt_to_equity": 0.17,
+  "roe": 15.0,
+  "revenue_growth_yoy": 10.4,
+  "earnings_growth": 16.8,
+  "profit_margins": 13.61,
+  "dividend_yield": 47.0,
+  "fetched_at": "2026-08-25T18:29:42.867263"
+}

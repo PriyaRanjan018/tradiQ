@@ -1,0 +1,18 @@
+{
+  "ticker": "DELTACORP.NS",
+  "company_name": "Delta Corp Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Resorts & Casinos",
+  "current_price": 61.52,
+  "market_cap_cr": 1647.33,
+  "pe_ratio": null,
+  "pb_ratio": 0.74,
+  "eps": -5.84,
+  "debt_to_equity": 0.02,
+  "roe": 15.0,
+  "revenue_growth_yoy": -8.5,
+  "earnings_growth": 12.0,
+  "profit_margins": -23.27,
+  "dividend_yield": 85.0,
+  "fetched_at": "2026-08-25T18:28:00.042391"
+}

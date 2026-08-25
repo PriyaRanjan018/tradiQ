@@ -1,0 +1,18 @@
+{
+  "ticker": "TIMEX.NS",
+  "company_name": "Timex Group India Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "current_price": 617.65,
+  "market_cap_cr": 6235.18,
+  "pe_ratio": 73.62,
+  "pb_ratio": 82.71,
+  "eps": 8.39,
+  "debt_to_equity": 0.32,
+  "roe": 15.0,
+  "revenue_growth_yoy": 29.6,
+  "earnings_growth": 83.5,
+  "profit_margins": 10.11,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:29:52.920644"
+}

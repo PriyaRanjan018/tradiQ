@@ -1,0 +1,23 @@
+{
+  "ticker": "CANBK.NS",
+  "company_name": "Canara Bank",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "current_price": 128.81,
+  "market_cap_cr": 116839.06,
+  "pe_ratio": 5.88,
+  "forward_pe": 5.53,
+  "pb_ratio": 0.99,
+  "eps": 21.9,
+  "debt_to_equity": null,
+  "roe": null,
+  "revenue_growth_yoy": -12.9,
+  "earnings_growth": 62.2,
+  "qoq_profit_growth": 13.26,
+  "profit_margins": 43.13,
+  "gross_margins": null,
+  "dividend_yield": 330.0,
+  "beta": 0.5,
+  "promoter_holding": 64.36,
+  "fetched_at": "2026-08-25T18:26:03.251355"
+}

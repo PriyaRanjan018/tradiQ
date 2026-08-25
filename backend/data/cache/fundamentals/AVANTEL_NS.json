@@ -1,0 +1,23 @@
+{
+  "ticker": "AVANTEL.NS",
+  "company_name": "Avantel Limited",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "current_price": 157.78,
+  "market_cap_cr": 4192.39,
+  "pe_ratio": 366.93,
+  "forward_pe": null,
+  "pb_ratio": 12.4,
+  "eps": 0.43,
+  "debt_to_equity": 0.1,
+  "roe": null,
+  "revenue_growth_yoy": 35.7,
+  "earnings_growth": 66.7,
+  "qoq_profit_growth": 12.98,
+  "profit_margins": 7.11,
+  "gross_margins": 58.69,
+  "dividend_yield": 13.0,
+  "beta": 0.14,
+  "promoter_holding": 45.25,
+  "fetched_at": "2026-08-25T18:23:18.615236"
+}

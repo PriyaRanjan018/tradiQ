@@ -1,0 +1,23 @@
+{
+  "ticker": "DLF.NS",
+  "company_name": "DLF Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "current_price": 682.95,
+  "market_cap_cr": 169051.41,
+  "pe_ratio": 37.98,
+  "forward_pe": 26.79,
+  "pb_ratio": 3.72,
+  "eps": 17.98,
+  "debt_to_equity": 0.01,
+  "roe": 10.1,
+  "revenue_growth_yoy": -52.9,
+  "earnings_growth": 4.2,
+  "qoq_profit_growth": -37.42,
+  "profit_margins": 65.79,
+  "gross_margins": 46.51,
+  "dividend_yield": 116.0,
+  "beta": 0.39,
+  "promoter_holding": 74.14,
+  "fetched_at": "2026-08-25T18:28:29.478803"
+}

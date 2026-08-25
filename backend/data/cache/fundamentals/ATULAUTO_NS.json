@@ -1,0 +1,23 @@
+{
+  "ticker": "ATULAUTO.NS",
+  "company_name": "Atul Auto Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "current_price": 485.95,
+  "market_cap_cr": 1348.57,
+  "pe_ratio": 28.65,
+  "forward_pe": null,
+  "pb_ratio": 5.89,
+  "eps": 16.96,
+  "debt_to_equity": null,
+  "roe": null,
+  "revenue_growth_yoy": 25.3,
+  "earnings_growth": 56.1,
+  "qoq_profit_growth": -3.65,
+  "profit_margins": 8.08,
+  "gross_margins": 26.93,
+  "dividend_yield": null,
+  "beta": 0.62,
+  "promoter_holding": 62.02,
+  "fetched_at": "2026-08-25T18:23:10.623483"
+}

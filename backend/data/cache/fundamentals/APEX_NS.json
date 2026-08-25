@@ -1,0 +1,23 @@
+{
+  "ticker": "APEX.NS",
+  "company_name": "Apex Frozen Foods Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Farm Products",
+  "current_price": 389.1,
+  "market_cap_cr": 1215.94,
+  "pe_ratio": 23.62,
+  "forward_pe": 22.62,
+  "pb_ratio": 2.3,
+  "eps": 16.47,
+  "debt_to_equity": 0.08,
+  "roe": null,
+  "revenue_growth_yoy": 14.5,
+  "earnings_growth": null,
+  "qoq_profit_growth": -22.83,
+  "profit_margins": 3.45,
+  "gross_margins": 35.23,
+  "dividend_yield": 52.0,
+  "beta": -0.1,
+  "promoter_holding": 76.79,
+  "fetched_at": "2026-08-25T18:22:13.311682"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "BANSWRAS.NS",
+  "company_name": "Banswara Syntex Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "current_price": 119.58,
+  "market_cap_cr": 409.35,
+  "pe_ratio": 10.97,
+  "forward_pe": null,
+  "pb_ratio": 0.7,
+  "eps": 10.9,
+  "debt_to_equity": 0.9,
+  "roe": null,
+  "revenue_growth_yoy": 0.3,
+  "earnings_growth": 38.2,
+  "qoq_profit_growth": -59.85,
+  "profit_margins": 1.92,
+  "gross_margins": 56.54,
+  "dividend_yield": 99.0,
+  "beta": -0.09,
+  "promoter_holding": 67.95,
+  "fetched_at": "2026-08-25T18:24:10.287926"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "BALAJEE.NS",
+  "company_name": "Shree Tirupati Balajee Agro Trading Company Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "current_price": 26.4,
+  "market_cap_cr": 215.35,
+  "pe_ratio": 23.16,
+  "forward_pe": null,
+  "pb_ratio": 0.71,
+  "eps": 1.14,
+  "debt_to_equity": 0.66,
+  "roe": null,
+  "revenue_growth_yoy": 11.3,
+  "earnings_growth": -34.9,
+  "qoq_profit_growth": 2883.55,
+  "profit_margins": 1.57,
+  "gross_margins": 33.68,
+  "dividend_yield": null,
+  "beta": null,
+  "promoter_holding": 70.74,
+  "fetched_at": "2026-08-25T18:23:48.913921"
+}

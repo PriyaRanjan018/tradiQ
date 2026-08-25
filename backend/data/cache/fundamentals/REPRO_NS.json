@@ -1,0 +1,18 @@
+{
+  "ticker": "REPRO.NS",
+  "company_name": "Repro India Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "current_price": 310.3,
+  "market_cap_cr": 445.14,
+  "pe_ratio": 4.56,
+  "pb_ratio": 1.27,
+  "eps": 68.04,
+  "debt_to_equity": 0.53,
+  "roe": 15.0,
+  "revenue_growth_yoy": 20.1,
+  "earnings_growth": 12.0,
+  "profit_margins": 18.94,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:18.671314"
+}

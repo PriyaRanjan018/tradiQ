@@ -1,0 +1,18 @@
+{
+  "ticker": "SWARAJ.NS",
+  "company_name": "Swaraj Suiting Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "current_price": 377.1,
+  "market_cap_cr": 830.31,
+  "pe_ratio": 16.31,
+  "pb_ratio": 2.49,
+  "eps": 23.12,
+  "debt_to_equity": 0.96,
+  "roe": 15.0,
+  "revenue_growth_yoy": 138.8,
+  "earnings_growth": 46.1,
+  "profit_margins": 8.95,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:23.850976"
+}

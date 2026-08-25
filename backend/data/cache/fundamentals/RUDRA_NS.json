@@ -1,0 +1,18 @@
+{
+  "ticker": "RUDRA.NS",
+  "company_name": "Rudra Global Infra Products Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 21.16,
+  "market_cap_cr": 212.33,
+  "pe_ratio": 16.03,
+  "pb_ratio": 1.59,
+  "eps": 1.32,
+  "debt_to_equity": 0.97,
+  "roe": 15.0,
+  "revenue_growth_yoy": 6.7,
+  "earnings_growth": -7.7,
+  "profit_margins": 2.09,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:19.463865"
+}

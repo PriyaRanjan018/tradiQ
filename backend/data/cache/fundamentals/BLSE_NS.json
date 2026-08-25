@@ -1,0 +1,23 @@
+{
+  "ticker": "BLSE.NS",
+  "company_name": "BLS E-Services Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "current_price": 312.1,
+  "market_cap_cr": 2829.31,
+  "pe_ratio": 47.94,
+  "forward_pe": null,
+  "pb_ratio": 5.44,
+  "eps": 6.51,
+  "debt_to_equity": 0.01,
+  "roe": null,
+  "revenue_growth_yoy": 24.6,
+  "earnings_growth": 3.7,
+  "qoq_profit_growth": 16.52,
+  "profit_margins": 4.93,
+  "gross_margins": 8.33,
+  "dividend_yield": 32.0,
+  "beta": -0.07,
+  "promoter_holding": 79.07,
+  "fetched_at": "2026-08-25T18:25:08.122523"
+}

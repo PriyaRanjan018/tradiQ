@@ -1,0 +1,23 @@
+{
+  "ticker": "AAVAS.NS",
+  "company_name": "Aavas Financiers Limited",
+  "sector": "Financial Services",
+  "industry": "Mortgage Finance",
+  "current_price": 1313.2,
+  "market_cap_cr": 10412.37,
+  "pe_ratio": 15.02,
+  "forward_pe": 11.43,
+  "pb_ratio": 2.06,
+  "eps": 87.42,
+  "debt_to_equity": 3.11,
+  "roe": null,
+  "revenue_growth_yoy": 16.9,
+  "earnings_growth": 23.3,
+  "qoq_profit_growth": -5.72,
+  "profit_margins": 42.54,
+  "gross_margins": 99.34,
+  "dividend_yield": null,
+  "beta": 0.54,
+  "promoter_holding": 50.77,
+  "fetched_at": "2026-08-25T18:17:30.908594"
+}

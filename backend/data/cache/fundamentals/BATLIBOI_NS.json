@@ -1,0 +1,23 @@
+{
+  "ticker": "BATLIBOI.NS",
+  "company_name": "Batliboi Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 86.13,
+  "market_cap_cr": 406.76,
+  "pe_ratio": 44.4,
+  "forward_pe": null,
+  "pb_ratio": 1.76,
+  "eps": 1.94,
+  "debt_to_equity": 0.37,
+  "roe": null,
+  "revenue_growth_yoy": 80.2,
+  "earnings_growth": null,
+  "qoq_profit_growth": 303.95,
+  "profit_margins": 1.88,
+  "gross_margins": 35.34,
+  "dividend_yield": 68.0,
+  "beta": 1.2,
+  "promoter_holding": 74.22,
+  "fetched_at": "2026-08-25T18:24:11.599920"
+}

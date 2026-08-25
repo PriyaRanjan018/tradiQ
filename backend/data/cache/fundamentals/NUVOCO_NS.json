@@ -1,0 +1,18 @@
+{
+  "ticker": "NUVOCO.NS",
+  "company_name": "Nuvoco Vistas Corporation Limited",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "current_price": 321.35,
+  "market_cap_cr": 11477.21,
+  "pe_ratio": 29.62,
+  "pb_ratio": 1.12,
+  "eps": 10.85,
+  "debt_to_equity": 0.48,
+  "roe": 15.0,
+  "revenue_growth_yoy": 8.9,
+  "earnings_growth": 19.8,
+  "profit_margins": 3.33,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:14.837563"
+}

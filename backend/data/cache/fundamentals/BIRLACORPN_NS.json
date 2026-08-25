@@ -1,0 +1,23 @@
+{
+  "ticker": "BIRLACORPN.NS",
+  "company_name": "Birla Corporation Limited",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "current_price": 880.1,
+  "market_cap_cr": 6777.24,
+  "pe_ratio": 12.23,
+  "forward_pe": 11.3,
+  "pb_ratio": 0.92,
+  "eps": 71.94,
+  "debt_to_equity": 0.46,
+  "roe": null,
+  "revenue_growth_yoy": 7.8,
+  "earnings_growth": 48.7,
+  "qoq_profit_growth": -60.74,
+  "profit_margins": 5.62,
+  "gross_margins": 82.08,
+  "dividend_yield": 141.0,
+  "beta": 0.47,
+  "promoter_holding": 64.34,
+  "fetched_at": "2026-08-25T18:24:56.310760"
+}

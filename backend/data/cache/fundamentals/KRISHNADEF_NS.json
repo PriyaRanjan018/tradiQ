@@ -1,0 +1,18 @@
+{
+  "ticker": "KRISHNADEF.NS",
+  "company_name": "KRISHNA DEF AND ALD IND L",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 1030.6,
+  "market_cap_cr": 1539.03,
+  "pe_ratio": 36.49,
+  "pb_ratio": 7.95,
+  "eps": 28.24,
+  "debt_to_equity": 0.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": -15.2,
+  "earnings_growth": 22.6,
+  "profit_margins": 18.46,
+  "dividend_yield": 12.0,
+  "fetched_at": "2026-08-25T18:29:45.221577"
+}

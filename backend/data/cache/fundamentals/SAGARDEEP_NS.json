@@ -1,0 +1,18 @@
+{
+  "ticker": "SAGARDEEP.NS",
+  "company_name": "Sagardeep Alloys Limited",
+  "sector": "Basic Materials",
+  "industry": "Copper",
+  "current_price": 23.66,
+  "market_cap_cr": 40.36,
+  "pe_ratio": 18.63,
+  "pb_ratio": 1.17,
+  "eps": 1.27,
+  "debt_to_equity": 0.26,
+  "roe": 15.0,
+  "revenue_growth_yoy": 61.5,
+  "earnings_growth": 114.3,
+  "profit_margins": 1.54,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:19.783768"
+}

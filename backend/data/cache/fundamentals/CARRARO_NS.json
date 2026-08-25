@@ -1,0 +1,23 @@
+{
+  "ticker": "CARRARO.NS",
+  "company_name": "Carraro India Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 532.15,
+  "market_cap_cr": 3025.35,
+  "pe_ratio": 22.78,
+  "forward_pe": null,
+  "pb_ratio": 5.36,
+  "eps": 23.36,
+  "debt_to_equity": 0.27,
+  "roe": null,
+  "revenue_growth_yoy": 10.5,
+  "earnings_growth": 7.8,
+  "qoq_profit_growth": 48.53,
+  "profit_margins": 5.76,
+  "gross_margins": 26.23,
+  "dividend_yield": 126.0,
+  "beta": null,
+  "promoter_holding": 68.77,
+  "fetched_at": "2026-08-25T18:26:22.573989"
+}

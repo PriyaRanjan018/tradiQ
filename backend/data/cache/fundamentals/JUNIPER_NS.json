@@ -1,0 +1,18 @@
+{
+  "ticker": "JUNIPER.NS",
+  "company_name": "Juniper Hotels Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "current_price": 211.67,
+  "market_cap_cr": 4709.71,
+  "pe_ratio": 28.3,
+  "pb_ratio": 1.64,
+  "eps": 7.48,
+  "debt_to_equity": 0.42,
+  "roe": 15.0,
+  "revenue_growth_yoy": 13.0,
+  "earnings_growth": 272.5,
+  "profit_margins": 15.41,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:08.793960"
+}

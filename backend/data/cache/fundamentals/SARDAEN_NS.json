@@ -1,0 +1,18 @@
+{
+  "ticker": "SARDAEN.NS",
+  "company_name": "Sarda Energy & Minerals Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 506.5,
+  "market_cap_cr": 17848.11,
+  "pe_ratio": 15.7,
+  "pb_ratio": 2.42,
+  "eps": 32.27,
+  "debt_to_equity": 0.35,
+  "roe": 15.0,
+  "revenue_growth_yoy": -1.5,
+  "earnings_growth": 5.4,
+  "profit_margins": 19.94,
+  "dividend_yield": 39.0,
+  "fetched_at": "2026-08-25T18:29:50.182140"
+}

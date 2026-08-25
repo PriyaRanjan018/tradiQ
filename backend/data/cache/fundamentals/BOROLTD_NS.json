@@ -1,0 +1,23 @@
+{
+  "ticker": "BOROLTD.NS",
+  "company_name": "Borosil Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Furnishings, Fixtures & Appliances",
+  "current_price": 261.45,
+  "market_cap_cr": 3126.62,
+  "pe_ratio": 44.69,
+  "forward_pe": 30.58,
+  "pb_ratio": 3.51,
+  "eps": 5.85,
+  "debt_to_equity": 0.17,
+  "roe": null,
+  "revenue_growth_yoy": 9.0,
+  "earnings_growth": -26.7,
+  "qoq_profit_growth": -55.79,
+  "profit_margins": 5.76,
+  "gross_margins": 61.03,
+  "dividend_yield": null,
+  "beta": 0.07,
+  "promoter_holding": 67.86,
+  "fetched_at": "2026-08-25T18:25:21.623428"
+}

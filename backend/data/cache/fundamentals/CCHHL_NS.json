@@ -1,0 +1,23 @@
+{
+  "ticker": "CCHHL.NS",
+  "company_name": "Country Club Hospitality & Holidays Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "current_price": 12.55,
+  "market_cap_cr": 205.15,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "pb_ratio": 0.69,
+  "eps": -1.07,
+  "debt_to_equity": 0.08,
+  "roe": null,
+  "revenue_growth_yoy": -37.6,
+  "earnings_growth": 50.0,
+  "qoq_profit_growth": -1184.37,
+  "profit_margins": -16.38,
+  "gross_margins": 75.21,
+  "dividend_yield": null,
+  "beta": 0.33,
+  "promoter_holding": 76.75,
+  "fetched_at": "2026-08-25T18:26:31.612340"
+}

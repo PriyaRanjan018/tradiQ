@@ -1,0 +1,18 @@
+{
+  "ticker": "MEDANTA.NS",
+  "company_name": "Global Health Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "current_price": 1404.4,
+  "market_cap_cr": 37738.88,
+  "pe_ratio": 67.78,
+  "pb_ratio": 9.52,
+  "eps": 20.72,
+  "debt_to_equity": 0.3,
+  "roe": 15.0,
+  "revenue_growth_yoy": 26.5,
+  "earnings_growth": -0.2,
+  "profit_margins": 11.88,
+  "dividend_yield": 4.0,
+  "fetched_at": "2026-08-25T18:29:46.481778"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "MUNJALSHOW.NS",
+  "company_name": "Munjal Showa Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 131.85,
+  "market_cap_cr": 527.33,
+  "pe_ratio": 21.37,
+  "pb_ratio": 0.78,
+  "eps": 6.21,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 21.5,
+  "earnings_growth": 35.7,
+  "profit_margins": 1.8,
+  "dividend_yield": 341.0,
+  "fetched_at": "2026-08-25T18:28:13.404092"
+}

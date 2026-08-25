@@ -1,0 +1,18 @@
+{
+  "ticker": "VOGL.NS",
+  "company_name": "Vedanta Oil and Gas Limited",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "current_price": 38.95,
+  "market_cap_cr": 15206.69,
+  "pe_ratio": null,
+  "pb_ratio": null,
+  "eps": -0.22,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 8.9,
+  "earnings_growth": 12.0,
+  "profit_margins": 420.83,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:27.381422"
+}

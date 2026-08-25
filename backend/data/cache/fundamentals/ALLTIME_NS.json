@@ -1,0 +1,23 @@
+{
+  "ticker": "ALLTIME.NS",
+  "company_name": "All Time Plastics Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "current_price": 204.62,
+  "market_cap_cr": 1340.42,
+  "pe_ratio": 35.9,
+  "forward_pe": null,
+  "pb_ratio": 2.18,
+  "eps": 5.7,
+  "debt_to_equity": 0.14,
+  "roe": null,
+  "revenue_growth_yoy": 2.3,
+  "earnings_growth": -25.0,
+  "qoq_profit_growth": 1.86,
+  "profit_margins": 5.59,
+  "gross_margins": 39.32,
+  "dividend_yield": null,
+  "beta": null,
+  "promoter_holding": 70.15,
+  "fetched_at": "2026-08-25T18:21:28.667522"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "AUTOAXLES.NS",
+  "company_name": "Automotive Axles Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 1731.2,
+  "market_cap_cr": 2616.19,
+  "pe_ratio": 15.01,
+  "forward_pe": 12.54,
+  "pb_ratio": 2.38,
+  "eps": 115.33,
+  "debt_to_equity": 0.01,
+  "roe": null,
+  "revenue_growth_yoy": 5.6,
+  "earnings_growth": 27.6,
+  "qoq_profit_growth": 38.88,
+  "profit_margins": 7.9,
+  "gross_margins": 31.96,
+  "dividend_yield": 184.0,
+  "beta": 0.56,
+  "promoter_holding": 71.31,
+  "fetched_at": "2026-08-25T18:23:23.111562"
+}

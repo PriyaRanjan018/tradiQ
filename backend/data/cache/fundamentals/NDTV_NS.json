@@ -1,0 +1,18 @@
+{
+  "ticker": "NDTV.NS",
+  "company_name": "New Delhi Television Limited",
+  "sector": "Communication Services",
+  "industry": "Broadcasting",
+  "current_price": 74.77,
+  "market_cap_cr": 843.59,
+  "pe_ratio": null,
+  "pb_ratio": 6.58,
+  "eps": -33.34,
+  "debt_to_equity": 1.99,
+  "roe": 15.0,
+  "revenue_growth_yoy": 8.9,
+  "earnings_growth": 12.0,
+  "profit_margins": -62.07,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:14.182510"
+}

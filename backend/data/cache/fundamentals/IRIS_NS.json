@@ -1,0 +1,18 @@
+{
+  "ticker": "IRIS.NS",
+  "company_name": "IRIS RegTech Solutions Limited",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "current_price": 238.33,
+  "market_cap_cr": 490.2,
+  "pe_ratio": 4.42,
+  "pb_ratio": 2.44,
+  "eps": 53.49,
+  "debt_to_equity": 0.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": 9.7,
+  "earnings_growth": 12.0,
+  "profit_margins": 92.13,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:07.400475"
+}

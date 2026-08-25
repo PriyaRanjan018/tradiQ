@@ -1,0 +1,18 @@
+{
+  "ticker": "SHOPERSTOP.NS",
+  "company_name": "Shoppers Stop Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Department Stores",
+  "current_price": 394.6,
+  "market_cap_cr": 4348.72,
+  "pe_ratio": 47.26,
+  "pb_ratio": 14.93,
+  "eps": -3.45,
+  "debt_to_equity": 11.4,
+  "roe": 15.0,
+  "revenue_growth_yoy": 11.2,
+  "earnings_growth": 12.0,
+  "profit_margins": -0.67,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:21.098621"
+}

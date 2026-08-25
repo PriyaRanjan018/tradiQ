@@ -1,0 +1,23 @@
+{
+  "ticker": "BESTAGRO.NS",
+  "company_name": "Best Agrolife Limited",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "current_price": 17.69,
+  "market_cap_cr": 627.41,
+  "pe_ratio": 20.57,
+  "forward_pe": null,
+  "pb_ratio": 0.82,
+  "eps": 0.86,
+  "debt_to_equity": 0.58,
+  "roe": null,
+  "revenue_growth_yoy": 3.9,
+  "earnings_growth": 104.9,
+  "qoq_profit_growth": 209.16,
+  "profit_margins": 2.33,
+  "gross_margins": 32.68,
+  "dividend_yield": 113.0,
+  "beta": 0.05,
+  "promoter_holding": 60.76,
+  "fetched_at": "2026-08-25T18:24:35.415859"
+}

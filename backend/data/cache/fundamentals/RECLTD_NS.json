@@ -1,0 +1,18 @@
+{
+  "ticker": "RECLTD.NS",
+  "company_name": "REC Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 326.0,
+  "market_cap_cr": 85843.1,
+  "pe_ratio": 5.35,
+  "pb_ratio": 1.02,
+  "eps": 60.99,
+  "debt_to_equity": 6.07,
+  "roe": 15.0,
+  "revenue_growth_yoy": 25.2,
+  "earnings_growth": -6.1,
+  "profit_margins": 68.89,
+  "dividend_yield": 189.0,
+  "fetched_at": "2026-08-25T18:28:18.335281"
+}

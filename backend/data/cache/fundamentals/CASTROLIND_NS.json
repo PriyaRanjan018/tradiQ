@@ -1,0 +1,23 @@
+{
+  "ticker": "CASTROLIND.NS",
+  "company_name": "Castrol India Limited",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "current_price": 186.88,
+  "market_cap_cr": 18484.72,
+  "pe_ratio": 17.42,
+  "forward_pe": 15.81,
+  "pb_ratio": 9.7,
+  "eps": 10.73,
+  "debt_to_equity": 0.03,
+  "roe": 57.0,
+  "revenue_growth_yoy": 25.0,
+  "earnings_growth": 42.1,
+  "qoq_profit_growth": 43.57,
+  "profit_margins": 17.07,
+  "gross_margins": 49.34,
+  "dividend_yield": 669.0,
+  "beta": 0.31,
+  "promoter_holding": 51.3,
+  "fetched_at": "2026-08-25T18:26:25.442915"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "ANUHPHR.NS",
+  "company_name": "Anuh Pharma Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 77.27,
+  "market_cap_cr": 774.43,
+  "pe_ratio": 21.58,
+  "forward_pe": null,
+  "pb_ratio": 2.2,
+  "eps": 3.58,
+  "debt_to_equity": 0.0,
+  "roe": null,
+  "revenue_growth_yoy": 3.9,
+  "earnings_growth": 37.3,
+  "qoq_profit_growth": -13.16,
+  "profit_margins": 5.67,
+  "gross_margins": 22.43,
+  "dividend_yield": 190.0,
+  "beta": 0.49,
+  "promoter_holding": 72.89,
+  "fetched_at": "2026-08-25T18:22:06.229984"
+}

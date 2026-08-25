@@ -1,0 +1,18 @@
+{
+  "ticker": "ELGIRUBCO.NS",
+  "company_name": "Elgi Rubber Company Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 59.82,
+  "market_cap_cr": 299.4,
+  "pe_ratio": null,
+  "pb_ratio": 3.96,
+  "eps": -40.01,
+  "debt_to_equity": 4.13,
+  "roe": 15.0,
+  "revenue_growth_yoy": -18.1,
+  "earnings_growth": 12.0,
+  "profit_margins": -56.37,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:01.264656"
+}

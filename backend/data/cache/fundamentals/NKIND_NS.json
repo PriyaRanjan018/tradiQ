@@ -1,0 +1,18 @@
+{
+  "ticker": "NKIND.NS",
+  "company_name": "N.K. Industries Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "current_price": 59.06,
+  "market_cap_cr": 35.49,
+  "pe_ratio": null,
+  "pb_ratio": -0.1,
+  "eps": -5.97,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": -44.3,
+  "earnings_growth": 12.0,
+  "profit_margins": -33.27,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:14.533191"
+}

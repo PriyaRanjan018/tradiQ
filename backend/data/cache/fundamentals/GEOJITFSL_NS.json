@@ -1,0 +1,18 @@
+{
+  "ticker": "GEOJITFSL.NS",
+  "company_name": "Geojit Financial Services Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 80.63,
+  "market_cap_cr": 2250.56,
+  "pe_ratio": 31.87,
+  "pb_ratio": 1.87,
+  "eps": 2.53,
+  "debt_to_equity": 0.09,
+  "roe": 15.0,
+  "revenue_growth_yoy": 4.9,
+  "earnings_growth": -28.3,
+  "profit_margins": 10.74,
+  "dividend_yield": 181.0,
+  "fetched_at": "2026-08-25T18:28:03.158695"
+}

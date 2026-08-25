@@ -1,0 +1,23 @@
+{
+  "ticker": "FINCABLES.NS",
+  "company_name": "Finolex Cables Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "current_price": 1259.85,
+  "market_cap_cr": 19268.06,
+  "pe_ratio": 24.08,
+  "forward_pe": 17.33,
+  "pb_ratio": 3.17,
+  "eps": 52.31,
+  "debt_to_equity": 0.0,
+  "roe": null,
+  "revenue_growth_yoy": 44.3,
+  "earnings_growth": 53.2,
+  "qoq_profit_growth": 36.82,
+  "profit_margins": 11.53,
+  "gross_margins": 18.69,
+  "dividend_yield": 62.0,
+  "beta": 0.58,
+  "promoter_holding": 58.7,
+  "fetched_at": "2026-08-25T18:28:59.029257"
+}

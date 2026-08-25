@@ -1,0 +1,18 @@
+{
+  "ticker": "GVPIL.NS",
+  "company_name": "GE Power India Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "current_price": 644.5,
+  "market_cap_cr": 4332.81,
+  "pe_ratio": 12.65,
+  "pb_ratio": 7.44,
+  "eps": 50.93,
+  "debt_to_equity": 0.03,
+  "roe": 15.0,
+  "revenue_growth_yoy": 7.6,
+  "earnings_growth": 54.8,
+  "profit_margins": 21.04,
+  "dividend_yield": 108.0,
+  "fetched_at": "2026-08-25T18:29:42.609999"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "SHRINGARMS.NS",
+  "company_name": "Shringar House of Mangalsutra Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "current_price": 226.3,
+  "market_cap_cr": 2182.26,
+  "pe_ratio": 16.02,
+  "pb_ratio": 3.22,
+  "eps": 14.02,
+  "debt_to_equity": 0.28,
+  "roe": 15.0,
+  "revenue_growth_yoy": 64.9,
+  "earnings_growth": -10.6,
+  "profit_margins": 4.92,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:21.444480"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "EIHAHOTELS.NS",
+  "company_name": "EIH Associated Hotels Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "current_price": 300.8,
+  "market_cap_cr": 1832.96,
+  "pe_ratio": 21.09,
+  "pb_ratio": 3.04,
+  "eps": 14.44,
+  "debt_to_equity": 0.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": -4.0,
+  "earnings_growth": 11.9,
+  "profit_margins": 23.07,
+  "dividend_yield": 118.0,
+  "fetched_at": "2026-08-25T18:28:01.255546"
+}

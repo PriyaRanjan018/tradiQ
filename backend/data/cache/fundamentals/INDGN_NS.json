@@ -1,0 +1,18 @@
+{
+  "ticker": "INDGN.NS",
+  "company_name": "Indegene Limited",
+  "sector": "Healthcare",
+  "industry": "Health Information Services",
+  "current_price": 563.55,
+  "market_cap_cr": 13570.73,
+  "pe_ratio": 33.87,
+  "pb_ratio": 4.33,
+  "eps": 16.64,
+  "debt_to_equity": 0.05,
+  "roe": 15.0,
+  "revenue_growth_yoy": 39.7,
+  "earnings_growth": -0.2,
+  "profit_margins": 10.52,
+  "dividend_yield": 40.0,
+  "fetched_at": "2026-08-25T18:29:43.343103"
+}

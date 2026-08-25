@@ -1,0 +1,18 @@
+{
+  "ticker": "NOCIL.NS",
+  "company_name": "NOCIL Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 163.93,
+  "market_cap_cr": 2738.04,
+  "pe_ratio": 41.61,
+  "pb_ratio": 1.54,
+  "eps": 3.94,
+  "debt_to_equity": 0.0,
+  "roe": 15.0,
+  "revenue_growth_yoy": 19.9,
+  "earnings_growth": 61.2,
+  "profit_margins": 4.83,
+  "dividend_yield": 90.0,
+  "fetched_at": "2026-08-25T18:28:14.840168"
+}

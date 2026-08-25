@@ -1,0 +1,18 @@
+{
+  "ticker": "MEDIASSIST.NS",
+  "company_name": "MEDI ASSIST HEALTH SER L",
+  "sector": "Healthcare",
+  "industry": "Healthcare Plans",
+  "current_price": 351.2,
+  "market_cap_cr": 2623.53,
+  "pe_ratio": 27.74,
+  "pb_ratio": 3.05,
+  "eps": 12.66,
+  "debt_to_equity": 0.06,
+  "roe": 15.0,
+  "revenue_growth_yoy": 24.1,
+  "earnings_growth": 17.4,
+  "profit_margins": 9.8,
+  "dividend_yield": 56.0,
+  "fetched_at": "2026-08-25T18:28:12.450856"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "JAIBALAJI.NS",
+  "company_name": "Jai Balaji Industries Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 65.61,
+  "market_cap_cr": 5985.28,
+  "pe_ratio": 41.53,
+  "pb_ratio": 2.7,
+  "eps": 1.58,
+  "debt_to_equity": 0.18,
+  "roe": 15.0,
+  "revenue_growth_yoy": 24.0,
+  "earnings_growth": 20.8,
+  "profit_margins": 2.37,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:07.705744"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "HDFCLIFE.NS",
+  "company_name": "HDFC Life Insurance Company Limited",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "current_price": 546.7,
+  "market_cap_cr": 118739.7,
+  "pe_ratio": 59.95,
+  "pb_ratio": 6.09,
+  "eps": 9.12,
+  "debt_to_equity": 0.16,
+  "roe": 10.83,
+  "revenue_growth_yoy": 14.3,
+  "earnings_growth": 11.9,
+  "profit_margins": 1.9,
+  "dividend_yield": 38.0,
+  "fetched_at": "2026-08-25T18:29:42.842767"
+}

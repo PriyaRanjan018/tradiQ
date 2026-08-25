@@ -1,0 +1,23 @@
+{
+  "ticker": "BHEL.NS",
+  "company_name": "Bharat Heavy Electricals Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 417.0,
+  "market_cap_cr": 145202.05,
+  "pe_ratio": 60.0,
+  "forward_pe": 30.25,
+  "pb_ratio": 5.55,
+  "eps": 6.95,
+  "debt_to_equity": 0.31,
+  "roe": null,
+  "revenue_growth_yoy": 40.3,
+  "earnings_growth": null,
+  "qoq_profit_growth": -70.81,
+  "profit_margins": 6.76,
+  "gross_margins": 31.47,
+  "dividend_yield": 34.0,
+  "beta": 0.84,
+  "promoter_holding": 59.82,
+  "fetched_at": "2026-08-25T18:24:45.448677"
+}

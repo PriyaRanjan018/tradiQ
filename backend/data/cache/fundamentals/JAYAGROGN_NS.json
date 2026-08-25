@@ -1,0 +1,18 @@
+{
+  "ticker": "JAYAGROGN.NS",
+  "company_name": "Jayant Agro-Organics Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 229.64,
+  "market_cap_cr": 688.92,
+  "pe_ratio": 13.14,
+  "pb_ratio": 1.13,
+  "eps": 18.12,
+  "debt_to_equity": 0.2,
+  "roe": 15.0,
+  "revenue_growth_yoy": 18.5,
+  "earnings_growth": 24.3,
+  "profit_margins": 2.15,
+  "dividend_yield": 153.0,
+  "fetched_at": "2026-08-25T18:28:07.952390"
+}

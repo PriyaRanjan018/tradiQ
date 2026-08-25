@@ -1,0 +1,18 @@
+{
+  "ticker": "THEINVEST.NS",
+  "company_name": "The Investment Trust of India Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 95.3,
+  "market_cap_cr": 497.87,
+  "pe_ratio": 14.94,
+  "pb_ratio": 0.67,
+  "eps": 6.38,
+  "debt_to_equity": 0.08,
+  "roe": 15.0,
+  "revenue_growth_yoy": -6.2,
+  "earnings_growth": 35.4,
+  "profit_margins": 12.78,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:24.709846"
+}

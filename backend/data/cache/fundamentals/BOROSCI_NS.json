@@ -1,0 +1,23 @@
+{
+  "ticker": "BOROSCI.NS",
+  "company_name": "Borosil Scientific Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "current_price": 125.47,
+  "market_cap_cr": 1116.07,
+  "pe_ratio": 25.87,
+  "forward_pe": null,
+  "pb_ratio": 2.53,
+  "eps": 4.85,
+  "debt_to_equity": 0.02,
+  "roe": null,
+  "revenue_growth_yoy": 11.2,
+  "earnings_growth": null,
+  "qoq_profit_growth": 213.65,
+  "profit_margins": 9.02,
+  "gross_margins": 65.36,
+  "dividend_yield": null,
+  "beta": 0.64,
+  "promoter_holding": 73.74,
+  "fetched_at": "2026-08-25T18:25:24.744276"
+}

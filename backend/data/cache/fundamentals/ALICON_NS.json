@@ -1,0 +1,23 @@
+{
+  "ticker": "ALICON.NS",
+  "company_name": "Alicon Castalloy Limited",
+  "sector": "Industrials",
+  "industry": "Metal Fabrication",
+  "current_price": 697.8,
+  "market_cap_cr": 1139.98,
+  "pe_ratio": 31.18,
+  "forward_pe": 8.78,
+  "pb_ratio": 1.81,
+  "eps": 22.38,
+  "debt_to_equity": 0.56,
+  "roe": null,
+  "revenue_growth_yoy": 38.3,
+  "earnings_growth": 23.4,
+  "qoq_profit_growth": 140.78,
+  "profit_margins": 1.89,
+  "gross_margins": 44.49,
+  "dividend_yield": 83.0,
+  "beta": 0.55,
+  "promoter_holding": 71.59,
+  "fetched_at": "2026-08-25T18:21:21.238103"
+}

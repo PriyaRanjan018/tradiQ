@@ -1,0 +1,23 @@
+{
+  "ticker": "20MICRONS.NS",
+  "company_name": "20 Microns Limited",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "current_price": 210.65,
+  "market_cap_cr": 743.31,
+  "pe_ratio": 10.51,
+  "forward_pe": null,
+  "pb_ratio": 1.54,
+  "eps": 20.05,
+  "debt_to_equity": 0.32,
+  "roe": null,
+  "revenue_growth_yoy": -1.0,
+  "earnings_growth": 5.4,
+  "qoq_profit_growth": 0.92,
+  "profit_margins": 7.12,
+  "gross_margins": 47.23,
+  "dividend_yield": 59.0,
+  "beta": 0.72,
+  "promoter_holding": 55.24,
+  "fetched_at": "2026-08-25T18:17:00.096534"
+}

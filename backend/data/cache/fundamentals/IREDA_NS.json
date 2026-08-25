@@ -1,0 +1,18 @@
+{
+  "ticker": "IREDA.NS",
+  "company_name": "Indian Renewable Energy Development Agency Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 120.61,
+  "market_cap_cr": 33882.14,
+  "pe_ratio": 17.11,
+  "pb_ratio": 2.46,
+  "eps": 7.05,
+  "debt_to_equity": 5.66,
+  "roe": 15.0,
+  "revenue_growth_yoy": 23.7,
+  "earnings_growth": 33.0,
+  "profit_margins": 45.95,
+  "dividend_yield": 130.0,
+  "fetched_at": "2026-08-25T18:28:07.404070"
+}

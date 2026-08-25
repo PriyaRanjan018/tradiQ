@@ -1,0 +1,18 @@
+{
+  "ticker": "NBCC.NS",
+  "company_name": "NBCC (India) Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "current_price": 89.5,
+  "market_cap_cr": 24165.0,
+  "pe_ratio": 32.55,
+  "pb_ratio": 8.04,
+  "eps": 2.75,
+  "debt_to_equity": 0.0,
+  "roe": 15.0,
+  "revenue_growth_yoy": -5.9,
+  "earnings_growth": 16.3,
+  "profit_margins": 5.69,
+  "dividend_yield": 122.0,
+  "fetched_at": "2026-08-25T18:28:13.966351"
+}

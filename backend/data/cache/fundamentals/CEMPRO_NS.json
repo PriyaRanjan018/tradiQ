@@ -1,0 +1,23 @@
+{
+  "ticker": "CEMPRO.NS",
+  "company_name": "Cemindia Projects Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "current_price": 1279.9,
+  "market_cap_cr": 21987.09,
+  "pe_ratio": 37.03,
+  "forward_pe": 21.71,
+  "pb_ratio": 9.16,
+  "eps": 34.56,
+  "debt_to_equity": 0.38,
+  "roe": null,
+  "revenue_growth_yoy": 7.0,
+  "earnings_growth": 2.6,
+  "qoq_profit_growth": -41.85,
+  "profit_margins": 5.89,
+  "gross_margins": 26.77,
+  "dividend_yield": 24.0,
+  "beta": 0.85,
+  "promoter_holding": 72.42,
+  "fetched_at": "2026-08-25T18:26:48.047367"
+}

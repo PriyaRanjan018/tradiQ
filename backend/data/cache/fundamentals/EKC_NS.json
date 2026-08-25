@@ -1,0 +1,18 @@
+{
+  "ticker": "EKC.NS",
+  "company_name": "Everest Kanto Cylinder Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 111.21,
+  "market_cap_cr": 1247.86,
+  "pe_ratio": 9.96,
+  "pb_ratio": 0.89,
+  "eps": 10.95,
+  "debt_to_equity": 0.19,
+  "roe": 15.0,
+  "revenue_growth_yoy": -10.5,
+  "earnings_growth": -41.7,
+  "profit_margins": 8.76,
+  "dividend_yield": 60.0,
+  "fetched_at": "2026-08-25T18:28:01.264805"
+}

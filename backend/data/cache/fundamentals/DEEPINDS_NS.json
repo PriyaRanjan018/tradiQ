@@ -1,0 +1,23 @@
+{
+  "ticker": "DEEPINDS.NS",
+  "company_name": "Deep Industries Limited",
+  "sector": "Energy",
+  "industry": "Oil & Gas E&P",
+  "current_price": 649.65,
+  "market_cap_cr": 4157.76,
+  "pe_ratio": 19.84,
+  "forward_pe": 10.65,
+  "pb_ratio": 2.08,
+  "eps": 32.75,
+  "debt_to_equity": 0.1,
+  "roe": null,
+  "revenue_growth_yoy": 39.8,
+  "earnings_growth": 45.2,
+  "qoq_profit_growth": 694.48,
+  "profit_margins": 21.28,
+  "gross_margins": 54.28,
+  "dividend_yield": 37.0,
+  "beta": -0.64,
+  "promoter_holding": 67.23,
+  "fetched_at": "2026-08-25T18:28:20.937597"
+}

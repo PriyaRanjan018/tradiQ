@@ -1,0 +1,18 @@
+{
+  "ticker": "SWIGGY.NS",
+  "company_name": "Swiggy Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Internet Retail",
+  "current_price": 287.4,
+  "market_cap_cr": 75298.85,
+  "pe_ratio": -53.67,
+  "pb_ratio": 4.09,
+  "eps": -14.78,
+  "debt_to_equity": 0.14,
+  "roe": 15.0,
+  "revenue_growth_yoy": 37.3,
+  "earnings_growth": 12.0,
+  "profit_margins": -15.05,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:23.887508"
+}

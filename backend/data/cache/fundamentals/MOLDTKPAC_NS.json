@@ -1,0 +1,18 @@
+{
+  "ticker": "MOLDTKPAC.NS",
+  "company_name": "Mold-Tek Packaging Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "current_price": 706.8,
+  "market_cap_cr": 2348.62,
+  "pe_ratio": 31.15,
+  "pb_ratio": 3.4,
+  "eps": 22.69,
+  "debt_to_equity": 0.32,
+  "roe": 15.0,
+  "revenue_growth_yoy": 24.9,
+  "earnings_growth": 14.2,
+  "profit_margins": 8.04,
+  "dividend_yield": 56.0,
+  "fetched_at": "2026-08-25T18:29:46.823894"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "MURUDCERA.NS",
+  "company_name": "Murudeshwar Ceramics Ltd.",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "current_price": 30.65,
+  "market_cap_cr": 185.57,
+  "pe_ratio": 18.8,
+  "pb_ratio": 0.43,
+  "eps": 1.63,
+  "debt_to_equity": 0.37,
+  "roe": 15.0,
+  "revenue_growth_yoy": 8.6,
+  "earnings_growth": -59.4,
+  "profit_margins": 4.62,
+  "dividend_yield": 164.0,
+  "fetched_at": "2026-08-25T18:28:13.816029"
+}

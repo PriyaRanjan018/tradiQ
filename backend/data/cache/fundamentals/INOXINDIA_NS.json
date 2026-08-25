@@ -1,0 +1,18 @@
+{
+  "ticker": "INOXINDIA.NS",
+  "company_name": "INOX India Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 1900.0,
+  "market_cap_cr": 17245.07,
+  "pe_ratio": 67.88,
+  "pb_ratio": 15.43,
+  "eps": 27.99,
+  "debt_to_equity": 0.07,
+  "roe": 15.0,
+  "revenue_growth_yoy": 9.2,
+  "earnings_growth": -4.9,
+  "profit_margins": 15.75,
+  "dividend_yield": 10.0,
+  "fetched_at": "2026-08-25T18:29:43.846821"
+}

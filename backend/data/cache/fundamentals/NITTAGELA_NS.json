@@ -1,0 +1,18 @@
+{
+  "ticker": "NITTAGELA.NS",
+  "company_name": "Nitta Gelatin India Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 1561.6,
+  "market_cap_cr": 1417.8,
+  "pe_ratio": 13.46,
+  "pb_ratio": 2.77,
+  "eps": 115.99,
+  "debt_to_equity": 0.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": -0.3,
+  "earnings_growth": 31.3,
+  "profit_margins": 17.47,
+  "dividend_yield": 45.0,
+  "fetched_at": "2026-08-25T18:29:47.546075"
+}

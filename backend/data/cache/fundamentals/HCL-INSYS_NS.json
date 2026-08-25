@@ -1,0 +1,18 @@
+{
+  "ticker": "HCL-INSYS.NS",
+  "company_name": "HCL Infosystems Limited",
+  "sector": "Technology",
+  "industry": "Electronics & Computer Distribution",
+  "current_price": 11.02,
+  "market_cap_cr": 362.79,
+  "pe_ratio": null,
+  "pb_ratio": -1.22,
+  "eps": -1.4,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": -40.5,
+  "earnings_growth": 12.0,
+  "profit_margins": -240.35,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:04.957519"
+}

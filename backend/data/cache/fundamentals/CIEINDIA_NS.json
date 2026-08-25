@@ -1,0 +1,23 @@
+{
+  "ticker": "CIEINDIA.NS",
+  "company_name": "CIE Automotive India Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 395.95,
+  "market_cap_cr": 15020.85,
+  "pe_ratio": 16.68,
+  "forward_pe": 13.89,
+  "pb_ratio": 1.94,
+  "eps": 23.74,
+  "debt_to_equity": 0.07,
+  "roe": null,
+  "revenue_growth_yoy": 10.6,
+  "earnings_growth": 15.9,
+  "qoq_profit_growth": -5.51,
+  "profit_margins": 5.73,
+  "gross_margins": 53.4,
+  "dividend_yield": 175.0,
+  "beta": null,
+  "promoter_holding": 66.42,
+  "fetched_at": "2026-08-25T18:27:29.448841"
+}

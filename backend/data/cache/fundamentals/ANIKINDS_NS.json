@@ -1,0 +1,23 @@
+{
+  "ticker": "ANIKINDS.NS",
+  "company_name": "Anik Industries Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Food Distribution",
+  "current_price": 46.53,
+  "market_cap_cr": 129.14,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "pb_ratio": 0.41,
+  "eps": -0.34,
+  "debt_to_equity": 0.04,
+  "roe": 7.67,
+  "revenue_growth_yoy": -13.3,
+  "earnings_growth": -98.5,
+  "qoq_profit_growth": -383.27,
+  "profit_margins": -4.54,
+  "gross_margins": 3.21,
+  "dividend_yield": null,
+  "beta": null,
+  "promoter_holding": 76.65,
+  "fetched_at": "2026-08-25T18:21:59.370461"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "BAJFINANCE.NS",
+  "company_name": "Bajaj Finance Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 1087.4,
+  "market_cap_cr": 676462.12,
+  "pe_ratio": 33.43,
+  "forward_pe": 21.53,
+  "pb_ratio": 5.93,
+  "eps": 32.53,
+  "debt_to_equity": 3.15,
+  "roe": null,
+  "revenue_growth_yoy": 26.1,
+  "earnings_growth": 27.2,
+  "qoq_profit_growth": 9.54,
+  "profit_margins": 43.49,
+  "gross_margins": 91.55,
+  "dividend_yield": 50.0,
+  "beta": 0.32,
+  "promoter_holding": 56.53,
+  "fetched_at": "2026-08-25T18:23:47.414856"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "PREMIERPOL.NS",
+  "company_name": "Premier Polyfilm Ltd.",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 90.3,
+  "market_cap_cr": 945.82,
+  "pe_ratio": 27.04,
+  "pb_ratio": 6.42,
+  "eps": 3.34,
+  "debt_to_equity": 0.17,
+  "roe": 15.0,
+  "revenue_growth_yoy": 34.4,
+  "earnings_growth": 52.6,
+  "profit_margins": 9.59,
+  "dividend_yield": 17.0,
+  "fetched_at": "2026-08-25T18:28:17.204896"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "JLHL.NS",
+  "company_name": "Jupiter Life Line Hospitals Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "current_price": 298.7,
+  "market_cap_cr": 9792.29,
+  "pe_ratio": 51.86,
+  "pb_ratio": 6.34,
+  "eps": 5.76,
+  "debt_to_equity": 0.38,
+  "roe": 15.0,
+  "revenue_growth_yoy": 18.2,
+  "earnings_growth": -13.3,
+  "profit_margins": 12.04,
+  "dividend_yield": 6.0,
+  "fetched_at": "2026-08-25T18:28:08.472516"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "HDFCBANK.NS",
+  "company_name": "HDFC Bank Limited",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "current_price": 727.5,
+  "market_cap_cr": 1121150.25,
+  "pe_ratio": 15.89,
+  "pb_ratio": 1.85,
+  "eps": 45.78,
+  "debt_to_equity": 0.5,
+  "roe": 13.84,
+  "revenue_growth_yoy": 16.6,
+  "earnings_growth": 18.1,
+  "profit_margins": 26.79,
+  "dividend_yield": 178.0,
+  "fetched_at": "2026-08-25T18:29:42.609528"
+}

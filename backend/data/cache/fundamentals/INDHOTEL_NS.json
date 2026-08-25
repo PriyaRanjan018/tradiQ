@@ -1,0 +1,18 @@
+{
+  "ticker": "INDHOTEL.NS",
+  "company_name": "The Indian Hotels Company Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "current_price": 730.0,
+  "market_cap_cr": 105602.21,
+  "pe_ratio": 48.38,
+  "pb_ratio": 7.96,
+  "eps": 15.09,
+  "debt_to_equity": 0.19,
+  "roe": 15.0,
+  "revenue_growth_yoy": 15.1,
+  "earnings_growth": 20.7,
+  "profit_margins": 20.87,
+  "dividend_yield": 45.0,
+  "fetched_at": "2026-08-25T18:29:43.319159"
+}

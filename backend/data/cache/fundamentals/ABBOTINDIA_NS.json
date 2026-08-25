@@ -1,0 +1,23 @@
+{
+  "ticker": "ABBOTINDIA.NS",
+  "company_name": "Abbott India Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 26415.0,
+  "market_cap_cr": 56130.03,
+  "pe_ratio": 34.48,
+  "forward_pe": 29.22,
+  "pb_ratio": 11.76,
+  "eps": 766.18,
+  "debt_to_equity": 0.04,
+  "roe": null,
+  "revenue_growth_yoy": 4.3,
+  "earnings_growth": 17.1,
+  "qoq_profit_growth": 5.05,
+  "profit_margins": 23.05,
+  "gross_margins": 47.24,
+  "dividend_yield": 199.0,
+  "beta": 0.06,
+  "promoter_holding": 75.54,
+  "fetched_at": "2026-08-25T18:17:35.492826"
+}

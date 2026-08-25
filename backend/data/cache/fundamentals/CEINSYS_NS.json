@@ -1,0 +1,23 @@
+{
+  "ticker": "CEINSYS.NS",
+  "company_name": "Ceinsys Tech Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "current_price": 722.4,
+  "market_cap_cr": 1512.54,
+  "pe_ratio": 10.35,
+  "forward_pe": null,
+  "pb_ratio": 1.97,
+  "eps": 69.8,
+  "debt_to_equity": 0.08,
+  "roe": null,
+  "revenue_growth_yoy": 0.8,
+  "earnings_growth": -9.5,
+  "qoq_profit_growth": -4.37,
+  "profit_margins": 20.05,
+  "gross_margins": 34.04,
+  "dividend_yield": 49.0,
+  "beta": -0.22,
+  "promoter_holding": 68.92,
+  "fetched_at": "2026-08-25T18:26:44.119572"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "CENTENKA.NS",
+  "company_name": "Century Enka Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "current_price": 552.0,
+  "market_cap_cr": 1206.15,
+  "pe_ratio": 7.96,
+  "forward_pe": null,
+  "pb_ratio": 0.81,
+  "eps": 69.32,
+  "debt_to_equity": 0.01,
+  "roe": null,
+  "revenue_growth_yoy": 38.0,
+  "earnings_growth": 301.1,
+  "qoq_profit_growth": 56.6,
+  "profit_margins": 7.92,
+  "gross_margins": 28.84,
+  "dividend_yield": 199.0,
+  "beta": 0.22,
+  "promoter_holding": 38.85,
+  "fetched_at": "2026-08-25T18:26:50.784559"
+}

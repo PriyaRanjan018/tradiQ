@@ -1,0 +1,23 @@
+{
+  "ticker": "COLPAL.NS",
+  "company_name": "Colgate-Palmolive (India) Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "current_price": 1876.8,
+  "market_cap_cr": 51046.27,
+  "pe_ratio": 37.63,
+  "forward_pe": 32.11,
+  "pb_ratio": 32.22,
+  "eps": 49.87,
+  "debt_to_equity": 0.03,
+  "roe": null,
+  "revenue_growth_yoy": 11.8,
+  "earnings_growth": 7.0,
+  "qoq_profit_growth": -2.9,
+  "profit_margins": 21.72,
+  "gross_margins": 68.93,
+  "dividend_yield": 255.0,
+  "beta": 0.52,
+  "promoter_holding": 51.41,
+  "fetched_at": "2026-08-25T18:27:55.835738"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "ADANIENT.NS",
+  "company_name": "Adani Enterprises Limited",
+  "sector": "Energy",
+  "industry": "Thermal Coal",
+  "current_price": 3110.0,
+  "market_cap_cr": 442544.74,
+  "pe_ratio": 54.02,
+  "forward_pe": 46.15,
+  "pb_ratio": 4.97,
+  "eps": 57.57,
+  "debt_to_equity": 1.2,
+  "roe": null,
+  "revenue_growth_yoy": 49.9,
+  "earnings_growth": null,
+  "qoq_profit_growth": -425.68,
+  "profit_margins": 6.55,
+  "gross_margins": 43.31,
+  "dividend_yield": 4.0,
+  "beta": 0.81,
+  "promoter_holding": 75.0,
+  "fetched_at": "2026-08-25T18:18:09.317429"
+}

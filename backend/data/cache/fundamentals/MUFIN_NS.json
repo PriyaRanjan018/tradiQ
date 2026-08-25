@@ -1,0 +1,18 @@
+{
+  "ticker": "MUFIN.NS",
+  "company_name": "Mufin Green Finance Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 138.02,
+  "market_cap_cr": 2735.03,
+  "pe_ratio": 64.8,
+  "pb_ratio": 4.23,
+  "eps": 2.13,
+  "debt_to_equity": 2.43,
+  "roe": 15.0,
+  "revenue_growth_yoy": 49.0,
+  "earnings_growth": 268.4,
+  "profit_margins": 41.07,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:13.149142"
+}

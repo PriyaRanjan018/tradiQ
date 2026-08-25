@@ -1,0 +1,18 @@
+{
+  "ticker": "NFL.NS",
+  "company_name": "National Fertilizers Limited",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "current_price": 72.4,
+  "market_cap_cr": 3551.79,
+  "pe_ratio": 9.82,
+  "pb_ratio": 1.25,
+  "eps": 7.42,
+  "debt_to_equity": 1.4,
+  "roe": 15.0,
+  "revenue_growth_yoy": 27.3,
+  "earnings_growth": 12.0,
+  "profit_margins": 1.62,
+  "dividend_yield": 147.0,
+  "fetched_at": "2026-08-25T18:28:14.214032"
+}

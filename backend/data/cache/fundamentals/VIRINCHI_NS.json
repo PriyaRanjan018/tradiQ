@@ -1,0 +1,18 @@
+{
+  "ticker": "VIRINCHI.NS",
+  "company_name": "Virinchi Limited",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "current_price": 15.53,
+  "market_cap_cr": 175.03,
+  "pe_ratio": null,
+  "pb_ratio": 0.33,
+  "eps": -2.52,
+  "debt_to_equity": 0.57,
+  "roe": 15.0,
+  "revenue_growth_yoy": -12.0,
+  "earnings_growth": 12.0,
+  "profit_margins": -9.49,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:27.013423"
+}

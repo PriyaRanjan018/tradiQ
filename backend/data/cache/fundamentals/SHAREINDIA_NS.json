@@ -1,0 +1,18 @@
+{
+  "ticker": "SHAREINDIA.NS",
+  "company_name": "Share India Securities Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 172.62,
+  "market_cap_cr": 3777.37,
+  "pe_ratio": 10.38,
+  "pb_ratio": 1.45,
+  "eps": 16.63,
+  "debt_to_equity": 0.28,
+  "roe": 15.0,
+  "revenue_growth_yoy": 32.9,
+  "earnings_growth": 47.0,
+  "profit_margins": 25.61,
+  "dividend_yield": 89.0,
+  "fetched_at": "2026-08-25T18:28:21.081131"
+}

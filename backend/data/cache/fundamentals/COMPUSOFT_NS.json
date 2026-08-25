@@ -1,0 +1,23 @@
+{
+  "ticker": "COMPUSOFT.NS",
+  "company_name": "Compucom Software Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Education & Training Services",
+  "current_price": 13.19,
+  "market_cap_cr": 104.37,
+  "pe_ratio": 38.79,
+  "forward_pe": null,
+  "pb_ratio": 0.72,
+  "eps": 0.34,
+  "debt_to_equity": 0.34,
+  "roe": null,
+  "revenue_growth_yoy": -8.1,
+  "earnings_growth": null,
+  "qoq_profit_growth": 558.08,
+  "profit_margins": 8.68,
+  "gross_margins": 50.84,
+  "dividend_yield": 192.0,
+  "beta": 0.58,
+  "promoter_holding": 77.13,
+  "fetched_at": "2026-08-25T18:27:57.387478"
+}

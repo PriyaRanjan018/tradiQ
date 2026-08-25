@@ -1,0 +1,23 @@
+{
+  "ticker": "ALEMBICLTD.NS",
+  "company_name": "Alembic Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "current_price": 94.66,
+  "market_cap_cr": 2430.7,
+  "pe_ratio": 7.58,
+  "forward_pe": 1.9,
+  "pb_ratio": 0.99,
+  "eps": 12.49,
+  "debt_to_equity": 0.0,
+  "roe": null,
+  "revenue_growth_yoy": -2.0,
+  "earnings_growth": 5.4,
+  "qoq_profit_growth": 11.64,
+  "profit_margins": 134.16,
+  "gross_margins": 65.41,
+  "dividend_yield": 262.0,
+  "beta": 0.64,
+  "promoter_holding": 72.42,
+  "fetched_at": "2026-08-25T18:21:18.496515"
+}

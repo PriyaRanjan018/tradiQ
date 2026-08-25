@@ -1,0 +1,18 @@
+{
+  "ticker": "JETFREIGHT.NS",
+  "company_name": "Jet Freight Logistics Limited",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "current_price": 22.32,
+  "market_cap_cr": 103.57,
+  "pe_ratio": 13.69,
+  "pb_ratio": 1.46,
+  "eps": 1.63,
+  "debt_to_equity": 1.05,
+  "roe": 15.0,
+  "revenue_growth_yoy": 49.5,
+  "earnings_growth": 42.1,
+  "profit_margins": 1.5,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:08.211733"
+}

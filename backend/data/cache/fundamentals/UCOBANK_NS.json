@@ -1,0 +1,18 @@
+{
+  "ticker": "UCOBANK.NS",
+  "company_name": "UCO Bank",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "current_price": 26.05,
+  "market_cap_cr": 32665.55,
+  "pe_ratio": 11.58,
+  "pb_ratio": 0.97,
+  "eps": 2.25,
+  "debt_to_equity": 0.5,
+  "roe": 8.54,
+  "revenue_growth_yoy": 53.0,
+  "earnings_growth": 8.3,
+  "profit_margins": 21.54,
+  "dividend_yield": 170.0,
+  "fetched_at": "2026-08-25T18:28:25.748801"
+}

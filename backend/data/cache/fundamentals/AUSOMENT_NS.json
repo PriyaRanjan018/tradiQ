@@ -1,0 +1,23 @@
+{
+  "ticker": "AUSOMENT.NS",
+  "company_name": "AuSom Enterprise Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 147.59,
+  "market_cap_cr": 201.07,
+  "pe_ratio": 8.15,
+  "forward_pe": null,
+  "pb_ratio": 1.25,
+  "eps": 18.1,
+  "debt_to_equity": 0.05,
+  "roe": null,
+  "revenue_growth_yoy": 489.1,
+  "earnings_growth": 36.0,
+  "qoq_profit_growth": -59.75,
+  "profit_margins": 0.56,
+  "gross_margins": 1.08,
+  "dividend_yield": 68.0,
+  "beta": 0.45,
+  "promoter_holding": 78.69,
+  "fetched_at": "2026-08-25T18:23:14.211014"
+}

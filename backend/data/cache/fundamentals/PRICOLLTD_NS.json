@@ -1,0 +1,18 @@
+{
+  "ticker": "PRICOLLTD.NS",
+  "company_name": "Pricol Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 790.5,
+  "market_cap_cr": 9634.73,
+  "pe_ratio": 35.95,
+  "pb_ratio": 7.68,
+  "eps": 21.99,
+  "debt_to_equity": 0.3,
+  "roe": 15.0,
+  "revenue_growth_yoy": 23.5,
+  "earnings_growth": 34.5,
+  "profit_margins": 6.3,
+  "dividend_yield": 51.0,
+  "fetched_at": "2026-08-25T18:29:48.758257"
+}

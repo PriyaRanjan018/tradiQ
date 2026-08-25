@@ -1,0 +1,23 @@
+{
+  "ticker": "GRINFRA.NS",
+  "company_name": "G R Infraprojects Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "current_price": 902.05,
+  "market_cap_cr": 8728.28,
+  "pe_ratio": 8.67,
+  "forward_pe": 9.27,
+  "pb_ratio": 0.93,
+  "eps": 104.01,
+  "debt_to_equity": 0.52,
+  "roe": null,
+  "revenue_growth_yoy": 40.1,
+  "earnings_growth": 46.4,
+  "qoq_profit_growth": 72.63,
+  "profit_margins": 11.05,
+  "gross_margins": 32.56,
+  "dividend_yield": 57.0,
+  "beta": 0.61,
+  "promoter_holding": 75.85,
+  "fetched_at": "2026-08-25T18:29:38.794070"
+}

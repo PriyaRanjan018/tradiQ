@@ -1,0 +1,18 @@
+{
+  "ticker": "DCW.NS",
+  "company_name": "DCW Limited",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "current_price": 45.38,
+  "market_cap_cr": 1339.41,
+  "pe_ratio": 18.83,
+  "pb_ratio": 1.25,
+  "eps": 2.41,
+  "debt_to_equity": 0.27,
+  "roe": 15.0,
+  "revenue_growth_yoy": 14.0,
+  "earnings_growth": 200.0,
+  "profit_margins": 3.23,
+  "dividend_yield": 45.0,
+  "fetched_at": "2026-08-25T18:28:00.018221"
+}

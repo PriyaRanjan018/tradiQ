@@ -1,0 +1,23 @@
+{
+  "ticker": "ATLASCYCLE.NS",
+  "company_name": "Atlas Cycles (Haryana) Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Leisure",
+  "current_price": 97.1,
+  "market_cap_cr": 63.15,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "pb_ratio": 0.17,
+  "eps": -12.97,
+  "debt_to_equity": 0.02,
+  "roe": null,
+  "revenue_growth_yoy": -22.5,
+  "earnings_growth": null,
+  "qoq_profit_growth": -70.58,
+  "profit_margins": -129.66,
+  "gross_margins": 5.92,
+  "dividend_yield": null,
+  "beta": 0.5,
+  "promoter_holding": 48.86,
+  "fetched_at": "2026-08-25T18:23:09.270106"
+}

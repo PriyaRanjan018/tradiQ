@@ -1,0 +1,18 @@
+{
+  "ticker": "NOVARTIND.NS",
+  "company_name": "Novartis India Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 1486.3,
+  "market_cap_cr": 3669.79,
+  "pe_ratio": 39.68,
+  "pb_ratio": 4.49,
+  "eps": 37.46,
+  "debt_to_equity": 0.0,
+  "roe": 15.0,
+  "revenue_growth_yoy": 18.6,
+  "earnings_growth": 16.6,
+  "profit_margins": 26.38,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:29:47.730535"
+}

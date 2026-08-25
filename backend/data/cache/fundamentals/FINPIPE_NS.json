@@ -1,0 +1,18 @@
+{
+  "ticker": "FINPIPE.NS",
+  "company_name": "Finolex Industries Limited",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "current_price": 162.81,
+  "market_cap_cr": 10066.77,
+  "pe_ratio": 16.36,
+  "pb_ratio": 1.62,
+  "eps": 9.95,
+  "debt_to_equity": 0.07,
+  "roe": 15.0,
+  "revenue_growth_yoy": -15.3,
+  "earnings_growth": 16.4,
+  "profit_margins": 15.56,
+  "dividend_yield": 121.0,
+  "fetched_at": "2026-08-25T18:28:02.579444"
+}

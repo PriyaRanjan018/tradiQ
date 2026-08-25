@@ -1,0 +1,23 @@
+{
+  "ticker": "ADVANIHOTR.NS",
+  "company_name": "Advani Hotels & Resorts (India) Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "current_price": 50.34,
+  "market_cap_cr": 465.34,
+  "pe_ratio": 19.51,
+  "forward_pe": null,
+  "pb_ratio": 0.9,
+  "eps": 2.58,
+  "debt_to_equity": 0.01,
+  "roe": null,
+  "revenue_growth_yoy": 5.5,
+  "earnings_growth": -40.0,
+  "qoq_profit_growth": 8.65,
+  "profit_margins": 21.24,
+  "gross_margins": 59.9,
+  "dividend_yield": 538.0,
+  "beta": -0.03,
+  "promoter_holding": 81.96,
+  "fetched_at": "2026-08-25T18:20:34.963265"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "IEX.NS",
+  "company_name": "Indian Energy Exchange Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 124.2,
+  "market_cap_cr": 11045.11,
+  "pe_ratio": 21.79,
+  "pb_ratio": 8.15,
+  "eps": 5.7,
+  "debt_to_equity": 0.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": 10.1,
+  "earnings_growth": 11.8,
+  "profit_margins": 66.22,
+  "dividend_yield": 325.0,
+  "fetched_at": "2026-08-25T18:28:05.824922"
+}

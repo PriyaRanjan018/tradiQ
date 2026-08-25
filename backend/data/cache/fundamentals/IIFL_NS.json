@@ -1,0 +1,18 @@
+{
+  "ticker": "IIFL.NS",
+  "company_name": "IIFL Finance Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 666.25,
+  "market_cap_cr": 28334.92,
+  "pe_ratio": 13.57,
+  "pb_ratio": 2.04,
+  "eps": 49.1,
+  "debt_to_equity": 4.47,
+  "roe": 15.0,
+  "revenue_growth_yoy": 31.8,
+  "earnings_growth": 189.5,
+  "profit_margins": 24.17,
+  "dividend_yield": 57.0,
+  "fetched_at": "2026-08-25T18:29:43.319035"
+}

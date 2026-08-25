@@ -1,0 +1,18 @@
+{
+  "ticker": "DABUR.NS",
+  "company_name": "Dabur India Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "current_price": 395.05,
+  "market_cap_cr": 70080.17,
+  "pe_ratio": 35.53,
+  "pb_ratio": 6.14,
+  "eps": 11.12,
+  "debt_to_equity": 0.11,
+  "roe": 15.0,
+  "revenue_growth_yoy": 10.6,
+  "earnings_growth": 15.3,
+  "profit_margins": 14.55,
+  "dividend_yield": 207.0,
+  "fetched_at": "2026-08-25T18:27:59.691520"
+}

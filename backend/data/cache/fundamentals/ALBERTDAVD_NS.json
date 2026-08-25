@@ -1,0 +1,23 @@
+{
+  "ticker": "ALBERTDAVD.NS",
+  "company_name": "Albert David Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 867.95,
+  "market_cap_cr": 495.35,
+  "pe_ratio": 21.93,
+  "forward_pe": null,
+  "pb_ratio": 1.27,
+  "eps": 39.58,
+  "debt_to_equity": 0.08,
+  "roe": null,
+  "revenue_growth_yoy": 43.6,
+  "earnings_growth": 303.1,
+  "qoq_profit_growth": -240.06,
+  "profit_margins": 6.19,
+  "gross_margins": 65.76,
+  "dividend_yield": 56.0,
+  "beta": 0.29,
+  "promoter_holding": 64.04,
+  "fetched_at": "2026-08-25T18:21:17.184214"
+}

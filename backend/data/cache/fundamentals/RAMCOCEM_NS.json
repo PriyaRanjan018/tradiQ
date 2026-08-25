@@ -1,0 +1,18 @@
+{
+  "ticker": "RAMCOCEM.NS",
+  "company_name": "The Ramco Cements Limited",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "current_price": 909.15,
+  "market_cap_cr": 21482.52,
+  "pe_ratio": 33.49,
+  "pb_ratio": 2.65,
+  "eps": 27.15,
+  "debt_to_equity": 0.48,
+  "roe": 15.0,
+  "revenue_growth_yoy": 9.6,
+  "earnings_growth": -63.3,
+  "profit_margins": 6.99,
+  "dividend_yield": 28.0,
+  "fetched_at": "2026-08-25T18:29:49.008441"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "MARKSANS.NS",
+  "company_name": "Marksans Pharma Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - General",
+  "current_price": 318.5,
+  "market_cap_cr": 14433.27,
+  "pe_ratio": 28.16,
+  "pb_ratio": 4.77,
+  "eps": 11.31,
+  "debt_to_equity": 0.11,
+  "roe": 15.0,
+  "revenue_growth_yoy": 35.6,
+  "earnings_growth": 169.0,
+  "profit_margins": 16.29,
+  "dividend_yield": 28.0,
+  "fetched_at": "2026-08-25T18:28:11.862586"
+}

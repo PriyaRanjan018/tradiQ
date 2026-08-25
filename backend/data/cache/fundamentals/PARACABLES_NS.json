@@ -1,0 +1,18 @@
+{
+  "ticker": "PARACABLES.NS",
+  "company_name": "Paramount Communications Limited",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "current_price": 61.53,
+  "market_cap_cr": 2013.5,
+  "pe_ratio": 30.77,
+  "pb_ratio": 2.41,
+  "eps": 2.0,
+  "debt_to_equity": 0.16,
+  "roe": 15.0,
+  "revenue_growth_yoy": 17.4,
+  "earnings_growth": 4.9,
+  "profit_margins": 3.67,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:16.051237"
+}

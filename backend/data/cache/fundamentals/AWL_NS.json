@@ -1,0 +1,23 @@
+{
+  "ticker": "AWL.NS",
+  "company_name": "AWL Agri Business Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "current_price": 200.64,
+  "market_cap_cr": 25919.03,
+  "pe_ratio": 22.44,
+  "forward_pe": 18.89,
+  "pb_ratio": 2.49,
+  "eps": 8.94,
+  "debt_to_equity": 0.11,
+  "roe": null,
+  "revenue_growth_yoy": 17.5,
+  "earnings_growth": 47.3,
+  "qoq_profit_growth": 19.93,
+  "profit_margins": 1.49,
+  "gross_margins": 10.73,
+  "dividend_yield": 52.0,
+  "beta": -0.16,
+  "promoter_holding": 68.68,
+  "fetched_at": "2026-08-25T18:23:28.385231"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "DIFFNKG.NS",
+  "company_name": "Diffusion Engineers Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 392.05,
+  "market_cap_cr": 1455.54,
+  "pe_ratio": 26.69,
+  "pb_ratio": 3.61,
+  "eps": 14.69,
+  "debt_to_equity": 0.07,
+  "roe": 15.0,
+  "revenue_growth_yoy": 36.5,
+  "earnings_growth": 37.1,
+  "profit_margins": 12.55,
+  "dividend_yield": 37.0,
+  "fetched_at": "2026-08-25T18:28:00.626274"
+}

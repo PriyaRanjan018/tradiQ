@@ -1,0 +1,18 @@
+{
+  "ticker": "MOTHERSON.NS",
+  "company_name": "Samvardhana Motherson International Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 166.45,
+  "market_cap_cr": 175292.34,
+  "pe_ratio": 40.01,
+  "pb_ratio": 4.28,
+  "eps": 4.16,
+  "debt_to_equity": 0.44,
+  "roe": 15.0,
+  "revenue_growth_yoy": 16.6,
+  "earnings_growth": 104.2,
+  "profit_margins": 3.36,
+  "dividend_yield": 30.0,
+  "fetched_at": "2026-08-25T18:28:13.044951"
+}

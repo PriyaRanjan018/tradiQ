@@ -1,0 +1,18 @@
+{
+  "ticker": "JGCHEM.NS",
+  "company_name": "J.G. Chemicals Limited",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "current_price": 579.05,
+  "market_cap_cr": 2269.07,
+  "pe_ratio": 29.56,
+  "pb_ratio": 4.33,
+  "eps": 19.59,
+  "debt_to_equity": 0.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": 44.8,
+  "earnings_growth": 58.8,
+  "profit_margins": 7.02,
+  "dividend_yield": 20.0,
+  "fetched_at": "2026-08-25T18:29:44.080131"
+}

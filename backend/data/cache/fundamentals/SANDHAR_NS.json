@@ -1,0 +1,18 @@
+{
+  "ticker": "SANDHAR.NS",
+  "company_name": "Sandhar Technologies Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 679.0,
+  "market_cap_cr": 4096.77,
+  "pe_ratio": 19.67,
+  "pb_ratio": 3.07,
+  "eps": 34.52,
+  "debt_to_equity": 0.86,
+  "roe": 15.0,
+  "revenue_growth_yoy": 26.8,
+  "earnings_growth": 33.1,
+  "profit_margins": 4.04,
+  "dividend_yield": 59.0,
+  "fetched_at": "2026-08-25T18:29:49.992864"
+}

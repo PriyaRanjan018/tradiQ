@@ -1,0 +1,18 @@
+{
+  "ticker": "ORIENTCEM.NS",
+  "company_name": "Orient Cement Limited",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "current_price": 130.83,
+  "market_cap_cr": 2688.03,
+  "pe_ratio": 12.65,
+  "pb_ratio": 1.25,
+  "eps": 10.34,
+  "debt_to_equity": 0.03,
+  "roe": 15.0,
+  "revenue_growth_yoy": -30.3,
+  "earnings_growth": -62.4,
+  "profit_margins": 8.28,
+  "dividend_yield": 39.0,
+  "fetched_at": "2026-08-25T18:28:15.450624"
+}

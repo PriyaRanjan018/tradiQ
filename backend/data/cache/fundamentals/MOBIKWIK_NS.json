@@ -1,0 +1,18 @@
+{
+  "ticker": "MOBIKWIK.NS",
+  "company_name": "ONE MOBIKWIK SYSTEMS LTD",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "current_price": 197.05,
+  "market_cap_cr": 1551.71,
+  "pe_ratio": 19.9,
+  "pb_ratio": 2.86,
+  "eps": -1.57,
+  "debt_to_equity": 0.51,
+  "roe": 15.0,
+  "revenue_growth_yoy": 3.7,
+  "earnings_growth": 12.0,
+  "profit_margins": -1.11,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:12.806842"
+}

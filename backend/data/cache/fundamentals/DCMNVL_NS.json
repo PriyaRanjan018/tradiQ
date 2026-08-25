@@ -1,0 +1,18 @@
+{
+  "ticker": "DCMNVL.NS",
+  "company_name": "DCM Nouvelle Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "current_price": 180.29,
+  "market_cap_cr": 336.74,
+  "pe_ratio": 11.5,
+  "pb_ratio": 1.02,
+  "eps": 15.68,
+  "debt_to_equity": 0.98,
+  "roe": 15.0,
+  "revenue_growth_yoy": 13.8,
+  "earnings_growth": 1662.4,
+  "profit_margins": 2.76,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:27:59.931022"
+}

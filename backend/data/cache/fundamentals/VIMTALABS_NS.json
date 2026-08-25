@@ -1,0 +1,18 @@
+{
+  "ticker": "VIMTALABS.NS",
+  "company_name": "Vimta Labs Limited",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "current_price": 626.35,
+  "market_cap_cr": 2798.96,
+  "pe_ratio": 34.3,
+  "pb_ratio": 6.12,
+  "eps": 18.26,
+  "debt_to_equity": 0.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": 11.8,
+  "earnings_growth": 10.7,
+  "profit_margins": 18.91,
+  "dividend_yield": 32.0,
+  "fetched_at": "2026-08-25T18:29:53.660713"
+}

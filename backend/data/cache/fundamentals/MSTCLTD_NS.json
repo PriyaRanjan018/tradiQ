@@ -1,0 +1,18 @@
+{
+  "ticker": "MSTCLTD.NS",
+  "company_name": "MSTC Limited",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "current_price": 727.95,
+  "market_cap_cr": 5124.77,
+  "pe_ratio": 21.85,
+  "pb_ratio": 5.67,
+  "eps": 33.32,
+  "debt_to_equity": 0.16,
+  "roe": 15.0,
+  "revenue_growth_yoy": 21.7,
+  "earnings_growth": 37.6,
+  "profit_margins": 60.63,
+  "dividend_yield": 604.0,
+  "fetched_at": "2026-08-25T18:29:46.958955"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "DCI.NS",
+  "company_name": "DC Infotech and Communication Limited",
+  "sector": "Technology",
+  "industry": "Electronics & Computer Distribution",
+  "current_price": 370.15,
+  "market_cap_cr": 607.05,
+  "pe_ratio": 27.5,
+  "pb_ratio": 5.52,
+  "eps": 13.46,
+  "debt_to_equity": 0.81,
+  "roe": 15.0,
+  "revenue_growth_yoy": 12.9,
+  "earnings_growth": 4.8,
+  "profit_margins": 2.87,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:27:59.935506"
+}

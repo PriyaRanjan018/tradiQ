@@ -1,0 +1,18 @@
+{
+  "ticker": "RKDL.NS",
+  "company_name": "Ravi Kumar Distilleries Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Wineries & Distilleries",
+  "current_price": 18.66,
+  "market_cap_cr": 44.78,
+  "pe_ratio": 311.0,
+  "pb_ratio": 1.1,
+  "eps": 0.06,
+  "debt_to_equity": 1.09,
+  "roe": 15.0,
+  "revenue_growth_yoy": -9.4,
+  "earnings_growth": 200.0,
+  "profit_margins": 0.9,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:18.897708"
+}

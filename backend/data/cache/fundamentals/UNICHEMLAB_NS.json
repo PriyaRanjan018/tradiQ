@@ -1,0 +1,18 @@
+{
+  "ticker": "UNICHEMLAB.NS",
+  "company_name": "Unichem Laboratories Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 526.05,
+  "market_cap_cr": 3703.69,
+  "pe_ratio": 12.16,
+  "pb_ratio": 1.36,
+  "eps": 44.62,
+  "debt_to_equity": 0.18,
+  "roe": 15.0,
+  "revenue_growth_yoy": 20.1,
+  "earnings_growth": 12.0,
+  "profit_margins": 13.21,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:29:53.206802"
+}

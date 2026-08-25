@@ -1,0 +1,23 @@
+{
+  "ticker": "BEL.NS",
+  "company_name": "Bharat Electronics Limited",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "current_price": 413.25,
+  "market_cap_cr": 302076.61,
+  "pe_ratio": 49.31,
+  "forward_pe": 36.62,
+  "pb_ratio": 12.59,
+  "eps": 8.3,
+  "debt_to_equity": 0.0,
+  "roe": null,
+  "revenue_growth_yoy": 24.9,
+  "earnings_growth": 8.3,
+  "qoq_profit_growth": -52.62,
+  "profit_margins": 21.4,
+  "gross_margins": 47.84,
+  "dividend_yield": 61.0,
+  "beta": 0.28,
+  "promoter_holding": 53.42,
+  "fetched_at": "2026-08-25T18:24:25.121777"
+}

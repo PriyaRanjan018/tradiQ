@@ -1,0 +1,18 @@
+{
+  "ticker": "PNGJL.NS",
+  "company_name": "P N Gadgil Jewellers Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "current_price": 605.6,
+  "market_cap_cr": 8914.59,
+  "pe_ratio": 18.43,
+  "pb_ratio": 4.19,
+  "eps": 32.32,
+  "debt_to_equity": 0.89,
+  "roe": 15.0,
+  "revenue_growth_yoy": 40.7,
+  "earnings_growth": 51.9,
+  "profit_margins": 3.9,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:29:48.340858"
+}

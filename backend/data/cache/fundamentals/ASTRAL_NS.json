@@ -1,0 +1,23 @@
+{
+  "ticker": "ASTRAL.NS",
+  "company_name": "Astral Limited",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "current_price": 1540.0,
+  "market_cap_cr": 41372.13,
+  "pe_ratio": 71.96,
+  "forward_pe": 45.73,
+  "pb_ratio": 10.2,
+  "eps": 21.4,
+  "debt_to_equity": 0.06,
+  "roe": null,
+  "revenue_growth_yoy": 15.9,
+  "earnings_growth": 48.0,
+  "qoq_profit_growth": 97.77,
+  "profit_margins": 8.48,
+  "gross_margins": 39.64,
+  "dividend_yield": 26.0,
+  "beta": 0.17,
+  "promoter_holding": 85.9,
+  "fetched_at": "2026-08-25T18:23:08.394341"
+}

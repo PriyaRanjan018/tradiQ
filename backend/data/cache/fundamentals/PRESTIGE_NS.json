@@ -1,0 +1,18 @@
+{
+  "ticker": "PRESTIGE.NS",
+  "company_name": "Prestige Estates Projects Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Diversified",
+  "current_price": 1623.0,
+  "market_cap_cr": 69907.52,
+  "pe_ratio": 61.43,
+  "pb_ratio": 4.3,
+  "eps": 26.42,
+  "debt_to_equity": 1.05,
+  "roe": 7.75,
+  "revenue_growth_yoy": 15.9,
+  "earnings_growth": -19.3,
+  "profit_margins": 8.72,
+  "dividend_yield": 12.0,
+  "fetched_at": "2026-08-25T18:29:48.723249"
+}

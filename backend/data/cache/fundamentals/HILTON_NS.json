@@ -1,0 +1,18 @@
+{
+  "ticker": "HILTON.NS",
+  "company_name": "Hilton Metal Forging Limited",
+  "sector": "Industrials",
+  "industry": "Metal Fabrication",
+  "current_price": 19.84,
+  "market_cap_cr": 102.11,
+  "pe_ratio": 15.75,
+  "pb_ratio": 0.46,
+  "eps": 1.26,
+  "debt_to_equity": 0.37,
+  "roe": 15.0,
+  "revenue_growth_yoy": 167.4,
+  "earnings_growth": 483.3,
+  "profit_margins": 1.91,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:05.227259"
+}

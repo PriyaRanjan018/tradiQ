@@ -1,0 +1,18 @@
+{
+  "ticker": "DIGITIDE.NS",
+  "company_name": "Digitide Solutions Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "current_price": 99.91,
+  "market_cap_cr": 1489.77,
+  "pe_ratio": null,
+  "pb_ratio": 1.78,
+  "eps": -1.61,
+  "debt_to_equity": 0.58,
+  "roe": 15.0,
+  "revenue_growth_yoy": 5.3,
+  "earnings_growth": 12.0,
+  "profit_margins": -0.77,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:00.624733"
+}

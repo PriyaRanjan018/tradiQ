@@ -1,0 +1,23 @@
+{
+  "ticker": "AYE.NS",
+  "company_name": "Aye Finance Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 172.84,
+  "market_cap_cr": 4226.86,
+  "pe_ratio": 17.8,
+  "forward_pe": 9.14,
+  "pb_ratio": 1.51,
+  "eps": 9.71,
+  "debt_to_equity": 2.0,
+  "roe": null,
+  "revenue_growth_yoy": 36.7,
+  "earnings_growth": 91.1,
+  "qoq_profit_growth": -13.28,
+  "profit_margins": 22.21,
+  "gross_margins": 100.0,
+  "dividend_yield": null,
+  "beta": null,
+  "promoter_holding": 35.16,
+  "fetched_at": "2026-08-25T18:23:30.647987"
+}

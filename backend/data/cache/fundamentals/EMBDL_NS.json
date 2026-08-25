@@ -1,0 +1,18 @@
+{
+  "ticker": "EMBDL.NS",
+  "company_name": "Embassy Developments Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Diversified",
+  "current_price": 62.73,
+  "market_cap_cr": 8719.68,
+  "pe_ratio": null,
+  "pb_ratio": 0.88,
+  "eps": -6.83,
+  "debt_to_equity": 0.53,
+  "roe": 15.0,
+  "revenue_growth_yoy": -68.2,
+  "earnings_growth": 12.0,
+  "profit_margins": -74.24,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:02.005323"
+}

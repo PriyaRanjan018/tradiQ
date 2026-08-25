@@ -1,0 +1,18 @@
+{
+  "ticker": "WALCHANNAG.NS",
+  "company_name": "Walchandnagar Industries Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "current_price": 220.02,
+  "market_cap_cr": 1494.04,
+  "pe_ratio": null,
+  "pb_ratio": 4.19,
+  "eps": -0.48,
+  "debt_to_equity": 0.61,
+  "roe": 15.0,
+  "revenue_growth_yoy": 83.8,
+  "earnings_growth": 12.0,
+  "profit_margins": -0.98,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:27.708072"
+}

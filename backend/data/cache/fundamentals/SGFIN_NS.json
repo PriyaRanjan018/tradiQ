@@ -1,0 +1,18 @@
+{
+  "ticker": "SGFIN.NS",
+  "company_name": "SG Finserve Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 700.5,
+  "market_cap_cr": 4615.94,
+  "pe_ratio": 26.47,
+  "pb_ratio": 3.13,
+  "eps": 26.46,
+  "debt_to_equity": 1.85,
+  "roe": 15.0,
+  "revenue_growth_yoy": 101.4,
+  "earnings_growth": 119.3,
+  "profit_margins": 38.98,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:29:50.522257"
+}

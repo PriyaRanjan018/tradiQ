@@ -1,0 +1,18 @@
+{
+  "ticker": "MBEL.NS",
+  "company_name": "M & B Engineering Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "current_price": 272.05,
+  "market_cap_cr": 1555.06,
+  "pe_ratio": 15.43,
+  "pb_ratio": 2.35,
+  "eps": 17.63,
+  "debt_to_equity": 0.13,
+  "roe": 15.0,
+  "revenue_growth_yoy": 22.5,
+  "earnings_growth": 4.5,
+  "profit_margins": 7.36,
+  "dividend_yield": 37.0,
+  "fetched_at": "2026-08-25T18:28:12.197321"
+}

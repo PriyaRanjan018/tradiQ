@@ -1,0 +1,18 @@
+{
+  "ticker": "TREL.NS",
+  "company_name": "Transindia Real Estate Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "current_price": 26.55,
+  "market_cap_cr": 652.32,
+  "pe_ratio": 15.99,
+  "pb_ratio": 0.51,
+  "eps": 1.66,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 4.2,
+  "earnings_growth": 51.6,
+  "profit_margins": 48.39,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:25.438811"
+}

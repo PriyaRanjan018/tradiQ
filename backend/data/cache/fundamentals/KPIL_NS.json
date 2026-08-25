@@ -1,0 +1,18 @@
+{
+  "ticker": "KPIL.NS",
+  "company_name": "Kalpataru Projects International Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "current_price": 1384.4,
+  "market_cap_cr": 23641.75,
+  "pe_ratio": 20.8,
+  "pb_ratio": 3.04,
+  "eps": 66.57,
+  "debt_to_equity": 0.46,
+  "roe": 15.0,
+  "revenue_growth_yoy": 3.8,
+  "earnings_growth": 45.2,
+  "profit_margins": 4.15,
+  "dividend_yield": 79.0,
+  "fetched_at": "2026-08-25T18:29:45.071938"
+}

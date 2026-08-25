@@ -1,0 +1,18 @@
+{
+  "ticker": "KRBL.NS",
+  "company_name": "KRBL Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "current_price": 423.0,
+  "market_cap_cr": 9682.04,
+  "pe_ratio": 12.76,
+  "pb_ratio": 1.67,
+  "eps": 33.14,
+  "debt_to_equity": 0.03,
+  "roe": 15.0,
+  "revenue_growth_yoy": -5.6,
+  "earnings_growth": 73.1,
+  "profit_margins": 12.62,
+  "dividend_yield": 103.0,
+  "fetched_at": "2026-08-25T18:28:09.874126"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "JNKINDIA.NS",
+  "company_name": "JNK India Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 453.7,
+  "market_cap_cr": 2538.63,
+  "pe_ratio": 33.51,
+  "pb_ratio": 4.47,
+  "eps": 13.54,
+  "debt_to_equity": 0.16,
+  "roe": 15.0,
+  "revenue_growth_yoy": 81.5,
+  "earnings_growth": 925.0,
+  "profit_margins": 8.37,
+  "dividend_yield": 7.0,
+  "fetched_at": "2026-08-25T18:28:08.562281"
+}

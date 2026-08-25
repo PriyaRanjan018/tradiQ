@@ -1,0 +1,18 @@
+{
+  "ticker": "ICICIGI.NS",
+  "company_name": "ICICI Lombard General Insurance Company Limited",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "current_price": 1616.0,
+  "market_cap_cr": 80735.14,
+  "pe_ratio": 33.53,
+  "pb_ratio": 4.73,
+  "eps": 48.19,
+  "debt_to_equity": 0.5,
+  "roe": 14.63,
+  "revenue_growth_yoy": 10.9,
+  "earnings_growth": -46.2,
+  "profit_margins": 8.76,
+  "dividend_yield": 86.0,
+  "fetched_at": "2026-08-25T18:29:43.293188"
+}

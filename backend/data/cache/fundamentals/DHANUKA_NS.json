@@ -1,0 +1,23 @@
+{
+  "ticker": "DHANUKA.NS",
+  "company_name": "Dhanuka Agritech Limited",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "current_price": 983.7,
+  "market_cap_cr": 4385.17,
+  "pe_ratio": 16.53,
+  "forward_pe": 13.52,
+  "pb_ratio": 2.64,
+  "eps": 59.5,
+  "debt_to_equity": 0.02,
+  "roe": null,
+  "revenue_growth_yoy": -12.6,
+  "earnings_growth": -34.5,
+  "qoq_profit_growth": -62.87,
+  "profit_margins": 13.72,
+  "gross_margins": 40.21,
+  "dividend_yield": 20.0,
+  "beta": 0.33,
+  "promoter_holding": 70.18,
+  "fetched_at": "2026-08-25T18:28:23.765833"
+}

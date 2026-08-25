@@ -1,0 +1,18 @@
+{
+  "ticker": "ITDC.NS",
+  "company_name": "India Tourism Development Corporation Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "current_price": 681.6,
+  "market_cap_cr": 5846.04,
+  "pe_ratio": 70.63,
+  "pb_ratio": 13.83,
+  "eps": 9.58,
+  "debt_to_equity": 0.0,
+  "roe": 15.0,
+  "revenue_growth_yoy": 2.7,
+  "earnings_growth": -4.4,
+  "profit_margins": 15.38,
+  "dividend_yield": 43.0,
+  "fetched_at": "2026-08-25T18:29:44.000690"
+}

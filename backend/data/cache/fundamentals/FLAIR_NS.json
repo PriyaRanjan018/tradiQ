@@ -1,0 +1,18 @@
+{
+  "ticker": "FLAIR.NS",
+  "company_name": "Flair Writing Industries Limited",
+  "sector": "Industrials",
+  "industry": "Business Equipment & Supplies",
+  "current_price": 250.95,
+  "market_cap_cr": 2644.9,
+  "pe_ratio": 18.93,
+  "pb_ratio": 2.32,
+  "eps": 13.26,
+  "debt_to_equity": 0.06,
+  "roe": 15.0,
+  "revenue_growth_yoy": 10.6,
+  "earnings_growth": -0.4,
+  "profit_margins": 10.91,
+  "dividend_yield": 40.0,
+  "fetched_at": "2026-08-25T18:28:02.593163"
+}

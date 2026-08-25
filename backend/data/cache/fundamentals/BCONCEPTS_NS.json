@@ -1,0 +1,23 @@
+{
+  "ticker": "BCONCEPTS.NS",
+  "company_name": "Brand Concepts Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Footwear & Accessories",
+  "current_price": 159.63,
+  "market_cap_cr": 199.25,
+  "pe_ratio": 202.06,
+  "forward_pe": null,
+  "pb_ratio": 2.4,
+  "eps": 0.79,
+  "debt_to_equity": 2.2,
+  "roe": null,
+  "revenue_growth_yoy": 11.0,
+  "earnings_growth": null,
+  "qoq_profit_growth": 37.79,
+  "profit_margins": 0.27,
+  "gross_margins": 55.43,
+  "dividend_yield": null,
+  "beta": -0.2,
+  "promoter_holding": 74.92,
+  "fetched_at": "2026-08-25T18:24:19.533809"
+}

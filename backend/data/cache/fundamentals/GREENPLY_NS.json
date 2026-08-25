@@ -1,0 +1,18 @@
+{
+  "ticker": "GREENPLY.NS",
+  "company_name": "Greenply Industries Limited",
+  "sector": "Basic Materials",
+  "industry": "Lumber & Wood Production",
+  "current_price": 287.9,
+  "market_cap_cr": 3595.93,
+  "pe_ratio": 36.35,
+  "pb_ratio": 3.99,
+  "eps": 7.92,
+  "debt_to_equity": 0.58,
+  "roe": 15.0,
+  "revenue_growth_yoy": 20.7,
+  "earnings_growth": 32.0,
+  "profit_margins": 3.45,
+  "dividend_yield": 17.0,
+  "fetched_at": "2026-08-25T18:28:04.260815"
+}

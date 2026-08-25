@@ -1,0 +1,23 @@
+{
+  "ticker": "CGCL.NS",
+  "company_name": "Capri Global Capital Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 239.67,
+  "market_cap_cr": 23059.94,
+  "pe_ratio": 20.41,
+  "forward_pe": 12.39,
+  "pb_ratio": 3.21,
+  "eps": 11.74,
+  "debt_to_equity": 3.35,
+  "roe": null,
+  "revenue_growth_yoy": 85.8,
+  "earnings_growth": 79.4,
+  "qoq_profit_growth": 24.95,
+  "profit_margins": 34.96,
+  "gross_margins": 94.76,
+  "dividend_yield": 9.0,
+  "beta": -0.03,
+  "promoter_holding": 63.72,
+  "fetched_at": "2026-08-25T18:27:11.310560"
+}

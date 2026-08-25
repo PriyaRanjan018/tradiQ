@@ -1,0 +1,23 @@
+{
+  "ticker": "GNA.NS",
+  "company_name": "G N A Axles Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 548.8,
+  "market_cap_cr": 2356.04,
+  "pe_ratio": 18.06,
+  "forward_pe": 14.83,
+  "pb_ratio": 2.35,
+  "eps": 30.38,
+  "debt_to_equity": null,
+  "roe": 12.29,
+  "revenue_growth_yoy": null,
+  "earnings_growth": null,
+  "qoq_profit_growth": 24.17,
+  "profit_margins": 8.08,
+  "gross_margins": 36.9,
+  "dividend_yield": 54.0,
+  "beta": 0.49,
+  "promoter_holding": 62.13,
+  "fetched_at": "2026-08-25T18:29:24.509373"
+}

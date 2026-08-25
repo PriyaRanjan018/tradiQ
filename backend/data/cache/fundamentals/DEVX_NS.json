@@ -1,0 +1,18 @@
+{
+  "ticker": "DEVX.NS",
+  "company_name": "Dev Accelerator Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "current_price": 33.97,
+  "market_cap_cr": 321.46,
+  "pe_ratio": 26.54,
+  "pb_ratio": 1.98,
+  "eps": 1.28,
+  "debt_to_equity": 2.0,
+  "roe": 15.0,
+  "revenue_growth_yoy": -3.3,
+  "earnings_growth": 700.0,
+  "profit_margins": 4.53,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:00.306742"
+}

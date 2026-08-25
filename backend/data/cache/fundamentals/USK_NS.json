@@ -1,0 +1,18 @@
+{
+  "ticker": "USK.NS",
+  "company_name": "Udayshivakumar Infra Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "current_price": 21.33,
+  "market_cap_cr": 118.08,
+  "pe_ratio": 64.64,
+  "pb_ratio": 0.69,
+  "eps": 0.33,
+  "debt_to_equity": 0.45,
+  "roe": 15.0,
+  "revenue_growth_yoy": -20.5,
+  "earnings_growth": 12.0,
+  "profit_margins": 5.94,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:26.126824"
+}

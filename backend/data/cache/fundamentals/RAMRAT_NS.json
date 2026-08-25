@@ -1,0 +1,18 @@
+{
+  "ticker": "RAMRAT.NS",
+  "company_name": "Ram Ratna Wires Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "current_price": 489.55,
+  "market_cap_cr": 4569.9,
+  "pe_ratio": 36.1,
+  "pb_ratio": 7.89,
+  "eps": 13.56,
+  "debt_to_equity": 1.15,
+  "roe": 15.0,
+  "revenue_growth_yoy": 88.6,
+  "earnings_growth": 127.8,
+  "profit_margins": 2.1,
+  "dividend_yield": 51.0,
+  "fetched_at": "2026-08-25T18:28:18.090257"
+}

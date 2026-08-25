@@ -1,0 +1,18 @@
+{
+  "ticker": "THYROCARE.NS",
+  "company_name": "Thyrocare Technologies Limited",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "current_price": 596.05,
+  "market_cap_cr": 9486.83,
+  "pe_ratio": 54.04,
+  "pb_ratio": 16.2,
+  "eps": 11.03,
+  "debt_to_equity": 0.09,
+  "roe": 15.0,
+  "revenue_growth_yoy": 24.3,
+  "earnings_growth": 31.8,
+  "profit_margins": 20.12,
+  "dividend_yield": 280.0,
+  "fetched_at": "2026-08-25T18:29:52.695296"
+}

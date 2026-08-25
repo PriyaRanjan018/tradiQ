@@ -1,0 +1,18 @@
+{
+  "ticker": "PAVNAIND.NS",
+  "company_name": "Pavna Industries Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 18.22,
+  "market_cap_cr": 254.22,
+  "pe_ratio": 9.64,
+  "pb_ratio": 1.28,
+  "eps": 1.89,
+  "debt_to_equity": 0.52,
+  "roe": 15.0,
+  "revenue_growth_yoy": 52.1,
+  "earnings_growth": 12.0,
+  "profit_margins": 2.3,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:16.119699"
+}

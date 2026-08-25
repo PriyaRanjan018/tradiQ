@@ -1,0 +1,23 @@
+{
+  "ticker": "DREDGECORP.NS",
+  "company_name": "Dredging Corporation of India Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "current_price": 1100.2,
+  "market_cap_cr": 3080.56,
+  "pe_ratio": 62.37,
+  "forward_pe": null,
+  "pb_ratio": 2.48,
+  "eps": 17.64,
+  "debt_to_equity": 0.89,
+  "roe": 3.19,
+  "revenue_growth_yoy": 46.7,
+  "earnings_growth": null,
+  "qoq_profit_growth": 452.87,
+  "profit_margins": 2.97,
+  "gross_margins": 56.18,
+  "dividend_yield": null,
+  "beta": 0.74,
+  "promoter_holding": 73.47,
+  "fetched_at": "2026-08-25T18:28:34.959844"
+}

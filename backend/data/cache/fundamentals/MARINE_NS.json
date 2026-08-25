@@ -1,0 +1,18 @@
+{
+  "ticker": "MARINE.NS",
+  "company_name": "Marine Electricals (India) Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "current_price": 373.5,
+  "market_cap_cr": 4955.05,
+  "pe_ratio": 81.37,
+  "pb_ratio": 10.53,
+  "eps": 4.29,
+  "debt_to_equity": 0.18,
+  "roe": 15.0,
+  "revenue_growth_yoy": 55.2,
+  "earnings_growth": 48.2,
+  "profit_margins": 6.61,
+  "dividend_yield": 8.0,
+  "fetched_at": "2026-08-25T18:28:11.832629"
+}

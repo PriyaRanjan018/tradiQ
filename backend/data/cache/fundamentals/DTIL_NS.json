@@ -1,0 +1,18 @@
+{
+  "ticker": "DTIL.NS",
+  "company_name": "Dhunseri Tea & Industries Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "current_price": 152.69,
+  "market_cap_cr": 160.44,
+  "pe_ratio": null,
+  "pb_ratio": 0.3,
+  "eps": -11.64,
+  "debt_to_equity": 0.48,
+  "roe": 15.0,
+  "revenue_growth_yoy": -26.0,
+  "earnings_growth": -68.5,
+  "profit_margins": -2.8,
+  "dividend_yield": 143.0,
+  "fetched_at": "2026-08-25T18:28:01.111641"
+}

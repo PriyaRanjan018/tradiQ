@@ -1,0 +1,18 @@
+{
+  "ticker": "RBLBANK.NS",
+  "company_name": "RBL Bank Limited",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "current_price": 384.0,
+  "market_cap_cr": 59524.15,
+  "pe_ratio": 31.71,
+  "pb_ratio": 1.42,
+  "eps": 12.11,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 40.8,
+  "earnings_growth": 367.9,
+  "profit_margins": 9.08,
+  "dividend_yield": 33.0,
+  "fetched_at": "2026-08-25T18:28:18.194600"
+}

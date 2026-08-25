@@ -1,0 +1,23 @@
+{
+  "ticker": "DPABHUSHAN.NS",
+  "company_name": "D. P. Abhushan Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "current_price": 1459.5,
+  "market_cap_cr": 3331.73,
+  "pe_ratio": 14.39,
+  "forward_pe": null,
+  "pb_ratio": 5.26,
+  "eps": 101.4,
+  "debt_to_equity": 0.48,
+  "roe": null,
+  "revenue_growth_yoy": 58.0,
+  "earnings_growth": 75.5,
+  "qoq_profit_growth": 27.37,
+  "profit_margins": 5.48,
+  "gross_margins": 10.52,
+  "dividend_yield": null,
+  "beta": -0.53,
+  "promoter_holding": 81.04,
+  "fetched_at": "2026-08-25T18:28:33.678806"
+}

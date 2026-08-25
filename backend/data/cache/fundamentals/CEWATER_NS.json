@@ -1,0 +1,23 @@
+{
+  "ticker": "CEWATER.NS",
+  "company_name": "Concord Enviro Systems Limited",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Water",
+  "current_price": 265.45,
+  "market_cap_cr": 549.38,
+  "pe_ratio": 1061.8,
+  "forward_pe": null,
+  "pb_ratio": 0.96,
+  "eps": 0.25,
+  "debt_to_equity": 0.29,
+  "roe": null,
+  "revenue_growth_yoy": -16.6,
+  "earnings_growth": null,
+  "qoq_profit_growth": 273.11,
+  "profit_margins": -0.36,
+  "gross_margins": 37.35,
+  "dividend_yield": null,
+  "beta": null,
+  "promoter_holding": 68.47,
+  "fetched_at": "2026-08-25T18:27:08.123489"
+}

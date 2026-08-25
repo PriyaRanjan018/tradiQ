@@ -1,0 +1,18 @@
+{
+  "ticker": "QPOWER.NS",
+  "company_name": "Quality Power Electrical Equipments Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "current_price": 1309.1,
+  "market_cap_cr": 10138.21,
+  "pe_ratio": 76.56,
+  "pb_ratio": 18.7,
+  "eps": 17.1,
+  "debt_to_equity": 0.05,
+  "roe": 15.0,
+  "revenue_growth_yoy": 31.7,
+  "earnings_growth": 49.5,
+  "profit_margins": 13.29,
+  "dividend_yield": 10.0,
+  "fetched_at": "2026-08-25T18:29:48.984002"
+}

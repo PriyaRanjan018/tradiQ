@@ -1,0 +1,18 @@
+{
+  "ticker": "VAIBHAVGBL.NS",
+  "company_name": "Vaibhav Global Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "current_price": 221.3,
+  "market_cap_cr": 3702.02,
+  "pe_ratio": 13.14,
+  "pb_ratio": 2.24,
+  "eps": 16.84,
+  "debt_to_equity": 0.25,
+  "roe": 15.0,
+  "revenue_growth_yoy": 12.7,
+  "earnings_growth": 48.7,
+  "profit_margins": 7.51,
+  "dividend_yield": 273.0,
+  "fetched_at": "2026-08-25T18:28:26.357880"
+}

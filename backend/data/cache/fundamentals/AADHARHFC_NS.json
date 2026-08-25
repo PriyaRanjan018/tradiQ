@@ -1,0 +1,23 @@
+{
+  "ticker": "AADHARHFC.NS",
+  "company_name": "AADHAR HOUSING FINANCE L",
+  "sector": "Financial Services",
+  "industry": "Mortgage Finance",
+  "current_price": 475.0,
+  "market_cap_cr": 20792.53,
+  "pe_ratio": 18.61,
+  "forward_pe": 12.84,
+  "pb_ratio": 2.74,
+  "eps": 25.53,
+  "debt_to_equity": 2.56,
+  "roe": null,
+  "revenue_growth_yoy": 19.6,
+  "earnings_growth": 18.4,
+  "qoq_profit_growth": -9.19,
+  "profit_margins": 48.15,
+  "gross_margins": 98.47,
+  "dividend_yield": null,
+  "beta": 0.4,
+  "promoter_holding": 74.71,
+  "fetched_at": "2026-08-25T18:17:16.603058"
+}

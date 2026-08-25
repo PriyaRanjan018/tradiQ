@@ -1,0 +1,23 @@
+{
+  "ticker": "GMBREW.NS",
+  "company_name": "G.M. Breweries Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Wineries & Distilleries",
+  "current_price": 887.55,
+  "market_cap_cr": 2027.78,
+  "pe_ratio": 12.02,
+  "forward_pe": 14.63,
+  "pb_ratio": 1.88,
+  "eps": 73.83,
+  "debt_to_equity": 0.03,
+  "roe": null,
+  "revenue_growth_yoy": 25.8,
+  "earnings_growth": 45.9,
+  "qoq_profit_growth": -30.2,
+  "profit_margins": 8.88,
+  "gross_margins": 13.2,
+  "dividend_yield": 103.0,
+  "beta": 0.31,
+  "promoter_holding": 77.38,
+  "fetched_at": "2026-08-25T18:29:19.896808"
+}

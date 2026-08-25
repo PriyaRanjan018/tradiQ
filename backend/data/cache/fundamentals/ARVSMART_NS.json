@@ -1,0 +1,23 @@
+{
+  "ticker": "ARVSMART.NS",
+  "company_name": "Arvind SmartSpaces Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "current_price": 683.75,
+  "market_cap_cr": 3136.15,
+  "pe_ratio": 17.7,
+  "forward_pe": 19.63,
+  "pb_ratio": 4.63,
+  "eps": 40.29,
+  "debt_to_equity": 0.65,
+  "roe": null,
+  "revenue_growth_yoy": 212.1,
+  "earnings_growth": 801.2,
+  "qoq_profit_growth": 47.14,
+  "profit_margins": 23.63,
+  "gross_margins": 70.83,
+  "dividend_yield": 32.0,
+  "beta": 0.29,
+  "promoter_holding": 67.92,
+  "fetched_at": "2026-08-25T18:22:46.761173"
+}

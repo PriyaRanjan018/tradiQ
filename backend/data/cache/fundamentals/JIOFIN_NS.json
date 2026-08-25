@@ -1,0 +1,18 @@
+{
+  "ticker": "JIOFIN.NS",
+  "company_name": "Jio Financial Services Limited",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "current_price": 243.15,
+  "market_cap_cr": 160555.39,
+  "pe_ratio": 75.51,
+  "pb_ratio": 1.15,
+  "eps": 3.22,
+  "debt_to_equity": 0.16,
+  "roe": 15.0,
+  "revenue_growth_yoy": 208.2,
+  "earnings_growth": 170.2,
+  "profit_margins": 55.01,
+  "dividend_yield": 25.0,
+  "fetched_at": "2026-08-25T18:28:08.215219"
+}

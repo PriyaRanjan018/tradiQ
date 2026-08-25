@@ -1,0 +1,23 @@
+{
+  "ticker": "ATALREAL.NS",
+  "company_name": "Atal Realtech Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "current_price": 34.06,
+  "market_cap_cr": 421.99,
+  "pe_ratio": 34.06,
+  "forward_pe": null,
+  "pb_ratio": 2.28,
+  "eps": 1.0,
+  "debt_to_equity": 0.04,
+  "roe": null,
+  "revenue_growth_yoy": 3.5,
+  "earnings_growth": 33.3,
+  "qoq_profit_growth": 79.73,
+  "profit_margins": 5.67,
+  "gross_margins": 14.53,
+  "dividend_yield": null,
+  "beta": 0.54,
+  "promoter_holding": 63.14,
+  "fetched_at": "2026-08-25T18:23:02.684666"
+}

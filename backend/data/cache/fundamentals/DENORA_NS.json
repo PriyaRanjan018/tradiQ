@@ -1,0 +1,23 @@
+{
+  "ticker": "DENORA.NS",
+  "company_name": "De Nora India Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "current_price": 824.4,
+  "market_cap_cr": 437.64,
+  "pe_ratio": 35.91,
+  "forward_pe": null,
+  "pb_ratio": 3.39,
+  "eps": 22.96,
+  "debt_to_equity": null,
+  "roe": null,
+  "revenue_growth_yoy": -16.0,
+  "earnings_growth": 96.7,
+  "qoq_profit_growth": 1102.29,
+  "profit_margins": 10.61,
+  "gross_margins": 44.48,
+  "dividend_yield": 49.0,
+  "beta": -0.16,
+  "promoter_holding": 58.92,
+  "fetched_at": "2026-08-25T18:28:22.201480"
+}

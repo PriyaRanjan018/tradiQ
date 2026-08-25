@@ -1,0 +1,23 @@
+{
+  "ticker": "CALSOFT.NS",
+  "company_name": "California Software Company Limited",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "current_price": 30.67,
+  "market_cap_cr": 189.63,
+  "pe_ratio": 13.57,
+  "forward_pe": null,
+  "pb_ratio": 4.59,
+  "eps": 2.26,
+  "debt_to_equity": 0.04,
+  "roe": null,
+  "revenue_growth_yoy": 328.8,
+  "earnings_growth": 2161.1,
+  "qoq_profit_growth": -54.4,
+  "profit_margins": 59.12,
+  "gross_margins": 85.1,
+  "dividend_yield": null,
+  "beta": 0.66,
+  "promoter_holding": 42.79,
+  "fetched_at": "2026-08-25T18:25:55.318385"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "JSWENERGY.NS",
+  "company_name": "JSW Energy Limited",
+  "sector": "Utilities",
+  "industry": "Utilities - Independent Power Producers",
+  "current_price": 548.4,
+  "market_cap_cr": 100487.34,
+  "pe_ratio": 43.01,
+  "pb_ratio": 3.13,
+  "eps": 12.75,
+  "debt_to_equity": 2.29,
+  "roe": 15.0,
+  "revenue_growth_yoy": 1.2,
+  "earnings_growth": -39.5,
+  "profit_margins": 10.37,
+  "dividend_yield": 37.0,
+  "fetched_at": "2026-08-25T18:29:44.591264"
+}

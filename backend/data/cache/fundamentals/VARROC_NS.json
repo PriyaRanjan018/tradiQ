@@ -1,0 +1,18 @@
+{
+  "ticker": "VARROC.NS",
+  "company_name": "Varroc Engineering Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 810.3,
+  "market_cap_cr": 12381.33,
+  "pe_ratio": 62.52,
+  "pb_ratio": 6.95,
+  "eps": 12.96,
+  "debt_to_equity": 0.51,
+  "roe": 15.0,
+  "revenue_growth_yoy": 29.9,
+  "earnings_growth": -26.5,
+  "profit_margins": 2.08,
+  "dividend_yield": 18.0,
+  "fetched_at": "2026-08-25T18:29:53.530203"
+}

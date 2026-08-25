@@ -1,0 +1,18 @@
+{
+  "ticker": "MARICO.NS",
+  "company_name": "Marico Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "current_price": 847.5,
+  "market_cap_cr": 109850.96,
+  "pe_ratio": 58.01,
+  "pb_ratio": 26.13,
+  "eps": 14.61,
+  "debt_to_equity": 0.12,
+  "roe": 15.0,
+  "revenue_growth_yoy": 21.4,
+  "earnings_growth": 24.7,
+  "profit_margins": 13.16,
+  "dividend_yield": 47.0,
+  "fetched_at": "2026-08-25T18:29:46.307570"
+}

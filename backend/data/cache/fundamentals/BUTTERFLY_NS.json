@@ -1,0 +1,23 @@
+{
+  "ticker": "BUTTERFLY.NS",
+  "company_name": "Butterfly Gandhimathi Appliances Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Furnishings, Fixtures & Appliances",
+  "current_price": 632.7,
+  "market_cap_cr": 1131.24,
+  "pe_ratio": 23.49,
+  "forward_pe": null,
+  "pb_ratio": 3.04,
+  "eps": 26.93,
+  "debt_to_equity": 0.02,
+  "roe": null,
+  "revenue_growth_yoy": 14.1,
+  "earnings_growth": 38.1,
+  "qoq_profit_growth": 6.24,
+  "profit_margins": 4.96,
+  "gross_margins": 37.69,
+  "dividend_yield": null,
+  "beta": 0.02,
+  "promoter_holding": 81.09,
+  "fetched_at": "2026-08-25T18:25:51.223259"
+}

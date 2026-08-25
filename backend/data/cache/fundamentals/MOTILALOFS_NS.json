@@ -1,0 +1,18 @@
+{
+  "ticker": "MOTILALOFS.NS",
+  "company_name": "Motilal Oswal Financial Services Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 1011.5,
+  "market_cap_cr": 60907.14,
+  "pe_ratio": 31.34,
+  "pb_ratio": 4.72,
+  "eps": 32.27,
+  "debt_to_equity": 1.66,
+  "roe": 15.0,
+  "revenue_growth_yoy": 23.9,
+  "earnings_growth": 8.7,
+  "profit_margins": 22.96,
+  "dividend_yield": 111.0,
+  "fetched_at": "2026-08-25T18:29:46.967455"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "GENUSPAPER.NS",
+  "company_name": "Genus Paper & Boards Limited",
+  "sector": "Basic Materials",
+  "industry": "Paper & Paper Products",
+  "current_price": 12.09,
+  "market_cap_cr": 310.87,
+  "pe_ratio": 21.59,
+  "pb_ratio": 0.62,
+  "eps": 0.56,
+  "debt_to_equity": 0.87,
+  "roe": 1.86,
+  "revenue_growth_yoy": -14.4,
+  "earnings_growth": -12.5,
+  "profit_margins": 0.98,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:03.262035"
+}

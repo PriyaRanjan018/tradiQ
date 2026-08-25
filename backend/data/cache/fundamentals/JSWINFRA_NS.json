@@ -1,0 +1,18 @@
+{
+  "ticker": "JSWINFRA.NS",
+  "company_name": "JSW Infrastructure Limited",
+  "sector": "Industrials",
+  "industry": "Marine Shipping",
+  "current_price": 343.95,
+  "market_cap_cr": 79630.0,
+  "pe_ratio": 48.58,
+  "pb_ratio": 6.59,
+  "eps": 7.08,
+  "debt_to_equity": 0.59,
+  "roe": 15.0,
+  "revenue_growth_yoy": 18.1,
+  "earnings_growth": -10.3,
+  "profit_margins": 26.58,
+  "dividend_yield": 26.0,
+  "fetched_at": "2026-08-25T18:28:08.693093"
+}

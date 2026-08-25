@@ -1,0 +1,18 @@
+{
+  "ticker": "VGUARD.NS",
+  "company_name": "V-Guard Industries Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "current_price": 332.7,
+  "market_cap_cr": 14535.37,
+  "pe_ratio": 40.08,
+  "pb_ratio": 6.12,
+  "eps": 8.3,
+  "debt_to_equity": 0.07,
+  "roe": 15.0,
+  "revenue_growth_yoy": 23.5,
+  "earnings_growth": 76.2,
+  "profit_margins": 5.78,
+  "dividend_yield": 45.0,
+  "fetched_at": "2026-08-25T18:28:26.694559"
+}

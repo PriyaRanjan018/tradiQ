@@ -1,0 +1,18 @@
+{
+  "ticker": "SBILIFE.NS",
+  "company_name": "SBI Life Insurance Company Limited",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "current_price": 1755.0,
+  "market_cap_cr": 176087.85,
+  "pe_ratio": 67.76,
+  "pb_ratio": 8.75,
+  "eps": 25.9,
+  "debt_to_equity": 0.5,
+  "roe": 13.7,
+  "revenue_growth_yoy": 18.8,
+  "earnings_growth": 21.8,
+  "profit_margins": 2.14,
+  "dividend_yield": 15.0,
+  "fetched_at": "2026-08-25T18:29:50.254776"
+}

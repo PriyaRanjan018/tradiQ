@@ -1,0 +1,23 @@
+{
+  "ticker": "ARIHANTSUP.NS",
+  "company_name": "Arihant Superstructures Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "current_price": 250.0,
+  "market_cap_cr": 1081.25,
+  "pe_ratio": 25.35,
+  "forward_pe": null,
+  "pb_ratio": 2.98,
+  "eps": 9.86,
+  "debt_to_equity": 1.94,
+  "roe": null,
+  "revenue_growth_yoy": 8.8,
+  "earnings_growth": -37.1,
+  "qoq_profit_growth": 137.62,
+  "profit_margins": 7.11,
+  "gross_margins": 37.72,
+  "dividend_yield": 10.0,
+  "beta": 0.67,
+  "promoter_holding": 78.84,
+  "fetched_at": "2026-08-25T18:22:33.573493"
+}

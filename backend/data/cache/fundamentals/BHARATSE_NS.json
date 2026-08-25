@@ -1,0 +1,23 @@
+{
+  "ticker": "BHARATSE.NS",
+  "company_name": "Bharat Seats Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 222.27,
+  "market_cap_cr": 1395.86,
+  "pe_ratio": 29.96,
+  "forward_pe": null,
+  "pb_ratio": 6.08,
+  "eps": 7.42,
+  "debt_to_equity": 0.48,
+  "roe": 19.91,
+  "revenue_growth_yoy": 46.2,
+  "earnings_growth": 16.3,
+  "qoq_profit_growth": 33.86,
+  "profit_margins": 2.17,
+  "gross_margins": 13.47,
+  "dividend_yield": 66.0,
+  "beta": 0.89,
+  "promoter_holding": 60.02,
+  "fetched_at": "2026-08-25T18:24:42.382006"
+}

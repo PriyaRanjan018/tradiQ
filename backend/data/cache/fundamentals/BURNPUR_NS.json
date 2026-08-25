@@ -1,0 +1,23 @@
+{
+  "ticker": "BURNPUR.NS",
+  "company_name": "Burnpur Cement Limited",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "current_price": 12.15,
+  "market_cap_cr": 20.93,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "pb_ratio": -0.04,
+  "eps": -50.0,
+  "debt_to_equity": null,
+  "roe": null,
+  "revenue_growth_yoy": null,
+  "earnings_growth": null,
+  "qoq_profit_growth": -3.99,
+  "profit_margins": null,
+  "gross_margins": null,
+  "dividend_yield": null,
+  "beta": 0.18,
+  "promoter_holding": null,
+  "fetched_at": "2026-08-25T18:25:49.656568"
+}

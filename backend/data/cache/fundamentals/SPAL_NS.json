@@ -1,0 +1,18 @@
+{
+  "ticker": "SPAL.NS",
+  "company_name": "S.P. Apparels Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Manufacturing",
+  "current_price": 949.8,
+  "market_cap_cr": 2387.69,
+  "pe_ratio": 22.99,
+  "pb_ratio": 2.52,
+  "eps": 41.31,
+  "debt_to_equity": 0.45,
+  "roe": 15.0,
+  "revenue_growth_yoy": -0.6,
+  "earnings_growth": 19.8,
+  "profit_margins": 6.67,
+  "dividend_yield": 32.0,
+  "fetched_at": "2026-08-25T18:29:51.311271"
+}

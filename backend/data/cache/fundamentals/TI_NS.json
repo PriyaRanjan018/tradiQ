@@ -1,0 +1,18 @@
+{
+  "ticker": "TI.NS",
+  "company_name": "Tilaknagar Industries Ltd.",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Wineries & Distilleries",
+  "current_price": 574.7,
+  "market_cap_cr": 14204.91,
+  "pe_ratio": 34.36,
+  "pb_ratio": 4.79,
+  "eps": -2.31,
+  "debt_to_equity": 0.77,
+  "roe": 15.0,
+  "revenue_growth_yoy": 155.7,
+  "earnings_growth": -72.0,
+  "profit_margins": -1.2,
+  "dividend_yield": 17.0,
+  "fetched_at": "2026-08-25T18:29:52.740536"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "ZEEL.NS",
+  "company_name": "Zee Entertainment Enterprises Limited",
+  "sector": "Communication Services",
+  "industry": "Broadcasting",
+  "current_price": 104.82,
+  "market_cap_cr": 10068.16,
+  "pe_ratio": 51.13,
+  "pb_ratio": 0.85,
+  "eps": 2.05,
+  "debt_to_equity": 0.02,
+  "roe": 15.0,
+  "revenue_growth_yoy": 4.5,
+  "earnings_growth": -47.3,
+  "profit_margins": 2.51,
+  "dividend_yield": 191.0,
+  "fetched_at": "2026-08-25T18:28:28.040358"
+}

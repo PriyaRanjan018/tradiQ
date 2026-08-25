@@ -1,0 +1,23 @@
+{
+  "ticker": "GOKEX.NS",
+  "company_name": "Gokaldas Exports Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Manufacturing",
+  "current_price": 791.25,
+  "market_cap_cr": 5798.09,
+  "pe_ratio": 59.4,
+  "forward_pe": 18.86,
+  "pb_ratio": 2.68,
+  "eps": 13.32,
+  "debt_to_equity": 0.59,
+  "roe": null,
+  "revenue_growth_yoy": 20.7,
+  "earnings_growth": 3.4,
+  "qoq_profit_growth": 146.09,
+  "profit_margins": 2.46,
+  "gross_margins": 50.89,
+  "dividend_yield": null,
+  "beta": -0.03,
+  "promoter_holding": 12.64,
+  "fetched_at": "2026-08-25T18:29:31.428795"
+}

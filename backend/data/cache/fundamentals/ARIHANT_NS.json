@@ -1,0 +1,23 @@
+{
+  "ticker": "ARIHANT.NS",
+  "company_name": "Arihant Foundations & Housing Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "current_price": 971.9,
+  "market_cap_cr": 1055.73,
+  "pe_ratio": 15.17,
+  "forward_pe": null,
+  "pb_ratio": 2.61,
+  "eps": 64.06,
+  "debt_to_equity": 1.08,
+  "roe": null,
+  "revenue_growth_yoy": 62.6,
+  "earnings_growth": 24.7,
+  "qoq_profit_growth": -78.49,
+  "profit_margins": 14.13,
+  "gross_margins": 30.79,
+  "dividend_yield": null,
+  "beta": 0.37,
+  "promoter_holding": 71.16,
+  "fetched_at": "2026-08-25T18:22:31.746433"
+}

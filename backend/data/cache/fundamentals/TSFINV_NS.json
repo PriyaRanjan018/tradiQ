@@ -1,0 +1,18 @@
+{
+  "ticker": "TSFINV.NS",
+  "company_name": "TSF Investments Limited",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "current_price": 411.1,
+  "market_cap_cr": 9072.64,
+  "pe_ratio": 18.77,
+  "pb_ratio": 1.51,
+  "eps": 21.9,
+  "debt_to_equity": 0.04,
+  "roe": 15.0,
+  "revenue_growth_yoy": 70.9,
+  "earnings_growth": -22.3,
+  "profit_margins": 44.55,
+  "dividend_yield": 308.0,
+  "fetched_at": "2026-08-25T18:28:25.428662"
+}

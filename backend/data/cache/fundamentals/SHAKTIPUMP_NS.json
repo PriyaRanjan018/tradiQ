@@ -1,0 +1,18 @@
+{
+  "ticker": "SHAKTIPUMP.NS",
+  "company_name": "Shakti Pumps (India) Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 491.95,
+  "market_cap_cr": 6070.56,
+  "pe_ratio": 28.7,
+  "pb_ratio": 3.56,
+  "eps": 17.14,
+  "debt_to_equity": 0.3,
+  "roe": 15.0,
+  "revenue_growth_yoy": 37.9,
+  "earnings_growth": -48.1,
+  "profit_margins": 7.22,
+  "dividend_yield": 20.0,
+  "fetched_at": "2026-08-25T18:28:21.013577"
+}

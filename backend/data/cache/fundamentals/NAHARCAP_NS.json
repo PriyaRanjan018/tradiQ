@@ -1,0 +1,18 @@
+{
+  "ticker": "NAHARCAP.NS",
+  "company_name": "Nahar Capital and Financial Services Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 259.99,
+  "market_cap_cr": 435.38,
+  "pe_ratio": 3.66,
+  "pb_ratio": 0.27,
+  "eps": 71.12,
+  "debt_to_equity": 0.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": 24.6,
+  "earnings_growth": 487.0,
+  "profit_margins": 226.49,
+  "dividend_yield": 58.0,
+  "fetched_at": "2026-08-25T18:28:13.643777"
+}

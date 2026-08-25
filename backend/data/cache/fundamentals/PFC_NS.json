@@ -1,0 +1,18 @@
+{
+  "ticker": "PFC.NS",
+  "company_name": "Power Finance Corporation Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 367.0,
+  "market_cap_cr": 121113.73,
+  "pe_ratio": 4.65,
+  "pb_ratio": 0.85,
+  "eps": 78.92,
+  "debt_to_equity": 5.37,
+  "roe": 15.0,
+  "revenue_growth_yoy": 0.8,
+  "earnings_growth": 2.1,
+  "profit_margins": 54.48,
+  "dividend_yield": 429.0,
+  "fetched_at": "2026-08-25T18:28:16.586794"
+}

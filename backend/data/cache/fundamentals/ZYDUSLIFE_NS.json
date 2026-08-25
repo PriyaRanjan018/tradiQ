@@ -1,0 +1,18 @@
+{
+  "ticker": "ZYDUSLIFE.NS",
+  "company_name": "Zydus Lifesciences Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 1124.5,
+  "market_cap_cr": 112169.31,
+  "pe_ratio": 25.04,
+  "pb_ratio": 4.17,
+  "eps": 45.47,
+  "debt_to_equity": 0.42,
+  "roe": 15.0,
+  "revenue_growth_yoy": 22.0,
+  "earnings_growth": -35.9,
+  "profit_margins": 15.78,
+  "dividend_yield": 9.0,
+  "fetched_at": "2026-08-25T18:29:54.689375"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "LICI.NS",
+  "company_name": "Life Insurance Corporation of India",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "current_price": 424.0,
+  "market_cap_cr": 536359.78,
+  "pe_ratio": 8.93,
+  "pb_ratio": 3.04,
+  "eps": 47.5,
+  "debt_to_equity": 0.0,
+  "roe": 15.0,
+  "revenue_growth_yoy": 6.8,
+  "earnings_growth": 40.0,
+  "profit_margins": 6.51,
+  "dividend_yield": 237.0,
+  "fetched_at": "2026-08-25T18:28:10.758738"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "JITFINFRA.NS",
+  "company_name": "JITF Infralogistics Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "current_price": 318.55,
+  "market_cap_cr": 818.79,
+  "pe_ratio": null,
+  "pb_ratio": -1.6,
+  "eps": -16.16,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 20.7,
+  "earnings_growth": 12.0,
+  "profit_margins": -1.45,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:08.217110"
+}

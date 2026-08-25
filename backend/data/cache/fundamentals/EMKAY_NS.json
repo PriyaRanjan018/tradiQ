@@ -1,0 +1,18 @@
+{
+  "ticker": "EMKAY.NS",
+  "company_name": "Emkay Global Financial Services Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 241.66,
+  "market_cap_cr": 667.6,
+  "pe_ratio": 36.62,
+  "pb_ratio": 1.66,
+  "eps": 6.6,
+  "debt_to_equity": 0.26,
+  "roe": 15.0,
+  "revenue_growth_yoy": 22.6,
+  "earnings_growth": 68.7,
+  "profit_margins": 4.88,
+  "dividend_yield": 61.0,
+  "fetched_at": "2026-08-25T18:28:01.662888"
+}

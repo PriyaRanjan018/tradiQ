@@ -1,0 +1,18 @@
+{
+  "ticker": "TEGA.NS",
+  "company_name": "Tega Industries Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 1674.6,
+  "market_cap_cr": 12580.88,
+  "pe_ratio": 446.56,
+  "pb_ratio": 3.72,
+  "eps": 3.75,
+  "debt_to_equity": 0.12,
+  "roe": 15.0,
+  "revenue_growth_yoy": 384.0,
+  "earnings_growth": 12.0,
+  "profit_margins": 0.69,
+  "dividend_yield": 12.0,
+  "fetched_at": "2026-08-25T18:29:52.856655"
+}

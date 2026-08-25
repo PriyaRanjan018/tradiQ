@@ -1,0 +1,18 @@
+{
+  "ticker": "IDEA.NS",
+  "company_name": "Vodafone Idea Limited",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "current_price": 15.19,
+  "market_cap_cr": 164573.06,
+  "pe_ratio": 4.35,
+  "pb_ratio": -4.6,
+  "eps": 3.49,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 6.1,
+  "earnings_growth": 12.0,
+  "profit_margins": 82.28,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:05.829306"
+}

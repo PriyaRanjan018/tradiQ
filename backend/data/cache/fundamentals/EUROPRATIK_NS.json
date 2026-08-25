@@ -1,0 +1,18 @@
+{
+  "ticker": "EUROPRATIK.NS",
+  "company_name": "EURO PRATIK SALES LIMITED",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "current_price": 261.25,
+  "market_cap_cr": 2669.97,
+  "pe_ratio": 31.51,
+  "pb_ratio": 8.63,
+  "eps": 8.29,
+  "debt_to_equity": 0.08,
+  "roe": 15.0,
+  "revenue_growth_yoy": 60.1,
+  "earnings_growth": 93.7,
+  "profit_margins": 23.06,
+  "dividend_yield": 15.0,
+  "fetched_at": "2026-08-25T18:28:02.066964"
+}

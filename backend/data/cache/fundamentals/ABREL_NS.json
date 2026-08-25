@@ -1,0 +1,23 @@
+{
+  "ticker": "ABREL.NS",
+  "company_name": "Aditya Birla Real Estate Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "current_price": 1408.0,
+  "market_cap_cr": 15569.36,
+  "pe_ratio": null,
+  "forward_pe": 24.09,
+  "pb_ratio": 4.21,
+  "eps": -31.22,
+  "debt_to_equity": 1.52,
+  "roe": null,
+  "revenue_growth_yoy": 29.7,
+  "earnings_growth": null,
+  "qoq_profit_growth": 114.88,
+  "profit_margins": -25.42,
+  "gross_margins": 58.74,
+  "dividend_yield": 17.0,
+  "beta": 0.43,
+  "promoter_holding": 55.16,
+  "fetched_at": "2026-08-25T18:17:46.501485"
+}

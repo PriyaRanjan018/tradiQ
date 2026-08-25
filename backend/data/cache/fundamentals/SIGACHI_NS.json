@@ -1,0 +1,18 @@
+{
+  "ticker": "SIGACHI.NS",
+  "company_name": "Sigachi Industries Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 33.9,
+  "market_cap_cr": 1296.63,
+  "pe_ratio": 50.6,
+  "pb_ratio": 2.5,
+  "eps": 0.67,
+  "debt_to_equity": 0.31,
+  "roe": 15.0,
+  "revenue_growth_yoy": -4.7,
+  "earnings_growth": 12.0,
+  "profit_margins": 5.33,
+  "dividend_yield": 33.0,
+  "fetched_at": "2026-08-25T18:28:21.417356"
+}

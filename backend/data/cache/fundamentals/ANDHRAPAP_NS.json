@@ -1,0 +1,23 @@
+{
+  "ticker": "ANDHRAPAP.NS",
+  "company_name": "Andhra Paper Limited",
+  "sector": "Basic Materials",
+  "industry": "Paper & Paper Products",
+  "current_price": 59.66,
+  "market_cap_cr": 1186.34,
+  "pe_ratio": 42.31,
+  "forward_pe": null,
+  "pb_ratio": 0.61,
+  "eps": 1.41,
+  "debt_to_equity": 0.12,
+  "roe": null,
+  "revenue_growth_yoy": 0.1,
+  "earnings_growth": 42.1,
+  "qoq_profit_growth": -21.57,
+  "profit_margins": 1.62,
+  "gross_margins": 32.81,
+  "dividend_yield": 82.0,
+  "beta": 0.08,
+  "promoter_holding": 77.55,
+  "fetched_at": "2026-08-25T18:21:52.776151"
+}

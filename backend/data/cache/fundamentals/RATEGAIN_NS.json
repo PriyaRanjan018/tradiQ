@@ -1,0 +1,18 @@
+{
+  "ticker": "RATEGAIN.NS",
+  "company_name": "RateGain Travel Technologies Limited",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "current_price": 946.05,
+  "market_cap_cr": 11200.8,
+  "pe_ratio": 46.17,
+  "pb_ratio": 5.57,
+  "eps": 20.49,
+  "debt_to_equity": 0.47,
+  "roe": 15.0,
+  "revenue_growth_yoy": 187.6,
+  "earnings_growth": 101.5,
+  "profit_margins": 10.38,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:29:49.187577"
+}

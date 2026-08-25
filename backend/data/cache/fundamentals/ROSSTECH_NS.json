@@ -1,0 +1,18 @@
+{
+  "ticker": "ROSSTECH.NS",
+  "company_name": "Rossell Techsys Limited",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "current_price": 1050.35,
+  "market_cap_cr": 3974.55,
+  "pe_ratio": 150.48,
+  "pb_ratio": 25.51,
+  "eps": 6.98,
+  "debt_to_equity": 2.64,
+  "roe": 15.0,
+  "revenue_growth_yoy": 77.1,
+  "earnings_growth": 117.2,
+  "profit_margins": 4.66,
+  "dividend_yield": 3.0,
+  "fetched_at": "2026-08-25T18:29:49.581011"
+}

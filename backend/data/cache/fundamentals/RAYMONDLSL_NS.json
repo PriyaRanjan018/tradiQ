@@ -1,0 +1,18 @@
+{
+  "ticker": "RAYMONDLSL.NS",
+  "company_name": "Raymond Lifestyle Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Manufacturing",
+  "current_price": 715.5,
+  "market_cap_cr": 4357.81,
+  "pe_ratio": 100.77,
+  "pb_ratio": 0.45,
+  "eps": 7.1,
+  "debt_to_equity": 0.23,
+  "roe": 15.0,
+  "revenue_growth_yoy": 5.9,
+  "earnings_growth": 12.0,
+  "profit_margins": 0.62,
+  "dividend_yield": 14.0,
+  "fetched_at": "2026-08-25T18:29:49.449737"
+}

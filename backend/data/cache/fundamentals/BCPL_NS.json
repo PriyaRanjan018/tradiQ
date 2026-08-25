@@ -1,0 +1,23 @@
+{
+  "ticker": "BCPL.NS",
+  "company_name": "BCPL Railway Infrastructure Limited",
+  "sector": "Industrials",
+  "industry": "Infrastructure Operations",
+  "current_price": 69.84,
+  "market_cap_cr": 116.8,
+  "pe_ratio": 18.05,
+  "forward_pe": null,
+  "pb_ratio": 1.2,
+  "eps": 3.87,
+  "debt_to_equity": 0.71,
+  "roe": null,
+  "revenue_growth_yoy": 12.2,
+  "earnings_growth": 147.9,
+  "qoq_profit_growth": -27.71,
+  "profit_margins": 3.78,
+  "gross_margins": 16.08,
+  "dividend_yield": 143.0,
+  "beta": 0.79,
+  "promoter_holding": 72.87,
+  "fetched_at": "2026-08-25T18:24:21.153711"
+}

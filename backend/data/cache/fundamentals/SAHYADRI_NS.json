@@ -1,0 +1,18 @@
+{
+  "ticker": "SAHYADRI.NS",
+  "company_name": "Sahyadri Industries Limited",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "current_price": 346.0,
+  "market_cap_cr": 378.74,
+  "pe_ratio": 9.01,
+  "pb_ratio": 0.93,
+  "eps": 40.89,
+  "debt_to_equity": 0.04,
+  "roe": 15.0,
+  "revenue_growth_yoy": 20.5,
+  "earnings_growth": 146.1,
+  "profit_margins": 6.19,
+  "dividend_yield": 114.0,
+  "fetched_at": "2026-08-25T18:28:19.789838"
+}

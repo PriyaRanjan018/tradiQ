@@ -1,0 +1,23 @@
+{
+  "ticker": "GRAVITA.NS",
+  "company_name": "Gravita India Limited",
+  "sector": "Industrials",
+  "industry": "Metal Fabrication",
+  "current_price": 1800.4,
+  "market_cap_cr": 13113.56,
+  "pe_ratio": 33.5,
+  "forward_pe": 23.57,
+  "pb_ratio": 5.35,
+  "eps": 53.74,
+  "debt_to_equity": 0.3,
+  "roe": null,
+  "revenue_growth_yoy": 41.8,
+  "earnings_growth": 14.0,
+  "qoq_profit_growth": 15.79,
+  "profit_margins": 8.34,
+  "gross_margins": 19.19,
+  "dividend_yield": 64.0,
+  "beta": 0.47,
+  "promoter_holding": 59.38,
+  "fetched_at": "2026-08-25T18:29:37.338218"
+}

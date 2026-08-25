@@ -1,0 +1,18 @@
+{
+  "ticker": "ULTRAMAR.NS",
+  "company_name": "Ultramarine & Pigments Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 410.25,
+  "market_cap_cr": 1197.93,
+  "pe_ratio": 13.0,
+  "pb_ratio": 1.38,
+  "eps": 31.55,
+  "debt_to_equity": 0.1,
+  "roe": 15.0,
+  "revenue_growth_yoy": 30.1,
+  "earnings_growth": 56.6,
+  "profit_margins": 11.1,
+  "dividend_yield": 145.0,
+  "fetched_at": "2026-08-25T18:28:26.039392"
+}

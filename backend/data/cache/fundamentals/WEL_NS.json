@@ -1,0 +1,18 @@
+{
+  "ticker": "WEL.NS",
+  "company_name": "Wonder Electricals Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Furnishings, Fixtures & Appliances",
+  "current_price": 134.02,
+  "market_cap_cr": 1795.98,
+  "pe_ratio": 144.11,
+  "pb_ratio": 20.07,
+  "eps": 0.9,
+  "debt_to_equity": 1.08,
+  "roe": 15.0,
+  "revenue_growth_yoy": 50.9,
+  "earnings_growth": 275.0,
+  "profit_margins": 1.63,
+  "dividend_yield": 15.0,
+  "fetched_at": "2026-08-25T18:28:27.704193"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "AGIIL.NS",
+  "company_name": "AGI Infra Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "current_price": 283.0,
+  "market_cap_cr": 3537.43,
+  "pe_ratio": 33.61,
+  "forward_pe": null,
+  "pb_ratio": 7.63,
+  "eps": 8.42,
+  "debt_to_equity": 0.38,
+  "roe": null,
+  "revenue_growth_yoy": 5.3,
+  "earnings_growth": 34.3,
+  "qoq_profit_growth": 2.25,
+  "profit_margins": 28.64,
+  "gross_margins": 54.3,
+  "dividend_yield": 3.0,
+  "beta": 0.14,
+  "promoter_holding": 83.1,
+  "fetched_at": "2026-08-25T18:21:02.380879"
+}

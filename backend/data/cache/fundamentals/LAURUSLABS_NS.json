@@ -1,0 +1,18 @@
+{
+  "ticker": "LAURUSLABS.NS",
+  "company_name": "Laurus Labs Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 1866.2,
+  "market_cap_cr": 100833.06,
+  "pe_ratio": 92.48,
+  "pb_ratio": 19.01,
+  "eps": 20.18,
+  "debt_to_equity": 0.46,
+  "roe": 15.0,
+  "revenue_growth_yoy": 29.1,
+  "earnings_growth": 125.2,
+  "profit_margins": 15.04,
+  "dividend_yield": 13.0,
+  "fetched_at": "2026-08-25T18:29:45.417586"
+}

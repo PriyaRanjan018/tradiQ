@@ -1,0 +1,18 @@
+{
+  "ticker": "KOTHARIPET.NS",
+  "company_name": "Kothari Petrochemicals Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 134.05,
+  "market_cap_cr": 788.84,
+  "pe_ratio": 11.02,
+  "pb_ratio": 2.12,
+  "eps": 12.16,
+  "debt_to_equity": 0.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": -8.8,
+  "earnings_growth": -3.3,
+  "profit_margins": 12.46,
+  "dividend_yield": 149.0,
+  "fetched_at": "2026-08-25T18:28:09.786751"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "21STCENMGM.NS",
+  "company_name": "Twentyfirst Century Management Services Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 43.17,
+  "market_cap_cr": 45.33,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "pb_ratio": 1.37,
+  "eps": -22.56,
+  "debt_to_equity": null,
+  "roe": null,
+  "revenue_growth_yoy": 190.2,
+  "earnings_growth": 295.5,
+  "qoq_profit_growth": -129.57,
+  "profit_margins": null,
+  "gross_margins": null,
+  "dividend_yield": null,
+  "beta": 0.5,
+  "promoter_holding": 73.42,
+  "fetched_at": "2026-08-25T18:17:01.782871"
+}

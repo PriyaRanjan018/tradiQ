@@ -1,0 +1,23 @@
+{
+  "ticker": "CYIENT.NS",
+  "company_name": "Cyient Limited",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "current_price": 979.05,
+  "market_cap_cr": 10190.98,
+  "pe_ratio": 28.27,
+  "forward_pe": 13.85,
+  "pb_ratio": 1.9,
+  "eps": 34.09,
+  "debt_to_equity": 0.08,
+  "roe": null,
+  "revenue_growth_yoy": 21.3,
+  "earnings_growth": -32.4,
+  "qoq_profit_growth": 89.96,
+  "profit_margins": 4.96,
+  "gross_margins": 29.85,
+  "dividend_yield": 352.0,
+  "beta": 0.6,
+  "promoter_holding": 24.95,
+  "fetched_at": "2026-08-25T18:28:08.646752"
+}

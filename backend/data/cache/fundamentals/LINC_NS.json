@@ -1,0 +1,18 @@
+{
+  "ticker": "LINC.NS",
+  "company_name": "Linc Limited",
+  "sector": "Industrials",
+  "industry": "Business Equipment & Supplies",
+  "current_price": 96.11,
+  "market_cap_cr": 571.91,
+  "pe_ratio": 18.13,
+  "pb_ratio": 2.22,
+  "eps": 5.31,
+  "debt_to_equity": 0.1,
+  "roe": 15.0,
+  "revenue_growth_yoy": 1.4,
+  "earnings_growth": -16.9,
+  "profit_margins": 5.78,
+  "dividend_yield": 156.0,
+  "fetched_at": "2026-08-25T18:28:10.748337"
+}

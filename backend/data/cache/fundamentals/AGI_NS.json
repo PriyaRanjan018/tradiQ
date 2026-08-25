@@ -1,0 +1,23 @@
+{
+  "ticker": "AGI.NS",
+  "company_name": "AGI Greenpac Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "current_price": 730.85,
+  "market_cap_cr": 4728.41,
+  "pe_ratio": 12.84,
+  "forward_pe": 7.58,
+  "pb_ratio": 1.96,
+  "eps": 56.9,
+  "debt_to_equity": 0.1,
+  "roe": null,
+  "revenue_growth_yoy": 14.2,
+  "earnings_growth": 11.9,
+  "qoq_profit_growth": -13.89,
+  "profit_margins": 13.11,
+  "gross_margins": 51.46,
+  "dividend_yield": 94.0,
+  "beta": -0.18,
+  "promoter_holding": 70.75,
+  "fetched_at": "2026-08-25T18:20:57.697078"
+}

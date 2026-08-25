@@ -1,0 +1,18 @@
+{
+  "ticker": "WORTHPERI.NS",
+  "company_name": "Worth Peripherals Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "current_price": 152.23,
+  "market_cap_cr": 239.78,
+  "pe_ratio": 15.41,
+  "pb_ratio": 1.27,
+  "eps": 9.88,
+  "debt_to_equity": 0.2,
+  "roe": 15.0,
+  "revenue_growth_yoy": 7.6,
+  "earnings_growth": 21.6,
+  "profit_margins": 4.94,
+  "dividend_yield": 64.0,
+  "fetched_at": "2026-08-25T18:28:28.014116"
+}

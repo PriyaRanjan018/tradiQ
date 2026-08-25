@@ -1,0 +1,23 @@
+{
+  "ticker": "CONCORDBIO.NS",
+  "company_name": "Concord Biotech Limited",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "current_price": 1548.0,
+  "market_cap_cr": 16194.59,
+  "pe_ratio": 53.25,
+  "forward_pe": 36.39,
+  "pb_ratio": 8.03,
+  "eps": 29.7,
+  "debt_to_equity": 0.0,
+  "roe": null,
+  "revenue_growth_yoy": 26.2,
+  "earnings_growth": 31.1,
+  "qoq_profit_growth": -35.02,
+  "profit_margins": 24.84,
+  "gross_margins": 64.56,
+  "dividend_yield": 49.0,
+  "beta": 0.35,
+  "promoter_holding": 72.48,
+  "fetched_at": "2026-08-25T18:28:01.597974"
+}

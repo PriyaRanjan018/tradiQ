@@ -1,0 +1,18 @@
+{
+  "ticker": "MANAPPURAM.NS",
+  "company_name": "Manappuram Finance Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 367.45,
+  "market_cap_cr": 34515.91,
+  "pe_ratio": 21.98,
+  "pb_ratio": 2.15,
+  "eps": 16.72,
+  "debt_to_equity": 3.6,
+  "roe": 15.0,
+  "revenue_growth_yoy": 80.1,
+  "earnings_growth": 288.5,
+  "profit_margins": 30.52,
+  "dividend_yield": 110.0,
+  "fetched_at": "2026-08-25T18:28:11.495755"
+}

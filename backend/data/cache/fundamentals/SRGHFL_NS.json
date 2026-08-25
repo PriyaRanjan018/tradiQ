@@ -1,0 +1,18 @@
+{
+  "ticker": "SRGHFL.NS",
+  "company_name": "SRG Housing Finance Limited",
+  "sector": "Financial Services",
+  "industry": "Mortgage Finance",
+  "current_price": 256.6,
+  "market_cap_cr": 403.06,
+  "pe_ratio": 11.42,
+  "pb_ratio": 1.36,
+  "eps": 22.46,
+  "debt_to_equity": 2.92,
+  "roe": 15.0,
+  "revenue_growth_yoy": 18.5,
+  "earnings_growth": 24.8,
+  "profit_margins": 27.66,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:22.720588"
+}

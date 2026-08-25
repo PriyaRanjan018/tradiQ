@@ -1,0 +1,23 @@
+{
+  "ticker": "AWFIS.NS",
+  "company_name": "Awfis Space Solutions Limited",
+  "sector": "Industrials",
+  "industry": "Rental & Leasing Services",
+  "current_price": 272.55,
+  "market_cap_cr": 1950.45,
+  "pe_ratio": 23.0,
+  "forward_pe": 14.34,
+  "pb_ratio": 3.53,
+  "eps": 11.85,
+  "debt_to_equity": 2.72,
+  "roe": null,
+  "revenue_growth_yoy": 27.0,
+  "earnings_growth": 138.6,
+  "qoq_profit_growth": 7.36,
+  "profit_margins": 5.36,
+  "gross_margins": 83.63,
+  "dividend_yield": null,
+  "beta": 1.06,
+  "promoter_holding": 26.8,
+  "fetched_at": "2026-08-25T18:23:24.638215"
+}

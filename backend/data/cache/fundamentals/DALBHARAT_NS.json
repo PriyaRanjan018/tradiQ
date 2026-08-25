@@ -1,0 +1,23 @@
+{
+  "ticker": "DALBHARAT.NS",
+  "company_name": "Dalmia Bharat Limited",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "current_price": 1824.0,
+  "market_cap_cr": 34241.73,
+  "pe_ratio": 36.07,
+  "forward_pe": 24.94,
+  "pb_ratio": 1.9,
+  "eps": 50.57,
+  "debt_to_equity": 0.41,
+  "roe": null,
+  "revenue_growth_yoy": 7.0,
+  "earnings_growth": -52.1,
+  "qoq_profit_growth": -51.42,
+  "profit_margins": 6.2,
+  "gross_margins": 61.49,
+  "dividend_yield": 54.0,
+  "beta": 0.18,
+  "promoter_holding": 61.15,
+  "fetched_at": "2026-08-25T18:28:11.308310"
+}

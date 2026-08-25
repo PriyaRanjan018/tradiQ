@@ -1,0 +1,18 @@
+{
+  "ticker": "NDLVENTURE.NS",
+  "company_name": "NDL Ventures Limited",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "current_price": 121.85,
+  "market_cap_cr": 410.29,
+  "pe_ratio": 529.78,
+  "pb_ratio": 6.24,
+  "eps": 0.23,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 15.0,
+  "earnings_growth": -57.1,
+  "profit_margins": 711.08,
+  "dividend_yield": 41.0,
+  "fetched_at": "2026-08-25T18:28:14.180013"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "JAMNAAUTO.NS",
+  "company_name": "Jamna Auto Industries Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 120.65,
+  "market_cap_cr": 4824.14,
+  "pe_ratio": 20.69,
+  "pb_ratio": 4.19,
+  "eps": 5.83,
+  "debt_to_equity": 0.13,
+  "roe": 15.0,
+  "revenue_growth_yoy": 6.7,
+  "earnings_growth": 6.1,
+  "profit_margins": 8.82,
+  "dividend_yield": 177.0,
+  "fetched_at": "2026-08-25T18:28:07.915493"
+}

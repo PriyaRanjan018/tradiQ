@@ -1,0 +1,18 @@
+{
+  "ticker": "RSSOFTWARE.NS",
+  "company_name": "R S Software (India) Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "current_price": 29.89,
+  "market_cap_cr": 77.21,
+  "pe_ratio": null,
+  "pb_ratio": 3.55,
+  "eps": -12.52,
+  "debt_to_equity": 0.62,
+  "roe": -82.66,
+  "revenue_growth_yoy": -24.3,
+  "earnings_growth": 12.0,
+  "profit_margins": -141.96,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:19.215827"
+}

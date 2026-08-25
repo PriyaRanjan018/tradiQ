@@ -1,0 +1,23 @@
+{
+  "ticker": "ATHERENERG.NS",
+  "company_name": "Ather Energy Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "current_price": 1439.4,
+  "market_cap_cr": 57570.17,
+  "pe_ratio": null,
+  "forward_pe": 550.93,
+  "pb_ratio": 21.41,
+  "eps": -10.09,
+  "debt_to_equity": 0.26,
+  "roe": null,
+  "revenue_growth_yoy": 88.8,
+  "earnings_growth": null,
+  "qoq_profit_growth": 49.03,
+  "profit_margins": -9.19,
+  "gross_margins": 20.9,
+  "dividend_yield": null,
+  "beta": null,
+  "promoter_holding": 54.51,
+  "fetched_at": "2026-08-25T18:23:13.846035"
+}

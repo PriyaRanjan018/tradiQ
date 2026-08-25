@@ -1,0 +1,18 @@
+{
+  "ticker": "PACEDIGITK.NS",
+  "company_name": "Pace Digitek Limited",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "current_price": 182.26,
+  "market_cap_cr": 3934.11,
+  "pe_ratio": 12.91,
+  "pb_ratio": 1.62,
+  "eps": 14.12,
+  "debt_to_equity": 0.44,
+  "roe": 15.0,
+  "revenue_growth_yoy": 51.3,
+  "earnings_growth": -6.3,
+  "profit_margins": 10.77,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:15.797009"
+}

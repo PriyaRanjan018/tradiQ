@@ -1,0 +1,23 @@
+{
+  "ticker": "ACE.NS",
+  "company_name": "Action Construction Equipment Limited",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "current_price": 1154.8,
+  "market_cap_cr": 13745.34,
+  "pe_ratio": 31.51,
+  "forward_pe": 24.52,
+  "pb_ratio": 6.83,
+  "eps": 36.65,
+  "debt_to_equity": 0.0,
+  "roe": null,
+  "revenue_growth_yoy": 20.5,
+  "earnings_growth": 22.3,
+  "qoq_profit_growth": 7.74,
+  "profit_margins": 12.8,
+  "gross_margins": 32.23,
+  "dividend_yield": 17.0,
+  "beta": 0.39,
+  "promoter_holding": 66.81,
+  "fetched_at": "2026-08-25T18:17:53.978671"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "CARERATING.NS",
+  "company_name": "CARE Ratings Limited",
+  "sector": "Financial Services",
+  "industry": "Financial Data & Stock Exchanges",
+  "current_price": 1618.6,
+  "market_cap_cr": 4869.91,
+  "pe_ratio": 27.42,
+  "forward_pe": 20.78,
+  "pb_ratio": 5.22,
+  "eps": 57.24,
+  "debt_to_equity": 0.03,
+  "roe": null,
+  "revenue_growth_yoy": 18.9,
+  "earnings_growth": 25.0,
+  "qoq_profit_growth": 47.19,
+  "profit_margins": 36.19,
+  "gross_margins": 54.75,
+  "dividend_yield": 135.0,
+  "beta": 0.36,
+  "promoter_holding": 15.87,
+  "fetched_at": "2026-08-25T18:26:20.924488"
+}

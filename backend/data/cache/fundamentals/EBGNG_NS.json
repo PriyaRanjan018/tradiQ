@@ -1,0 +1,23 @@
+{
+  "ticker": "EBGNG.NS",
+  "company_name": "GNG Electronics Limited",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "current_price": 584.75,
+  "market_cap_cr": 6666.82,
+  "pe_ratio": 46.82,
+  "forward_pe": 25.26,
+  "pb_ratio": 8.79,
+  "eps": 12.49,
+  "debt_to_equity": 0.59,
+  "roe": null,
+  "revenue_growth_yoy": 32.1,
+  "earnings_growth": 25.1,
+  "qoq_profit_growth": -31.36,
+  "profit_margins": 7.15,
+  "gross_margins": 20.89,
+  "dividend_yield": null,
+  "beta": null,
+  "promoter_holding": 79.25,
+  "fetched_at": "2026-08-25T18:28:39.646585"
+}

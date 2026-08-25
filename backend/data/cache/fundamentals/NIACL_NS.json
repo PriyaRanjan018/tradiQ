@@ -1,0 +1,18 @@
+{
+  "ticker": "NIACL.NS",
+  "company_name": "The New India Assurance Company Limited",
+  "sector": "Financial Services",
+  "industry": "Insurance - Diversified",
+  "current_price": 187.29,
+  "market_cap_cr": 30865.39,
+  "pe_ratio": 40.02,
+  "pb_ratio": 0.8,
+  "eps": 4.68,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 1.5,
+  "earnings_growth": 12.0,
+  "profit_margins": 1.49,
+  "dividend_yield": 81.0,
+  "fetched_at": "2026-08-25T18:28:14.359619"
+}

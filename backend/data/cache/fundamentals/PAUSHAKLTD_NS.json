@@ -1,0 +1,18 @@
+{
+  "ticker": "PAUSHAKLTD.NS",
+  "company_name": "Paushak Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 751.5,
+  "market_cap_cr": 1852.97,
+  "pe_ratio": 43.95,
+  "pb_ratio": 3.77,
+  "eps": 17.18,
+  "debt_to_equity": 0.16,
+  "roe": 15.0,
+  "revenue_growth_yoy": 49.5,
+  "earnings_growth": 25.6,
+  "profit_margins": 17.22,
+  "dividend_yield": 33.0,
+  "fetched_at": "2026-08-25T18:29:48.078415"
+}

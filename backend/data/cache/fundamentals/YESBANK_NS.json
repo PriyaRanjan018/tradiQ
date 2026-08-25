@@ -1,0 +1,18 @@
+{
+  "ticker": "YESBANK.NS",
+  "company_name": "Yes Bank Limited",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "current_price": 22.5,
+  "market_cap_cr": 70622.52,
+  "pe_ratio": 18.91,
+  "pb_ratio": 1.35,
+  "eps": 1.19,
+  "debt_to_equity": 0.5,
+  "roe": 7.47,
+  "revenue_growth_yoy": 19.8,
+  "earnings_growth": 11.8,
+  "profit_margins": 23.18,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:28.014325"
+}

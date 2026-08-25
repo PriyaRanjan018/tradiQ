@@ -1,0 +1,18 @@
+{
+  "ticker": "VOLTAS.NS",
+  "company_name": "Voltas Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Furnishings, Fixtures & Appliances",
+  "current_price": 1243.0,
+  "market_cap_cr": 41128.97,
+  "pe_ratio": 91.8,
+  "pb_ratio": 6.45,
+  "eps": 13.54,
+  "debt_to_equity": 0.16,
+  "roe": 15.0,
+  "revenue_growth_yoy": 18.7,
+  "earnings_growth": 52.0,
+  "profit_margins": 3.0,
+  "dividend_yield": 32.0,
+  "fetched_at": "2026-08-25T18:29:54.209698"
+}

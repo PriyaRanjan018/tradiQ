@@ -1,0 +1,18 @@
+{
+  "ticker": "IIFLCAPS.NS",
+  "company_name": "IIFL Capital Services Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 334.95,
+  "market_cap_cr": 10544.45,
+  "pe_ratio": 19.23,
+  "pb_ratio": 3.4,
+  "eps": 17.32,
+  "debt_to_equity": 0.59,
+  "roe": 15.0,
+  "revenue_growth_yoy": 3.3,
+  "earnings_growth": 4.5,
+  "profit_margins": 24.52,
+  "dividend_yield": 90.0,
+  "fetched_at": "2026-08-25T18:28:06.186921"
+}

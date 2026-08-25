@@ -1,0 +1,18 @@
+{
+  "ticker": "KFINTECH.NS",
+  "company_name": "KFin Technologies Limited",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "current_price": 966.0,
+  "market_cap_cr": 16699.44,
+  "pe_ratio": 49.56,
+  "pb_ratio": 9.96,
+  "eps": 19.49,
+  "debt_to_equity": 0.03,
+  "roe": 15.0,
+  "revenue_growth_yoy": 30.1,
+  "earnings_growth": -2.5,
+  "profit_margins": 24.4,
+  "dividend_yield": 124.0,
+  "fetched_at": "2026-08-25T18:29:44.805663"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "COSMOFIRST.NS",
+  "company_name": "Cosmo First Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Packaging & Containers",
+  "current_price": 930.65,
+  "market_cap_cr": 2415.8,
+  "pe_ratio": 14.34,
+  "forward_pe": null,
+  "pb_ratio": 1.51,
+  "eps": 64.88,
+  "debt_to_equity": 1.04,
+  "roe": null,
+  "revenue_growth_yoy": 45.7,
+  "earnings_growth": 25.2,
+  "qoq_profit_growth": 25.12,
+  "profit_margins": 4.17,
+  "gross_margins": 34.68,
+  "dividend_yield": 44.0,
+  "beta": 0.5,
+  "promoter_holding": 47.76,
+  "fetched_at": "2026-08-25T18:28:05.624090"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "ICICIPRULI.NS",
+  "company_name": "ICICI Prudential Life Insurance Company Limited",
+  "sector": "Financial Services",
+  "industry": "Insurance - Life",
+  "current_price": 510.0,
+  "market_cap_cr": 73937.37,
+  "pe_ratio": 44.16,
+  "pb_ratio": 5.42,
+  "eps": 11.55,
+  "debt_to_equity": 0.19,
+  "roe": 12.58,
+  "revenue_growth_yoy": -83.1,
+  "earnings_growth": 61.4,
+  "profit_margins": 2.55,
+  "dividend_yield": 32.0,
+  "fetched_at": "2026-08-25T18:29:43.229964"
+}

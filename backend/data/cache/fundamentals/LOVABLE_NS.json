@@ -1,0 +1,18 @@
+{
+  "ticker": "LOVABLE.NS",
+  "company_name": "Lovable Lingerie Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Manufacturing",
+  "current_price": 71.28,
+  "market_cap_cr": 105.49,
+  "pe_ratio": 13.47,
+  "pb_ratio": 0.58,
+  "eps": 5.29,
+  "debt_to_equity": 0.02,
+  "roe": 15.0,
+  "revenue_growth_yoy": -22.2,
+  "earnings_growth": -1.6,
+  "profit_margins": 8.54,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:10.934806"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "DODLA.NS",
+  "company_name": "Dodla Dairy Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Food Distribution",
+  "current_price": 1110.4,
+  "market_cap_cr": 6698.8,
+  "pe_ratio": 27.4,
+  "forward_pe": 20.29,
+  "pb_ratio": 4.0,
+  "eps": 40.19,
+  "debt_to_equity": 0.03,
+  "roe": null,
+  "revenue_growth_yoy": 19.0,
+  "earnings_growth": -35.3,
+  "qoq_profit_growth": -41.71,
+  "profit_margins": 5.67,
+  "gross_margins": 24.66,
+  "dividend_yield": 44.0,
+  "beta": 0.35,
+  "promoter_holding": 63.91,
+  "fetched_at": "2026-08-25T18:28:31.123436"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "ADOR.NS",
+  "company_name": "Ador Welding Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 1580.4,
+  "market_cap_cr": 2750.34,
+  "pe_ratio": 24.36,
+  "forward_pe": 21.18,
+  "pb_ratio": 4.96,
+  "eps": 64.87,
+  "debt_to_equity": 0.0,
+  "roe": null,
+  "revenue_growth_yoy": 5.2,
+  "earnings_growth": 73.0,
+  "qoq_profit_growth": -19.3,
+  "profit_margins": 5.82,
+  "gross_margins": 36.82,
+  "dividend_yield": 224.0,
+  "beta": 0.29,
+  "promoter_holding": 58.28,
+  "fetched_at": "2026-08-25T18:18:21.730860"
+}

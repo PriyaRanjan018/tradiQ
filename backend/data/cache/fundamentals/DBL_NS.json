@@ -1,0 +1,18 @@
+{
+  "ticker": "DBL.NS",
+  "company_name": "Dilip Buildcon Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "current_price": 414.85,
+  "market_cap_cr": 6739.02,
+  "pe_ratio": 5.39,
+  "pb_ratio": 0.8,
+  "eps": 76.91,
+  "debt_to_equity": 1.16,
+  "roe": 15.0,
+  "revenue_growth_yoy": -9.3,
+  "earnings_growth": -53.8,
+  "profit_margins": 13.57,
+  "dividend_yield": 24.0,
+  "fetched_at": "2026-08-25T18:27:59.940248"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "DOLATALGO.NS",
+  "company_name": "Dolat Algotech Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 74.49,
+  "market_cap_cr": 1311.02,
+  "pe_ratio": 9.11,
+  "pb_ratio": 1.16,
+  "eps": 8.31,
+  "debt_to_equity": 0.25,
+  "roe": 15.0,
+  "revenue_growth_yoy": 28.8,
+  "earnings_growth": 39.1,
+  "profit_margins": 36.96,
+  "dividend_yield": 13.0,
+  "fetched_at": "2026-08-25T18:28:00.695751"
+}

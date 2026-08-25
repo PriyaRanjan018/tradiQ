@@ -1,0 +1,18 @@
+{
+  "ticker": "TNPL.NS",
+  "company_name": "Tamil Nadu Newsprint and Papers Limited",
+  "sector": "Basic Materials",
+  "industry": "Paper & Paper Products",
+  "current_price": 141.1,
+  "market_cap_cr": 976.56,
+  "pe_ratio": 3.77,
+  "pb_ratio": 0.42,
+  "eps": 37.44,
+  "debt_to_equity": 0.7,
+  "roe": 15.0,
+  "revenue_growth_yoy": 0.4,
+  "earnings_growth": 12.0,
+  "profit_margins": 5.61,
+  "dividend_yield": 282.0,
+  "fetched_at": "2026-08-25T18:28:25.104647"
+}

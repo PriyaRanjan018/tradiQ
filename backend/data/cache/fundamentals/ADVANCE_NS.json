@@ -1,0 +1,23 @@
+{
+  "ticker": "ADVANCE.NS",
+  "company_name": "Advance Agrolife Limited",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "current_price": 119.19,
+  "market_cap_cr": 766.22,
+  "pe_ratio": 15.83,
+  "forward_pe": null,
+  "pb_ratio": 2.73,
+  "eps": 7.53,
+  "debt_to_equity": 0.32,
+  "roe": null,
+  "revenue_growth_yoy": 96.0,
+  "earnings_growth": 75.9,
+  "qoq_profit_growth": 148.2,
+  "profit_margins": 6.12,
+  "gross_margins": 16.41,
+  "dividend_yield": null,
+  "beta": null,
+  "promoter_holding": 80.05,
+  "fetched_at": "2026-08-25T18:20:33.659046"
+}

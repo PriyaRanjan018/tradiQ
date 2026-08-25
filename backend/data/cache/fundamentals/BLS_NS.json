@@ -1,0 +1,23 @@
+{
+  "ticker": "BLS.NS",
+  "company_name": "BLS International Services Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "current_price": 243.32,
+  "market_cap_cr": 10013.16,
+  "pe_ratio": 14.23,
+  "forward_pe": 11.32,
+  "pb_ratio": 4.07,
+  "eps": 17.1,
+  "debt_to_equity": 0.15,
+  "roe": null,
+  "revenue_growth_yoy": 25.3,
+  "earnings_growth": 10.8,
+  "qoq_profit_growth": 6.9,
+  "profit_margins": 22.21,
+  "gross_margins": 38.27,
+  "dividend_yield": 124.0,
+  "beta": -0.21,
+  "promoter_holding": 72.65,
+  "fetched_at": "2026-08-25T18:25:02.867553"
+}

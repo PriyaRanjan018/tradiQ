@@ -1,0 +1,23 @@
+{
+  "ticker": "BAJAJCON.NS",
+  "company_name": "Bajaj Consumer Care Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "current_price": 455.05,
+  "market_cap_cr": 5943.79,
+  "pe_ratio": 26.99,
+  "forward_pe": 20.1,
+  "pb_ratio": 8.07,
+  "eps": 16.86,
+  "debt_to_equity": 0.02,
+  "roe": null,
+  "revenue_growth_yoy": 28.1,
+  "earnings_growth": 95.7,
+  "qoq_profit_growth": 11.24,
+  "profit_margins": 18.06,
+  "gross_margins": 61.47,
+  "dividend_yield": null,
+  "beta": 0.94,
+  "promoter_holding": 43.99,
+  "fetched_at": "2026-08-25T18:23:34.200516"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "SOLEX.NS",
+  "company_name": "Solex Energy Limited",
+  "sector": "Technology",
+  "industry": "Solar",
+  "current_price": 788.95,
+  "market_cap_cr": 852.26,
+  "pe_ratio": 11.01,
+  "pb_ratio": 3.37,
+  "eps": 71.66,
+  "debt_to_equity": 1.32,
+  "roe": 15.0,
+  "revenue_growth_yoy": 0.5,
+  "earnings_growth": -67.0,
+  "profit_margins": 4.93,
+  "dividend_yield": 7.0,
+  "fetched_at": "2026-08-25T18:29:51.259539"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "HCG.NS",
+  "company_name": "HealthCare Global Enterprises Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "current_price": 724.85,
+  "market_cap_cr": 10822.17,
+  "pe_ratio": 453.03,
+  "pb_ratio": 7.87,
+  "eps": 1.6,
+  "debt_to_equity": 1.23,
+  "roe": 15.0,
+  "revenue_growth_yoy": 13.4,
+  "earnings_growth": 170.6,
+  "profit_margins": 0.87,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:29:42.587750"
+}

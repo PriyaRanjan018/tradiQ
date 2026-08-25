@@ -1,0 +1,23 @@
+{
+  "ticker": "CREDITACC.NS",
+  "company_name": "CreditAccess Grameen Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 1415.5,
+  "market_cap_cr": 22684.74,
+  "pe_ratio": 18.8,
+  "forward_pe": 10.94,
+  "pb_ratio": 2.89,
+  "eps": 75.29,
+  "debt_to_equity": 3.03,
+  "roe": 16.36,
+  "revenue_growth_yoy": 149.5,
+  "earnings_growth": 715.2,
+  "qoq_profit_growth": 45.31,
+  "profit_margins": 39.81,
+  "gross_margins": 97.99,
+  "dividend_yield": null,
+  "beta": 0.11,
+  "promoter_holding": 66.13,
+  "fetched_at": "2026-08-25T18:28:06.933110"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "SOMATEX.NS",
+  "company_name": "Soma Textiles & Industries Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "current_price": 87.1,
+  "market_cap_cr": 295.92,
+  "pe_ratio": 32.26,
+  "pb_ratio": 1.72,
+  "eps": 2.7,
+  "debt_to_equity": 0.0,
+  "roe": 15.0,
+  "revenue_growth_yoy": 1284.9,
+  "earnings_growth": -23.6,
+  "profit_margins": 8.35,
+  "dividend_yield": 58.0,
+  "fetched_at": "2026-08-25T18:28:22.438301"
+}

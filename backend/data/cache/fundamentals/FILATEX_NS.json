@@ -1,0 +1,18 @@
+{
+  "ticker": "FILATEX.NS",
+  "company_name": "Filatex India Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "current_price": 82.11,
+  "market_cap_cr": 3646.16,
+  "pe_ratio": 19.1,
+  "pb_ratio": 3.79,
+  "eps": 4.3,
+  "debt_to_equity": 0.1,
+  "roe": 15.0,
+  "revenue_growth_yoy": -1.8,
+  "earnings_growth": 17.0,
+  "profit_margins": 4.33,
+  "dividend_yield": 62.0,
+  "fetched_at": "2026-08-25T18:28:02.578480"
+}

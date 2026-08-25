@@ -1,0 +1,18 @@
+{
+  "ticker": "SICAGEN.NS",
+  "company_name": "Sicagen India Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 54.8,
+  "market_cap_cr": 216.85,
+  "pe_ratio": 11.03,
+  "pb_ratio": 0.44,
+  "eps": 4.97,
+  "debt_to_equity": 0.32,
+  "roe": 15.0,
+  "revenue_growth_yoy": 39.8,
+  "earnings_growth": 52.2,
+  "profit_margins": 1.94,
+  "dividend_yield": 187.0,
+  "fetched_at": "2026-08-25T18:28:21.422053"
+}

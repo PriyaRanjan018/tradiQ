@@ -1,0 +1,18 @@
+{
+  "ticker": "KWIL.NS",
+  "company_name": "Kwality Walls (India) Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "current_price": 47.19,
+  "market_cap_cr": 11087.72,
+  "pe_ratio": null,
+  "pb_ratio": 16.5,
+  "eps": null,
+  "debt_to_equity": 0.82,
+  "roe": 15.0,
+  "revenue_growth_yoy": 16.2,
+  "earnings_growth": 37.5,
+  "profit_margins": -17.57,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:10.153643"
+}

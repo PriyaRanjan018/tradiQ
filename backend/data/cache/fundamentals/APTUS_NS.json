@@ -1,0 +1,23 @@
+{
+  "ticker": "APTUS.NS",
+  "company_name": "Aptus Value Housing Finance India Limited",
+  "sector": "Financial Services",
+  "industry": "Mortgage Finance",
+  "current_price": 254.4,
+  "market_cap_cr": 12740.8,
+  "pe_ratio": 12.77,
+  "forward_pe": 9.73,
+  "pb_ratio": 2.52,
+  "eps": 19.92,
+  "debt_to_equity": 1.56,
+  "roe": null,
+  "revenue_growth_yoy": 16.8,
+  "earnings_growth": 19.0,
+  "qoq_profit_growth": -0.01,
+  "profit_margins": 61.76,
+  "gross_margins": 99.82,
+  "dividend_yield": 197.0,
+  "beta": 0.7,
+  "promoter_holding": 26.6,
+  "fetched_at": "2026-08-25T18:22:22.072933"
+}

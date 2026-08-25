@@ -1,0 +1,18 @@
+{
+  "ticker": "TEJASNET.NS",
+  "company_name": "Tejas Networks Limited",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "current_price": 504.35,
+  "market_cap_cr": 8962.66,
+  "pe_ratio": null,
+  "pb_ratio": 3.06,
+  "eps": -51.74,
+  "debt_to_equity": 1.43,
+  "roe": 15.0,
+  "revenue_growth_yoy": 99.1,
+  "earnings_growth": 12.0,
+  "profit_margins": -70.37,
+  "dividend_yield": 42.0,
+  "fetched_at": "2026-08-25T18:29:52.485488"
+}

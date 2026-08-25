@@ -1,0 +1,18 @@
+{
+  "ticker": "YUKEN.NS",
+  "company_name": "Yuken India Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 943.45,
+  "market_cap_cr": 1281.58,
+  "pe_ratio": 78.88,
+  "pb_ratio": 3.43,
+  "eps": 11.96,
+  "debt_to_equity": 0.31,
+  "roe": 15.0,
+  "revenue_growth_yoy": 28.5,
+  "earnings_growth": 23.1,
+  "profit_margins": 3.18,
+  "dividend_yield": 16.0,
+  "fetched_at": "2026-08-25T18:29:54.218927"
+}

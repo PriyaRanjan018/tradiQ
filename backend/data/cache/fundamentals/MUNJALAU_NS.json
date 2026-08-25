@@ -1,0 +1,18 @@
+{
+  "ticker": "MUNJALAU.NS",
+  "company_name": "Munjal Auto Industries Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 112.68,
+  "market_cap_cr": 1126.8,
+  "pe_ratio": 21.79,
+  "pb_ratio": 2.52,
+  "eps": 5.17,
+  "debt_to_equity": 0.91,
+  "roe": 15.0,
+  "revenue_growth_yoy": 42.4,
+  "earnings_growth": 63.3,
+  "profit_margins": 2.0,
+  "dividend_yield": 89.0,
+  "fetched_at": "2026-08-25T18:28:13.401223"
+}

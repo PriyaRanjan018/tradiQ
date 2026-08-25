@@ -1,0 +1,23 @@
+{
+  "ticker": "AEQUS.NS",
+  "company_name": "Aequs Limited",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "current_price": 255.2,
+  "market_cap_cr": 16711.88,
+  "pe_ratio": null,
+  "forward_pe": 486.1,
+  "pb_ratio": 10.36,
+  "eps": -2.61,
+  "debt_to_equity": 0.47,
+  "roe": null,
+  "revenue_growth_yoy": 54.8,
+  "earnings_growth": null,
+  "qoq_profit_growth": 0.92,
+  "profit_margins": -12.41,
+  "gross_margins": 59.37,
+  "dividend_yield": null,
+  "beta": null,
+  "promoter_holding": 73.42,
+  "fetched_at": "2026-08-25T18:20:42.853416"
+}

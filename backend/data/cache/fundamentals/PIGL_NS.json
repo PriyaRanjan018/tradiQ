@@ -1,0 +1,18 @@
+{
+  "ticker": "PIGL.NS",
+  "company_name": "Power & Instrumental (Gujarat) Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "current_price": 102.63,
+  "market_cap_cr": 217.26,
+  "pe_ratio": 22.61,
+  "pb_ratio": 1.16,
+  "eps": 4.54,
+  "debt_to_equity": 0.08,
+  "roe": 15.0,
+  "revenue_growth_yoy": 18.4,
+  "earnings_growth": -4.0,
+  "profit_margins": 6.49,
+  "dividend_yield": 20.0,
+  "fetched_at": "2026-08-25T18:28:16.639029"
+}

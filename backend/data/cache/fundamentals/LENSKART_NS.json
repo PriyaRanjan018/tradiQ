@@ -1,0 +1,18 @@
+{
+  "ticker": "LENSKART.NS",
+  "company_name": "LENSKART SOLUTIONS LTD",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "current_price": 655.95,
+  "market_cap_cr": 113573.82,
+  "pe_ratio": 173.99,
+  "pb_ratio": 13.03,
+  "eps": 3.77,
+  "debt_to_equity": 0.35,
+  "roe": 15.0,
+  "revenue_growth_yoy": 43.3,
+  "earnings_growth": 258.1,
+  "profit_margins": 6.8,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:29:45.483017"
+}

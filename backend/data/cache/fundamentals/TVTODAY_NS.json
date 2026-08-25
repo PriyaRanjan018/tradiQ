@@ -1,0 +1,18 @@
+{
+  "ticker": "TVTODAY.NS",
+  "company_name": "T.V. Today Network Limited",
+  "sector": "Communication Services",
+  "industry": "Broadcasting",
+  "current_price": 112.31,
+  "market_cap_cr": 670.14,
+  "pe_ratio": 28.65,
+  "pb_ratio": 0.75,
+  "eps": 3.92,
+  "debt_to_equity": 0.02,
+  "roe": 15.0,
+  "revenue_growth_yoy": 4.6,
+  "earnings_growth": 39.8,
+  "profit_margins": 2.11,
+  "dividend_yield": 264.0,
+  "fetched_at": "2026-08-25T18:28:25.759045"
+}

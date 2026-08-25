@@ -1,0 +1,18 @@
+{
+  "ticker": "JSL.NS",
+  "company_name": "Jindal Stainless Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 701.4,
+  "market_cap_cr": 57791.84,
+  "pe_ratio": 17.86,
+  "pb_ratio": 12.84,
+  "eps": 39.35,
+  "debt_to_equity": 0.38,
+  "roe": 15.0,
+  "revenue_growth_yoy": 10.5,
+  "earnings_growth": 7.6,
+  "profit_margins": 7.38,
+  "dividend_yield": 57.0,
+  "fetched_at": "2026-08-25T18:29:44.392044"
+}

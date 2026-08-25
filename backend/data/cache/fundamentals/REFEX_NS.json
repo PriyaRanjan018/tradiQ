@@ -1,0 +1,18 @@
+{
+  "ticker": "REFEX.NS",
+  "company_name": "Refex Industries Limited",
+  "sector": "Energy",
+  "industry": "Thermal Coal",
+  "current_price": 290.0,
+  "market_cap_cr": 3979.36,
+  "pe_ratio": 13.41,
+  "pb_ratio": 2.65,
+  "eps": 21.63,
+  "debt_to_equity": 0.15,
+  "roe": 15.0,
+  "revenue_growth_yoy": 139.1,
+  "earnings_growth": 207.1,
+  "profit_margins": 8.66,
+  "dividend_yield": 70.0,
+  "fetched_at": "2026-08-25T18:28:18.428640"
+}

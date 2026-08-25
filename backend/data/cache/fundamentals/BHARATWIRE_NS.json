@@ -1,0 +1,23 @@
+{
+  "ticker": "BHARATWIRE.NS",
+  "company_name": "Bharat Wire Ropes Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 189.25,
+  "market_cap_cr": 1301.72,
+  "pe_ratio": 26.1,
+  "forward_pe": null,
+  "pb_ratio": 1.6,
+  "eps": 7.25,
+  "debt_to_equity": 0.09,
+  "roe": null,
+  "revenue_growth_yoy": -8.0,
+  "earnings_growth": -39.5,
+  "qoq_profit_growth": -9.78,
+  "profit_margins": 11.92,
+  "gross_margins": 48.87,
+  "dividend_yield": null,
+  "beta": 0.63,
+  "promoter_holding": 51.84,
+  "fetched_at": "2026-08-25T18:24:44.014224"
+}

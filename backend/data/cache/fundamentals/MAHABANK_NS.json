@@ -1,0 +1,18 @@
+{
+  "ticker": "MAHABANK.NS",
+  "company_name": "Bank of Maharashtra",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "current_price": 81.7,
+  "market_cap_cr": 62840.0,
+  "pe_ratio": 8.35,
+  "pb_ratio": 1.76,
+  "eps": 9.79,
+  "debt_to_equity": 0.5,
+  "roe": 22.96,
+  "revenue_growth_yoy": 21.8,
+  "earnings_growth": 34.2,
+  "profit_margins": 53.41,
+  "dividend_yield": 273.0,
+  "fetched_at": "2026-08-25T18:28:11.179987"
+}

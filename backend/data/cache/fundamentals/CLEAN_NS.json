@@ -1,0 +1,23 @@
+{
+  "ticker": "CLEAN.NS",
+  "company_name": "Clean Science and Technology Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 821.9,
+  "market_cap_cr": 8735.36,
+  "pe_ratio": 37.44,
+  "forward_pe": 25.41,
+  "pb_ratio": 5.52,
+  "eps": 21.95,
+  "debt_to_equity": 0.0,
+  "roe": null,
+  "revenue_growth_yoy": 10.5,
+  "earnings_growth": 4.7,
+  "qoq_profit_growth": 25.88,
+  "profit_margins": 23.72,
+  "gross_margins": 61.48,
+  "dividend_yield": 72.0,
+  "beta": 0.25,
+  "promoter_holding": 55.21,
+  "fetched_at": "2026-08-25T18:27:37.889645"
+}

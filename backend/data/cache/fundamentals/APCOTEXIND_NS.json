@@ -1,0 +1,23 @@
+{
+  "ticker": "APCOTEXIND.NS",
+  "company_name": "Apcotex Industries Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 617.25,
+  "market_cap_cr": 3200.13,
+  "pe_ratio": 19.67,
+  "forward_pe": 22.04,
+  "pb_ratio": 5.15,
+  "eps": 31.38,
+  "debt_to_equity": 0.16,
+  "roe": null,
+  "revenue_growth_yoy": 39.9,
+  "earnings_growth": 311.6,
+  "qoq_profit_growth": 127.22,
+  "profit_margins": 10.13,
+  "gross_margins": 32.81,
+  "dividend_yield": 129.0,
+  "beta": 0.21,
+  "promoter_holding": 61.54,
+  "fetched_at": "2026-08-25T18:22:11.921663"
+}

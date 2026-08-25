@@ -1,0 +1,18 @@
+{
+  "ticker": "NH.NS",
+  "company_name": "Narayana Hrudayalaya Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "current_price": 1890.1,
+  "market_cap_cr": 38387.9,
+  "pe_ratio": 46.68,
+  "pb_ratio": 8.46,
+  "eps": 40.49,
+  "debt_to_equity": 1.29,
+  "roe": 15.0,
+  "revenue_growth_yoy": 80.4,
+  "earnings_growth": 5.4,
+  "profit_margins": 8.98,
+  "dividend_yield": 24.0,
+  "fetched_at": "2026-08-25T18:29:47.349719"
+}

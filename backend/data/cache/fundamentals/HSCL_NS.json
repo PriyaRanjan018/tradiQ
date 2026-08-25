@@ -1,0 +1,23 @@
+{
+  "ticker": "HSCL.NS",
+  "company_name": "Himadri Speciality Chemical Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 659.75,
+  "market_cap_cr": 33289.28,
+  "pe_ratio": 41.0,
+  "forward_pe": 32.03,
+  "pb_ratio": 7.07,
+  "eps": 16.09,
+  "debt_to_equity": 0.16,
+  "roe": null,
+  "revenue_growth_yoy": 28.0,
+  "earnings_growth": 24.7,
+  "qoq_profit_growth": 14.31,
+  "profit_margins": 16.07,
+  "gross_margins": 36.82,
+  "dividend_yield": 12.0,
+  "beta": 0.26,
+  "promoter_holding": 59.91,
+  "fetched_at": "2026-08-25T18:29:44.104153"
+}

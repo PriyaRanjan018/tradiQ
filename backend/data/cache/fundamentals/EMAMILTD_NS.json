@@ -1,0 +1,18 @@
+{
+  "ticker": "EMAMILTD.NS",
+  "company_name": "Emami Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "current_price": 402.7,
+  "market_cap_cr": 17577.86,
+  "pe_ratio": 23.3,
+  "pb_ratio": 6.01,
+  "eps": 17.28,
+  "debt_to_equity": 0.06,
+  "roe": 15.0,
+  "revenue_growth_yoy": 14.9,
+  "earnings_growth": -16.2,
+  "profit_margins": 19.12,
+  "dividend_yield": 296.0,
+  "fetched_at": "2026-08-25T18:28:01.500816"
+}

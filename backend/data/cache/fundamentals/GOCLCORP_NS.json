@@ -1,0 +1,18 @@
+{
+  "ticker": "GOCLCORP.NS",
+  "company_name": "GOCL Corporation Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 395.7,
+  "market_cap_cr": 1961.58,
+  "pe_ratio": 7.23,
+  "pb_ratio": 0.62,
+  "eps": 54.4,
+  "debt_to_equity": 0.0,
+  "roe": 15.0,
+  "revenue_growth_yoy": 26.3,
+  "earnings_growth": -96.7,
+  "profit_margins": 3188.7,
+  "dividend_yield": 252.0,
+  "fetched_at": "2026-08-25T18:28:03.719600"
+}

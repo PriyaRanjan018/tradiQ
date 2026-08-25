@@ -1,0 +1,18 @@
+{
+  "ticker": "SCHNEIDER.NS",
+  "company_name": "Schneider Electric Infrastructure Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "current_price": 1146.4,
+  "market_cap_cr": 27410.89,
+  "pe_ratio": 157.04,
+  "pb_ratio": 35.35,
+  "eps": 7.65,
+  "debt_to_equity": 0.71,
+  "roe": 15.0,
+  "revenue_growth_yoy": 4.8,
+  "earnings_growth": -69.8,
+  "profit_margins": 6.29,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:29:50.254540"
+}

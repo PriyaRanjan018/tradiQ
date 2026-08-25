@@ -1,0 +1,23 @@
+{
+  "ticker": "WHIRLPOOL.NS",
+  "company_name": "Whirlpool of India Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Furnishings, Fixtures & Appliances",
+  "current_price": 767.3,
+  "market_cap_cr": 9738.6,
+  "pe_ratio": 38.85,
+  "forward_pe": 22.05,
+  "pb_ratio": 2.34,
+  "eps": 19.75,
+  "debt_to_equity": 0.09,
+  "roe": null,
+  "revenue_growth_yoy": 12.1,
+  "earnings_growth": -29.4,
+  "qoq_profit_growth": 28.28,
+  "profit_margins": 3.01,
+  "gross_margins": 32.38,
+  "dividend_yield": 65.0,
+  "beta": 0.36,
+  "promoter_holding": 42.37,
+  "fetched_at": "2026-08-25T18:29:55.853308"
+}

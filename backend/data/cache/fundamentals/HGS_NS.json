@@ -1,0 +1,18 @@
+{
+  "ticker": "HGS.NS",
+  "company_name": "Hinduja Global Solutions Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "current_price": 401.3,
+  "market_cap_cr": 1866.86,
+  "pe_ratio": 3.73,
+  "pb_ratio": 0.22,
+  "eps": -28.8,
+  "debt_to_equity": 0.23,
+  "roe": 15.0,
+  "revenue_growth_yoy": -0.6,
+  "earnings_growth": 12.0,
+  "profit_margins": -1.01,
+  "dividend_yield": 124.0,
+  "fetched_at": "2026-08-25T18:28:05.227689"
+}

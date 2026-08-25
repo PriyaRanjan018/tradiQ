@@ -1,0 +1,18 @@
+{
+  "ticker": "POCL.NS",
+  "company_name": "Pondy Oxides And Chemicals Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 504.65,
+  "market_cap_cr": 3849.38,
+  "pe_ratio": 27.91,
+  "pb_ratio": 4.88,
+  "eps": 18.08,
+  "debt_to_equity": 0.19,
+  "roe": 15.0,
+  "revenue_growth_yoy": 55.1,
+  "earnings_growth": 34.7,
+  "profit_margins": 4.33,
+  "dividend_yield": 40.0,
+  "fetched_at": "2026-08-25T18:29:48.359890"
+}

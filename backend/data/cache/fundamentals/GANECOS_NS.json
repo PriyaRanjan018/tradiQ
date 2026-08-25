@@ -1,0 +1,23 @@
+{
+  "ticker": "GANECOS.NS",
+  "company_name": "Ganesha Ecosphere Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "current_price": 1051.6,
+  "market_cap_cr": 2811.7,
+  "pe_ratio": 49.84,
+  "forward_pe": 15.75,
+  "pb_ratio": 2.2,
+  "eps": 21.43,
+  "debt_to_equity": 0.39,
+  "roe": null,
+  "revenue_growth_yoy": 25.7,
+  "earnings_growth": 161.1,
+  "qoq_profit_growth": 25.09,
+  "profit_margins": 3.6,
+  "gross_margins": 26.16,
+  "dividend_yield": 42.0,
+  "beta": -0.07,
+  "promoter_holding": 45.03,
+  "fetched_at": "2026-08-25T18:29:10.976500"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "SUNDROP.NS",
+  "company_name": "Sundrop Brands Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "current_price": 658.95,
+  "market_cap_cr": 2484.03,
+  "pe_ratio": 88.69,
+  "pb_ratio": 1.68,
+  "eps": 7.43,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 0.5,
+  "earnings_growth": 13.9,
+  "profit_margins": 1.74,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:29:51.668960"
+}

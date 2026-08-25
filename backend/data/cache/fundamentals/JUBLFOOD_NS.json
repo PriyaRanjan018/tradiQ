@@ -1,0 +1,18 @@
+{
+  "ticker": "JUBLFOOD.NS",
+  "company_name": "Jubilant FoodWorks Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Restaurants",
+  "current_price": 515.0,
+  "market_cap_cr": 33870.24,
+  "pe_ratio": 90.67,
+  "pb_ratio": 14.78,
+  "eps": 5.68,
+  "debt_to_equity": 0.03,
+  "roe": 15.0,
+  "revenue_growth_yoy": 20.3,
+  "earnings_growth": 12.0,
+  "profit_margins": 4.42,
+  "dividend_yield": 24.0,
+  "fetched_at": "2026-08-25T18:29:44.640930"
+}

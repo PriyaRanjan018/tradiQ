@@ -1,0 +1,23 @@
+{
+  "ticker": "ELDEHSG.NS",
+  "company_name": "Eldeco Housing and Industries Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "current_price": 809.75,
+  "market_cap_cr": 796.23,
+  "pe_ratio": 21.12,
+  "forward_pe": null,
+  "pb_ratio": 1.99,
+  "eps": 38.34,
+  "debt_to_equity": 0.39,
+  "roe": null,
+  "revenue_growth_yoy": 71.0,
+  "earnings_growth": 381.5,
+  "qoq_profit_growth": -64.55,
+  "profit_margins": 19.57,
+  "gross_margins": 59.2,
+  "dividend_yield": 109.0,
+  "beta": 0.5,
+  "promoter_holding": 70.1,
+  "fetched_at": "2026-08-25T18:28:43.848335"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "SGIL.NS",
+  "company_name": "Synergy Green Industries Limited",
+  "sector": "Industrials",
+  "industry": "Metal Fabrication",
+  "current_price": 575.45,
+  "market_cap_cr": 893.96,
+  "pe_ratio": null,
+  "pb_ratio": 8.05,
+  "eps": -5.58,
+  "debt_to_equity": 2.25,
+  "roe": 15.0,
+  "revenue_growth_yoy": -10.1,
+  "earnings_growth": 12.0,
+  "profit_margins": -2.47,
+  "dividend_yield": 17.0,
+  "fetched_at": "2026-08-25T18:29:50.556036"
+}

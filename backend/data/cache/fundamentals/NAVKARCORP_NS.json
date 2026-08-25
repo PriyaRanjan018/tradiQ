@@ -1,0 +1,18 @@
+{
+  "ticker": "NAVKARCORP.NS",
+  "company_name": "Navkar Corporation Limited",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "current_price": 97.07,
+  "market_cap_cr": 1461.09,
+  "pe_ratio": 36.49,
+  "pb_ratio": 0.75,
+  "eps": 2.66,
+  "debt_to_equity": 0.09,
+  "roe": 15.0,
+  "revenue_growth_yoy": 38.3,
+  "earnings_growth": 412.5,
+  "profit_margins": 5.38,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:13.975756"
+}

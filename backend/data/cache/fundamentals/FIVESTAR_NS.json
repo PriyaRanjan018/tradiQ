@@ -1,0 +1,23 @@
+{
+  "ticker": "FIVESTAR.NS",
+  "company_name": "Five-Star Business Finance Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 501.0,
+  "market_cap_cr": 14788.92,
+  "pe_ratio": 13.4,
+  "forward_pe": 10.14,
+  "pb_ratio": 2.0,
+  "eps": 37.4,
+  "debt_to_equity": 1.12,
+  "roe": null,
+  "revenue_growth_yoy": 8.0,
+  "earnings_growth": 1.8,
+  "qoq_profit_growth": 0.8,
+  "profit_margins": 47.8,
+  "gross_margins": 99.61,
+  "dividend_yield": 40.0,
+  "beta": 0.58,
+  "promoter_holding": 26.32,
+  "fetched_at": "2026-08-25T18:29:00.350283"
+}

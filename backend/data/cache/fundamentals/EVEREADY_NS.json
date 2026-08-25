@@ -1,0 +1,18 @@
+{
+  "ticker": "EVEREADY.NS",
+  "company_name": "Eveready Industries India Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "current_price": 341.75,
+  "market_cap_cr": 2484.09,
+  "pe_ratio": 13.99,
+  "pb_ratio": 3.99,
+  "eps": 24.43,
+  "debt_to_equity": 0.32,
+  "roe": 15.0,
+  "revenue_growth_yoy": 9.0,
+  "earnings_growth": 22.4,
+  "profit_margins": 11.97,
+  "dividend_yield": 71.0,
+  "fetched_at": "2026-08-25T18:28:02.067554"
+}

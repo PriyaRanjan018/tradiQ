@@ -1,0 +1,23 @@
+{
+  "ticker": "BRIGHOTEL.NS",
+  "company_name": "BRIGADE HOTEL VENTURE LTD",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "current_price": 59.35,
+  "market_cap_cr": 2254.37,
+  "pe_ratio": 33.16,
+  "forward_pe": 19.15,
+  "pb_ratio": 2.35,
+  "eps": 1.79,
+  "debt_to_equity": 0.31,
+  "roe": null,
+  "revenue_growth_yoy": 2.3,
+  "earnings_growth": null,
+  "qoq_profit_growth": -88.66,
+  "profit_margins": 12.92,
+  "gross_margins": 68.84,
+  "dividend_yield": null,
+  "beta": null,
+  "promoter_holding": 74.22,
+  "fetched_at": "2026-08-25T18:25:38.396087"
+}

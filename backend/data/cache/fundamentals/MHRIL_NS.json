@@ -1,0 +1,18 @@
+{
+  "ticker": "MHRIL.NS",
+  "company_name": "Mahindra Holidays & Resorts India Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Resorts & Casinos",
+  "current_price": 219.1,
+  "market_cap_cr": 4418.74,
+  "pe_ratio": 82.99,
+  "pb_ratio": 5.68,
+  "eps": 2.64,
+  "debt_to_equity": 4.89,
+  "roe": 15.0,
+  "revenue_growth_yoy": 4.5,
+  "earnings_growth": 12.0,
+  "profit_margins": 1.75,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:12.454109"
+}

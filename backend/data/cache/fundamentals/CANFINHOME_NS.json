@@ -1,0 +1,23 @@
+{
+  "ticker": "CANFINHOME.NS",
+  "company_name": "Can Fin Homes Limited",
+  "sector": "Financial Services",
+  "industry": "Mortgage Finance",
+  "current_price": 805.4,
+  "market_cap_cr": 10724.27,
+  "pe_ratio": 9.26,
+  "forward_pe": 8.5,
+  "pb_ratio": 1.79,
+  "eps": 84.87,
+  "debt_to_equity": 6.37,
+  "roe": null,
+  "revenue_growth_yoy": 22.5,
+  "earnings_growth": 19.6,
+  "qoq_profit_growth": -22.52,
+  "profit_margins": 66.73,
+  "gross_margins": 98.93,
+  "dividend_yield": 198.0,
+  "beta": 0.42,
+  "promoter_holding": 38.68,
+  "fetched_at": "2026-08-25T18:26:05.566842"
+}

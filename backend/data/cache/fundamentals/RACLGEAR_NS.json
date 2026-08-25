@@ -1,0 +1,18 @@
+{
+  "ticker": "RACLGEAR.NS",
+  "company_name": "RACL Geartech Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 1511.1,
+  "market_cap_cr": 1784.45,
+  "pe_ratio": 35.56,
+  "pb_ratio": 4.99,
+  "eps": 42.64,
+  "debt_to_equity": 0.67,
+  "roe": 15.0,
+  "revenue_growth_yoy": 31.5,
+  "earnings_growth": 7.7,
+  "profit_margins": 9.51,
+  "dividend_yield": 20.0,
+  "fetched_at": "2026-08-25T18:29:49.047405"
+}

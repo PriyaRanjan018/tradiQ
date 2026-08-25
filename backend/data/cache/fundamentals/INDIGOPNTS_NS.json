@@ -1,0 +1,18 @@
+{
+  "ticker": "INDIGOPNTS.NS",
+  "company_name": "Indigo Paints Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 1135.9,
+  "market_cap_cr": 5421.95,
+  "pe_ratio": 33.55,
+  "pb_ratio": 4.69,
+  "eps": 33.86,
+  "debt_to_equity": 0.02,
+  "roe": 15.0,
+  "revenue_growth_yoy": 19.7,
+  "earnings_growth": 60.9,
+  "profit_margins": 10.98,
+  "dividend_yield": 44.0,
+  "fetched_at": "2026-08-25T18:29:43.573795"
+}

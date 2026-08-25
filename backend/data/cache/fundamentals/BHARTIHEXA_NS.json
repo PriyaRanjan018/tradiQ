@@ -1,0 +1,23 @@
+{
+  "ticker": "BHARTIHEXA.NS",
+  "company_name": "BHARTI HEXACOM LIMITED",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "current_price": 1592.9,
+  "market_cap_cr": 79645.0,
+  "pe_ratio": 44.1,
+  "forward_pe": 25.02,
+  "pb_ratio": 11.12,
+  "eps": 36.12,
+  "debt_to_equity": 0.86,
+  "roe": null,
+  "revenue_growth_yoy": 10.9,
+  "earnings_growth": 23.2,
+  "qoq_profit_growth": 7.99,
+  "profit_margins": 19.0,
+  "gross_margins": 59.93,
+  "dividend_yield": 112.0,
+  "beta": 0.09,
+  "promoter_holding": 86.52,
+  "fetched_at": "2026-08-25T18:24:47.410791"
+}

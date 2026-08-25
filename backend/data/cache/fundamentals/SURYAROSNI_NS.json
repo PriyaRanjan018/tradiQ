@@ -1,0 +1,18 @@
+{
+  "ticker": "SURYAROSNI.NS",
+  "company_name": "Surya Roshni Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 220.23,
+  "market_cap_cr": 4793.0,
+  "pe_ratio": 15.39,
+  "pb_ratio": 1.82,
+  "eps": 14.31,
+  "debt_to_equity": 0.03,
+  "roe": 15.0,
+  "revenue_growth_yoy": 27.5,
+  "earnings_growth": 76.8,
+  "profit_margins": 3.91,
+  "dividend_yield": 228.0,
+  "fetched_at": "2026-08-25T18:28:23.866333"
+}

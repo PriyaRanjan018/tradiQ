@@ -1,0 +1,18 @@
+{
+  "ticker": "UGARSUGAR.NS",
+  "company_name": "The Ugar Sugar Works Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Confectioners",
+  "current_price": 55.66,
+  "market_cap_cr": 626.17,
+  "pe_ratio": 21.74,
+  "pb_ratio": 2.68,
+  "eps": 2.56,
+  "debt_to_equity": 3.11,
+  "roe": 15.0,
+  "revenue_growth_yoy": 34.1,
+  "earnings_growth": 12.0,
+  "profit_margins": 1.8,
+  "dividend_yield": 17.0,
+  "fetched_at": "2026-08-25T18:28:25.763597"
+}

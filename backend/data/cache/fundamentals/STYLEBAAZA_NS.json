@@ -1,0 +1,18 @@
+{
+  "ticker": "STYLEBAAZA.NS",
+  "company_name": "Baazar Style Retail Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "current_price": 394.5,
+  "market_cap_cr": 2943.65,
+  "pe_ratio": 65.86,
+  "pb_ratio": 6.53,
+  "eps": 5.99,
+  "debt_to_equity": 2.21,
+  "roe": 15.0,
+  "revenue_growth_yoy": 28.7,
+  "earnings_growth": 3.6,
+  "profit_margins": 2.41,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:23.288003"
+}

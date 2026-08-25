@@ -1,0 +1,23 @@
+{
+  "ticker": "ECLERX.NS",
+  "company_name": "eClerx Services Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "current_price": 1879.5,
+  "market_cap_cr": 17296.15,
+  "pe_ratio": 24.41,
+  "forward_pe": 19.16,
+  "pb_ratio": 6.79,
+  "eps": 76.99,
+  "debt_to_equity": 0.15,
+  "roe": null,
+  "revenue_growth_yoy": 23.3,
+  "earnings_growth": 18.8,
+  "qoq_profit_growth": -13.21,
+  "profit_margins": 16.81,
+  "gross_margins": 36.07,
+  "dividend_yield": 5.0,
+  "beta": 0.4,
+  "promoter_holding": 58.07,
+  "fetched_at": "2026-08-25T18:28:41.214603"
+}

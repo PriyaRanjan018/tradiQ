@@ -1,0 +1,18 @@
+{
+  "ticker": "SUBROS.NS",
+  "company_name": "Subros Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 729.5,
+  "market_cap_cr": 4758.95,
+  "pe_ratio": 28.43,
+  "pb_ratio": 3.83,
+  "eps": 25.51,
+  "debt_to_equity": 0.06,
+  "roe": 15.0,
+  "revenue_growth_yoy": 17.5,
+  "earnings_growth": 1.6,
+  "profit_margins": 4.25,
+  "dividend_yield": 41.0,
+  "fetched_at": "2026-08-25T18:29:51.574886"
+}

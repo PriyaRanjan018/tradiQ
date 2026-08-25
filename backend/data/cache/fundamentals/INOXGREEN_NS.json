@@ -1,0 +1,18 @@
+{
+  "ticker": "INOXGREEN.NS",
+  "company_name": "Inox Green Energy Services Limited",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "current_price": 173.51,
+  "market_cap_cr": 6966.29,
+  "pe_ratio": 54.91,
+  "pb_ratio": 3.98,
+  "eps": 3.16,
+  "debt_to_equity": 0.05,
+  "roe": 15.0,
+  "revenue_growth_yoy": -23.0,
+  "earnings_growth": 74.1,
+  "profit_margins": 44.54,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:06.934743"
+}

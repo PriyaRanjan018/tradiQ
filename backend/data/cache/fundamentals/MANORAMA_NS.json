@@ -1,0 +1,18 @@
+{
+  "ticker": "MANORAMA.NS",
+  "company_name": "Manorama Industries Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "current_price": 1914.6,
+  "market_cap_cr": 12085.41,
+  "pe_ratio": 45.99,
+  "pb_ratio": 16.76,
+  "eps": 41.63,
+  "debt_to_equity": 0.52,
+  "roe": 15.0,
+  "revenue_growth_yoy": 39.5,
+  "earnings_growth": 67.8,
+  "profit_margins": 17.33,
+  "dividend_yield": 4.0,
+  "fetched_at": "2026-08-25T18:29:46.054576"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "ROHLTD.NS",
+  "company_name": "Royal Orchid Hotels Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "current_price": 303.7,
+  "market_cap_cr": 832.9,
+  "pe_ratio": 30.4,
+  "pb_ratio": 3.22,
+  "eps": 9.99,
+  "debt_to_equity": 2.33,
+  "roe": 15.0,
+  "revenue_growth_yoy": 36.1,
+  "earnings_growth": -41.4,
+  "profit_margins": 6.71,
+  "dividend_yield": 82.0,
+  "fetched_at": "2026-08-25T18:28:19.010938"
+}

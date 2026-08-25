@@ -1,0 +1,23 @@
+{
+  "ticker": "MANYAVAR.NS",
+  "company_name": "Vedant Fashions Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Manufacturing",
+  "current_price": 536.5,
+  "market_cap_cr": 13035.73,
+  "pe_ratio": 33.2,
+  "forward_pe": 29.41,
+  "pb_ratio": 6.63,
+  "eps": 16.16,
+  "debt_to_equity": 0.23,
+  "roe": null,
+  "revenue_growth_yoy": 7.2,
+  "earnings_growth": 14.9,
+  "qoq_profit_growth": -29.48,
+  "profit_margins": 26.51,
+  "gross_margins": 70.26,
+  "dividend_yield": 150.0,
+  "beta": -0.11,
+  "promoter_holding": 74.94,
+  "fetched_at": "2026-08-25T18:29:47.933590"
+}

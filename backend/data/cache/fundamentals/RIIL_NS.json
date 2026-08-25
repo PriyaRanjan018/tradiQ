@@ -1,0 +1,18 @@
+{
+  "ticker": "RIIL.NS",
+  "company_name": "Reliance Industrial Infrastructure Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "current_price": 763.55,
+  "market_cap_cr": 1152.96,
+  "pe_ratio": 93.34,
+  "pb_ratio": 2.43,
+  "eps": 8.18,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": -30.7,
+  "earnings_growth": -8.3,
+  "profit_margins": 29.16,
+  "dividend_yield": 45.0,
+  "fetched_at": "2026-08-25T18:29:49.440474"
+}

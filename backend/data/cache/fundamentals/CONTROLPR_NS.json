@@ -1,0 +1,23 @@
+{
+  "ticker": "CONTROLPR.NS",
+  "company_name": "Control Print Limited",
+  "sector": "Industrials",
+  "industry": "Business Equipment & Supplies",
+  "current_price": 605.2,
+  "market_cap_cr": 967.97,
+  "pe_ratio": 24.85,
+  "forward_pe": null,
+  "pb_ratio": 2.14,
+  "eps": 24.35,
+  "debt_to_equity": 0.02,
+  "roe": null,
+  "revenue_growth_yoy": 3.8,
+  "earnings_growth": -54.2,
+  "qoq_profit_growth": -64.97,
+  "profit_margins": 8.01,
+  "gross_margins": 55.37,
+  "dividend_yield": 167.0,
+  "beta": 0.29,
+  "promoter_holding": 59.27,
+  "fetched_at": "2026-08-25T18:28:03.066177"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "GMDCLTD.NS",
+  "company_name": "Gujarat Mineral Development Corporation Limited",
+  "sector": "Energy",
+  "industry": "Thermal Coal",
+  "current_price": 567.35,
+  "market_cap_cr": 18041.73,
+  "pe_ratio": 18.86,
+  "forward_pe": 16.54,
+  "pb_ratio": 2.55,
+  "eps": 30.08,
+  "debt_to_equity": 0.04,
+  "roe": null,
+  "revenue_growth_yoy": 23.8,
+  "earnings_growth": -0.2,
+  "qoq_profit_growth": -15.8,
+  "profit_margins": 33.82,
+  "gross_margins": 88.78,
+  "dividend_yield": 177.0,
+  "beta": 0.35,
+  "promoter_holding": 74.05,
+  "fetched_at": "2026-08-25T18:29:21.709179"
+}

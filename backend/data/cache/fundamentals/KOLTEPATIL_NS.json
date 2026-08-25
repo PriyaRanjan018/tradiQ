@@ -1,0 +1,18 @@
+{
+  "ticker": "KOLTEPATIL.NS",
+  "company_name": "Kolte-Patil Developers Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "current_price": 459.45,
+  "market_cap_cr": 4074.41,
+  "pe_ratio": 78.14,
+  "pb_ratio": 3.38,
+  "eps": 5.88,
+  "debt_to_equity": 0.98,
+  "roe": 15.0,
+  "revenue_growth_yoy": 1016.5,
+  "earnings_growth": 12.0,
+  "profit_margins": 7.92,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:09.525216"
+}

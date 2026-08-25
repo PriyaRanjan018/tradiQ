@@ -1,0 +1,23 @@
+{
+  "ticker": "ARVINDFASN.NS",
+  "company_name": "Arvind Fashions Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "current_price": 438.0,
+  "market_cap_cr": 5855.93,
+  "pe_ratio": 48.45,
+  "forward_pe": 24.29,
+  "pb_ratio": 6.19,
+  "eps": 9.04,
+  "debt_to_equity": 1.15,
+  "roe": null,
+  "revenue_growth_yoy": 15.5,
+  "earnings_growth": -23.4,
+  "qoq_profit_growth": -79.63,
+  "profit_margins": 2.2,
+  "gross_margins": 54.63,
+  "dividend_yield": 36.0,
+  "beta": 0.09,
+  "promoter_holding": 37.93,
+  "fetched_at": "2026-08-25T18:22:43.505247"
+}

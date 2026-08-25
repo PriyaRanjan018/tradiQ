@@ -1,0 +1,23 @@
+{
+  "ticker": "BORANA.NS",
+  "company_name": "Borana Weaves Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "current_price": 306.95,
+  "market_cap_cr": 817.88,
+  "pe_ratio": 11.81,
+  "forward_pe": null,
+  "pb_ratio": 2.91,
+  "eps": 25.99,
+  "debt_to_equity": 0.25,
+  "roe": null,
+  "revenue_growth_yoy": 24.5,
+  "earnings_growth": 35.8,
+  "qoq_profit_growth": -7.23,
+  "profit_margins": 16.87,
+  "gross_margins": 42.6,
+  "dividend_yield": null,
+  "beta": null,
+  "promoter_holding": 74.71,
+  "fetched_at": "2026-08-25T18:25:19.536435"
+}

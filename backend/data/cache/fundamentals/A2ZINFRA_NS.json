@@ -1,0 +1,23 @@
+{
+  "ticker": "A2ZINFRA.NS",
+  "company_name": "A2Z Infra Engineering Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "current_price": 15.97,
+  "market_cap_cr": 283.5,
+  "pe_ratio": 79.85,
+  "forward_pe": null,
+  "pb_ratio": 5.7,
+  "eps": 0.2,
+  "debt_to_equity": 3.02,
+  "roe": null,
+  "revenue_growth_yoy": -24.4,
+  "earnings_growth": -75.0,
+  "qoq_profit_growth": 1030.73,
+  "profit_margins": 1.0,
+  "gross_margins": 12.98,
+  "dividend_yield": null,
+  "beta": 0.05,
+  "promoter_holding": 36.77,
+  "fetched_at": "2026-08-25T18:17:13.343490"
+}

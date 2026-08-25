@@ -1,0 +1,18 @@
+{
+  "ticker": "KIRIINDUS.NS",
+  "company_name": "Kiri Industries Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 498.7,
+  "market_cap_cr": 3249.93,
+  "pe_ratio": 0.53,
+  "pb_ratio": 0.47,
+  "eps": 944.06,
+  "debt_to_equity": 0.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": 54.5,
+  "earnings_growth": 2465.1,
+  "profit_margins": 615.51,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:09.351611"
+}

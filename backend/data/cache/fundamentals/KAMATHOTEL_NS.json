@@ -1,0 +1,18 @@
+{
+  "ticker": "KAMATHOTEL.NS",
+  "company_name": "Kamat Hotels (India) Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "current_price": 227.2,
+  "market_cap_cr": 669.79,
+  "pe_ratio": 17.04,
+  "pb_ratio": 2.8,
+  "eps": 14.52,
+  "debt_to_equity": 0.7,
+  "roe": 15.0,
+  "revenue_growth_yoy": 9.5,
+  "earnings_growth": 124.6,
+  "profit_margins": 11.26,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:08.918708"
+}

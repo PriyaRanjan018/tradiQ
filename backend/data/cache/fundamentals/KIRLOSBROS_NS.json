@@ -1,0 +1,18 @@
+{
+  "ticker": "KIRLOSBROS.NS",
+  "company_name": "Kirloskar Brothers Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 1899.0,
+  "market_cap_cr": 15079.75,
+  "pe_ratio": 40.66,
+  "pb_ratio": 6.12,
+  "eps": 47.08,
+  "debt_to_equity": 0.1,
+  "roe": 15.0,
+  "revenue_growth_yoy": 12.9,
+  "earnings_growth": -0.1,
+  "profit_margins": 8.01,
+  "dividend_yield": 36.0,
+  "fetched_at": "2026-08-25T18:29:45.046481"
+}

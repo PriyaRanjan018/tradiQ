@@ -1,0 +1,18 @@
+{
+  "ticker": "RAINBOW.NS",
+  "company_name": "Rainbow Children's Medicare Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "current_price": 1445.2,
+  "market_cap_cr": 14661.57,
+  "pe_ratio": 51.45,
+  "pb_ratio": 8.9,
+  "eps": 28.09,
+  "debt_to_equity": 0.54,
+  "roe": 15.0,
+  "revenue_growth_yoy": 33.2,
+  "earnings_growth": 13.3,
+  "profit_margins": 15.68,
+  "dividend_yield": 24.0,
+  "fetched_at": "2026-08-25T18:29:49.009597"
+}

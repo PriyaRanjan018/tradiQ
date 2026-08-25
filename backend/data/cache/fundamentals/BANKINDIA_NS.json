@@ -1,0 +1,23 @@
+{
+  "ticker": "BANKINDIA.NS",
+  "company_name": "Bank of India Limited",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "current_price": 143.99,
+  "market_cap_cr": 65553.87,
+  "pe_ratio": 5.33,
+  "forward_pe": 5.54,
+  "pb_ratio": 0.72,
+  "eps": 27.01,
+  "debt_to_equity": null,
+  "roe": 13.7,
+  "revenue_growth_yoy": 18.5,
+  "earnings_growth": 80.3,
+  "qoq_profit_growth": 6.96,
+  "profit_margins": 34.99,
+  "gross_margins": null,
+  "dividend_yield": 327.0,
+  "beta": 0.78,
+  "promoter_holding": 73.38,
+  "fetched_at": "2026-08-25T18:24:06.096919"
+}

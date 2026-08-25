@@ -1,0 +1,18 @@
+{
+  "ticker": "MAHSEAMLES.NS",
+  "company_name": "Maharashtra Seamless Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 636.55,
+  "market_cap_cr": 8529.72,
+  "pe_ratio": 11.58,
+  "pb_ratio": 1.24,
+  "eps": 54.98,
+  "debt_to_equity": 0.0,
+  "roe": 15.0,
+  "revenue_growth_yoy": -4.7,
+  "earnings_growth": 15.6,
+  "profit_margins": 15.96,
+  "dividend_yield": 158.0,
+  "fetched_at": "2026-08-25T18:29:46.065029"
+}

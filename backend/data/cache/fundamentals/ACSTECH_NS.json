@@ -1,0 +1,23 @@
+{
+  "ticker": "ACSTECH.NS",
+  "company_name": "ACS Technologies Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "current_price": 50.96,
+  "market_cap_cr": null,
+  "pe_ratio": 26.96,
+  "forward_pe": null,
+  "pb_ratio": 2.24,
+  "eps": 1.89,
+  "debt_to_equity": 0.35,
+  "roe": null,
+  "revenue_growth_yoy": 244.3,
+  "earnings_growth": 364.3,
+  "qoq_profit_growth": -23.55,
+  "profit_margins": 3.36,
+  "gross_margins": 12.18,
+  "dividend_yield": null,
+  "beta": 0.44,
+  "promoter_holding": 44.0,
+  "fetched_at": "2026-08-25T18:18:04.446758"
+}

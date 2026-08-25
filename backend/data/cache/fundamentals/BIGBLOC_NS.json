@@ -1,0 +1,23 @@
+{
+  "ticker": "BIGBLOC.NS",
+  "company_name": "Bigbloc Construction Limited",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "current_price": 43.73,
+  "market_cap_cr": 619.11,
+  "pe_ratio": 364.42,
+  "forward_pe": 10.54,
+  "pb_ratio": 4.5,
+  "eps": 0.12,
+  "debt_to_equity": 1.38,
+  "roe": null,
+  "revenue_growth_yoy": 40.4,
+  "earnings_growth": null,
+  "qoq_profit_growth": -51.68,
+  "profit_margins": 0.52,
+  "gross_margins": 55.2,
+  "dividend_yield": null,
+  "beta": -0.12,
+  "promoter_holding": 80.96,
+  "fetched_at": "2026-08-25T18:24:49.320546"
+}

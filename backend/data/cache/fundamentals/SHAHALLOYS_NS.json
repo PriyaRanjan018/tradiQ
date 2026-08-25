@@ -1,0 +1,18 @@
+{
+  "ticker": "SHAHALLOYS.NS",
+  "company_name": "Shah Alloys Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 76.82,
+  "market_cap_cr": 152.08,
+  "pe_ratio": 1.42,
+  "pb_ratio": 1.35,
+  "eps": 54.06,
+  "debt_to_equity": 0.56,
+  "roe": 15.0,
+  "revenue_growth_yoy": 15.0,
+  "earnings_growth": 12.0,
+  "profit_margins": 795.97,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:20.817387"
+}

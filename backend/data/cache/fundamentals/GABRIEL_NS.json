@@ -1,0 +1,23 @@
+{
+  "ticker": "GABRIEL.NS",
+  "company_name": "Gabriel India Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 1346.0,
+  "market_cap_cr": 23855.16,
+  "pe_ratio": 72.87,
+  "forward_pe": 33.58,
+  "pb_ratio": 14.15,
+  "eps": 18.47,
+  "debt_to_equity": 0.11,
+  "roe": null,
+  "revenue_growth_yoy": 29.8,
+  "earnings_growth": 40.6,
+  "qoq_profit_growth": 61.16,
+  "profit_margins": 5.24,
+  "gross_margins": 25.73,
+  "dividend_yield": 37.0,
+  "beta": 0.72,
+  "promoter_holding": 64.34,
+  "fetched_at": "2026-08-25T18:29:05.607770"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "THOMASCOTT.NS",
+  "company_name": "Thomas Scott (India) Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "current_price": 279.1,
+  "market_cap_cr": 409.45,
+  "pe_ratio": 19.0,
+  "pb_ratio": 2.9,
+  "eps": 14.69,
+  "debt_to_equity": 0.34,
+  "roe": 15.87,
+  "revenue_growth_yoy": 63.4,
+  "earnings_growth": -36.7,
+  "profit_margins": 7.57,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:24.793046"
+}

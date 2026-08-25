@@ -1,0 +1,18 @@
+{
+  "ticker": "INDRAMEDCO.NS",
+  "company_name": "Indraprastha Medical Corporation Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "current_price": 372.95,
+  "market_cap_cr": 3418.94,
+  "pe_ratio": 18.31,
+  "pb_ratio": 4.62,
+  "eps": 20.52,
+  "debt_to_equity": 0.05,
+  "roe": 15.0,
+  "revenue_growth_yoy": 11.3,
+  "earnings_growth": 8.6,
+  "profit_margins": 12.34,
+  "dividend_yield": 108.0,
+  "fetched_at": "2026-08-25T18:28:06.794095"
+}

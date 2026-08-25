@@ -1,0 +1,18 @@
+{
+  "ticker": "UNIPARTS.NS",
+  "company_name": "Uniparts India Limited",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "current_price": 825.6,
+  "market_cap_cr": 3723.89,
+  "pe_ratio": 20.5,
+  "pb_ratio": 4.28,
+  "eps": 40.28,
+  "debt_to_equity": 0.18,
+  "roe": 15.0,
+  "revenue_growth_yoy": 26.9,
+  "earnings_growth": 63.6,
+  "profit_margins": 14.51,
+  "dividend_yield": 300.0,
+  "fetched_at": "2026-08-25T18:29:53.174626"
+}

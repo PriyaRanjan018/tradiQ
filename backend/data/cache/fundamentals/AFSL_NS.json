@@ -1,0 +1,23 @@
+{
+  "ticker": "AFSL.NS",
+  "company_name": "Abans Financial Services Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 201.0,
+  "market_cap_cr": 1021.88,
+  "pe_ratio": 7.58,
+  "forward_pe": null,
+  "pb_ratio": 0.81,
+  "eps": 26.52,
+  "debt_to_equity": 0.56,
+  "roe": null,
+  "revenue_growth_yoy": 95.9,
+  "earnings_growth": 88.9,
+  "qoq_profit_growth": -112.09,
+  "profit_margins": 0.5,
+  "gross_margins": 1.45,
+  "dividend_yield": null,
+  "beta": -0.08,
+  "promoter_holding": 82.73,
+  "fetched_at": "2026-08-25T18:20:53.733480"
+}

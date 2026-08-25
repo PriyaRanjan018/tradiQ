@@ -1,0 +1,18 @@
+{
+  "ticker": "PSB.NS",
+  "company_name": "Punjab & Sind Bank",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "current_price": 23.34,
+  "market_cap_cr": 16561.1,
+  "pe_ratio": 11.97,
+  "pb_ratio": 1.13,
+  "eps": 1.95,
+  "debt_to_equity": 0.5,
+  "roe": 9.79,
+  "revenue_growth_yoy": 10.9,
+  "earnings_growth": 23.7,
+  "profit_margins": 28.52,
+  "dividend_yield": 168.0,
+  "fetched_at": "2026-08-25T18:28:17.437412"
+}

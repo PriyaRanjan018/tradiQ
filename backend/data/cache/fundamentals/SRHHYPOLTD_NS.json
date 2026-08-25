@@ -1,0 +1,18 @@
+{
+  "ticker": "SRHHYPOLTD.NS",
+  "company_name": "Sree Rayalaseema Hi-Strength Hypo Limited",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "current_price": 471.9,
+  "market_cap_cr": 810.01,
+  "pe_ratio": 8.69,
+  "pb_ratio": 0.83,
+  "eps": 54.32,
+  "debt_to_equity": 0.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": 17.0,
+  "earnings_growth": 11.3,
+  "profit_margins": 13.21,
+  "dividend_yield": 63.0,
+  "fetched_at": "2026-08-25T18:28:22.721368"
+}

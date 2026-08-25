@@ -1,0 +1,18 @@
+{
+  "ticker": "PTL.NS",
+  "company_name": "PTL Enterprises Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "current_price": 38.54,
+  "market_cap_cr": 510.18,
+  "pe_ratio": 11.27,
+  "pb_ratio": 0.61,
+  "eps": 3.42,
+  "debt_to_equity": 0.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": 15.0,
+  "earnings_growth": -5.7,
+  "profit_margins": 71.03,
+  "dividend_yield": 1100.0,
+  "fetched_at": "2026-08-25T18:28:17.442978"
+}

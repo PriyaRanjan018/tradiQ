@@ -1,0 +1,23 @@
+{
+  "ticker": "AURUM.NS",
+  "company_name": "Aurum PropTech Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "current_price": 236.46,
+  "market_cap_cr": 1814.5,
+  "pe_ratio": 31.95,
+  "forward_pe": 112.6,
+  "pb_ratio": 2.88,
+  "eps": 7.4,
+  "debt_to_equity": 0.44,
+  "roe": null,
+  "revenue_growth_yoy": 63.5,
+  "earnings_growth": null,
+  "qoq_profit_growth": -98.61,
+  "profit_margins": 10.42,
+  "gross_margins": 73.88,
+  "dividend_yield": null,
+  "beta": -0.03,
+  "promoter_holding": 60.29,
+  "fetched_at": "2026-08-25T18:23:12.077640"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "VASCONEQ.NS",
+  "company_name": "Vascon Engineers Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "current_price": 31.0,
+  "market_cap_cr": 720.08,
+  "pe_ratio": 25.2,
+  "pb_ratio": 0.63,
+  "eps": 1.25,
+  "debt_to_equity": 0.26,
+  "roe": 4.36,
+  "revenue_growth_yoy": -34.7,
+  "earnings_growth": -83.8,
+  "profit_margins": 5.16,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:26.757793"
+}

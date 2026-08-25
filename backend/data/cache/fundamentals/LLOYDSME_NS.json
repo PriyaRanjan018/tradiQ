@@ -1,0 +1,18 @@
+{
+  "ticker": "LLOYDSME.NS",
+  "company_name": "Lloyds Metals and Energy Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 1844.7,
+  "market_cap_cr": 103780.92,
+  "pe_ratio": 21.52,
+  "pb_ratio": 7.48,
+  "eps": 85.72,
+  "debt_to_equity": 1.45,
+  "roe": 15.0,
+  "revenue_growth_yoy": 208.6,
+  "earnings_growth": 169.3,
+  "profit_margins": 21.51,
+  "dividend_yield": 5.0,
+  "fetched_at": "2026-08-25T18:29:45.735723"
+}

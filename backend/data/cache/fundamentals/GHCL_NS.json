@@ -1,0 +1,18 @@
+{
+  "ticker": "GHCL.NS",
+  "company_name": "GHCL Limited",
+  "sector": "Basic Materials",
+  "industry": "Chemicals",
+  "current_price": 440.8,
+  "market_cap_cr": 4040.57,
+  "pe_ratio": 7.86,
+  "pb_ratio": 1.12,
+  "eps": 56.05,
+  "debt_to_equity": 0.02,
+  "roe": 15.0,
+  "revenue_growth_yoy": -2.7,
+  "earnings_growth": 39.6,
+  "profit_margins": 17.05,
+  "dividend_yield": 270.0,
+  "fetched_at": "2026-08-25T18:28:03.160024"
+}

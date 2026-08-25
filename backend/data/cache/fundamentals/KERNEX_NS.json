@@ -1,0 +1,18 @@
+{
+  "ticker": "KERNEX.NS",
+  "company_name": "Kernex Microsystems (India) Limited",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "current_price": 1899.4,
+  "market_cap_cr": 3191.68,
+  "pe_ratio": 16.99,
+  "pb_ratio": 12.84,
+  "eps": 111.81,
+  "debt_to_equity": 0.66,
+  "roe": 15.0,
+  "revenue_growth_yoy": 800.4,
+  "earnings_growth": 1372.3,
+  "profit_margins": 21.73,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:29:44.756495"
+}

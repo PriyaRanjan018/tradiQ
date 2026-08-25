@@ -1,0 +1,23 @@
+{
+  "ticker": "ARIHANTCAP.NS",
+  "company_name": "Arihant Capital Markets Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 78.19,
+  "market_cap_cr": 857.06,
+  "pe_ratio": 21.66,
+  "forward_pe": null,
+  "pb_ratio": 1.77,
+  "eps": 3.61,
+  "debt_to_equity": 0.55,
+  "roe": null,
+  "revenue_growth_yoy": 50.4,
+  "earnings_growth": 69.0,
+  "qoq_profit_growth": 4212.54,
+  "profit_margins": 19.36,
+  "gross_margins": 46.93,
+  "dividend_yield": 66.0,
+  "beta": 0.28,
+  "promoter_holding": 72.81,
+  "fetched_at": "2026-08-25T18:22:31.623233"
+}

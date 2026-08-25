@@ -1,0 +1,18 @@
+{
+  "ticker": "GROWW.NS",
+  "company_name": "Billionbrains Garage Ventures Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 203.01,
+  "market_cap_cr": 125695.2,
+  "pe_ratio": 51.66,
+  "pb_ratio": 13.0,
+  "eps": 3.95,
+  "debt_to_equity": 0.03,
+  "roe": 15.0,
+  "revenue_growth_yoy": 65.2,
+  "earnings_growth": 85.7,
+  "profit_margins": 45.35,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:04.281488"
+}

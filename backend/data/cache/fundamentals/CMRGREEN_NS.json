@@ -1,0 +1,23 @@
+{
+  "ticker": "CMRGREEN.NS",
+  "company_name": "CMR GREEN TECHNOLOGIES L",
+  "sector": "Basic Materials",
+  "industry": "Aluminum",
+  "current_price": 217.92,
+  "market_cap_cr": null,
+  "pe_ratio": 32.19,
+  "forward_pe": null,
+  "pb_ratio": 3.11,
+  "eps": 6.77,
+  "debt_to_equity": 0.83,
+  "roe": null,
+  "revenue_growth_yoy": 64.9,
+  "earnings_growth": 15.4,
+  "qoq_profit_growth": null,
+  "profit_margins": 2.24,
+  "gross_margins": 11.71,
+  "dividend_yield": null,
+  "beta": null,
+  "promoter_holding": 85.0,
+  "fetched_at": "2026-08-25T18:27:44.181211"
+}

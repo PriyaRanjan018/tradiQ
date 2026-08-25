@@ -1,0 +1,18 @@
+{
+  "ticker": "JAYKAY.NS",
+  "company_name": "Jaykay Enterprises Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "current_price": 158.67,
+  "market_cap_cr": 2067.26,
+  "pe_ratio": 10.18,
+  "pb_ratio": 1.98,
+  "eps": 15.58,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 12.6,
+  "earnings_growth": -76.7,
+  "profit_margins": 28.79,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:08.117101"
+}

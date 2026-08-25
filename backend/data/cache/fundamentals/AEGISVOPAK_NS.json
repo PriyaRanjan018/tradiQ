@@ -1,0 +1,23 @@
+{
+  "ticker": "AEGISVOPAK.NS",
+  "company_name": "AEGIS VOPAK TERMINALS LTD",
+  "sector": "Energy",
+  "industry": "Oil & Gas Equipment & Services",
+  "current_price": 267.7,
+  "market_cap_cr": 29660.93,
+  "pe_ratio": 94.93,
+  "forward_pe": 35.38,
+  "pb_ratio": 6.91,
+  "eps": 2.76,
+  "debt_to_equity": 0.84,
+  "roe": null,
+  "revenue_growth_yoy": 42.5,
+  "earnings_growth": 30.4,
+  "qoq_profit_growth": -3.74,
+  "profit_margins": 32.13,
+  "gross_margins": 98.74,
+  "dividend_yield": 7.0,
+  "beta": null,
+  "promoter_holding": 87.35,
+  "fetched_at": "2026-08-25T18:20:39.984814"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "OSWALSEEDS.NS",
+  "company_name": "ShreeOswal Seeds and Chemicals Limited",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "current_price": 12.03,
+  "market_cap_cr": 110.04,
+  "pe_ratio": 14.85,
+  "pb_ratio": 2.16,
+  "eps": 0.81,
+  "debt_to_equity": 1.21,
+  "roe": 15.0,
+  "revenue_growth_yoy": 19.5,
+  "earnings_growth": 67.5,
+  "profit_margins": 4.57,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:16.119893"
+}

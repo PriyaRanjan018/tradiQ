@@ -1,0 +1,18 @@
+{
+  "ticker": "SOUTHBANK.NS",
+  "company_name": "The South Indian Bank Limited",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "current_price": 45.35,
+  "market_cap_cr": 11878.53,
+  "pe_ratio": 7.87,
+  "pb_ratio": 1.01,
+  "eps": 5.76,
+  "debt_to_equity": 0.5,
+  "roe": 13.6,
+  "revenue_growth_yoy": 8.6,
+  "earnings_growth": 17.1,
+  "profit_margins": 29.43,
+  "dividend_yield": 100.0,
+  "fetched_at": "2026-08-25T18:28:22.307682"
+}

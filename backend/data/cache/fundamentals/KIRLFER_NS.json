@@ -1,0 +1,18 @@
+{
+  "ticker": "KIRLFER.NS",
+  "company_name": "Kirloskar Ferrous Industries Limited",
+  "sector": "Industrials",
+  "industry": "Metal Fabrication",
+  "current_price": 442.5,
+  "market_cap_cr": 7300.91,
+  "pe_ratio": 20.94,
+  "pb_ratio": 1.89,
+  "eps": 21.13,
+  "debt_to_equity": 0.12,
+  "roe": 15.0,
+  "revenue_growth_yoy": 29.9,
+  "earnings_growth": 44.0,
+  "profit_margins": 5.05,
+  "dividend_yield": 135.0,
+  "fetched_at": "2026-08-25T18:28:09.789901"
+}

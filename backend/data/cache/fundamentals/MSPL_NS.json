@@ -1,0 +1,18 @@
+{
+  "ticker": "MSPL.NS",
+  "company_name": "MSP Steel & Power Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 33.46,
+  "market_cap_cr": 1896.5,
+  "pe_ratio": 53.97,
+  "pb_ratio": 1.84,
+  "eps": 0.63,
+  "debt_to_equity": 0.31,
+  "roe": 15.0,
+  "revenue_growth_yoy": 16.3,
+  "earnings_growth": 23.3,
+  "profit_margins": 1.28,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:13.067079"
+}

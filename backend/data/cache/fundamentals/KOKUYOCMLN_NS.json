@@ -1,0 +1,18 @@
+{
+  "ticker": "KOKUYOCMLN.NS",
+  "company_name": "Kokuyo Camlin Limited",
+  "sector": "Industrials",
+  "industry": "Business Equipment & Supplies",
+  "current_price": 79.11,
+  "market_cap_cr": 793.5,
+  "pe_ratio": 36.97,
+  "pb_ratio": 2.46,
+  "eps": 2.14,
+  "debt_to_equity": 0.11,
+  "roe": 15.0,
+  "revenue_growth_yoy": 0.8,
+  "earnings_growth": -27.0,
+  "profit_margins": 1.35,
+  "dividend_yield": 36.0,
+  "fetched_at": "2026-08-25T18:28:09.520882"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "SHREEPUSHK.NS",
+  "company_name": "Shree Pushkar Chemicals & Fertilisers Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 454.1,
+  "market_cap_cr": 1468.45,
+  "pe_ratio": 20.65,
+  "pb_ratio": 2.41,
+  "eps": 21.99,
+  "debt_to_equity": 0.22,
+  "roe": 15.0,
+  "revenue_growth_yoy": 10.0,
+  "earnings_growth": 6.9,
+  "profit_margins": 7.19,
+  "dividend_yield": 49.0,
+  "fetched_at": "2026-08-25T18:28:21.408493"
+}

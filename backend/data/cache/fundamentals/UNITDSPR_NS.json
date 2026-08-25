@@ -1,0 +1,18 @@
+{
+  "ticker": "UNITDSPR.NS",
+  "company_name": "UNITED SPIRITS LIMITED",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Wineries & Distilleries",
+  "current_price": 1550.0,
+  "market_cap_cr": 110058.59,
+  "pe_ratio": 65.1,
+  "pb_ratio": 12.29,
+  "eps": 23.81,
+  "debt_to_equity": 0.05,
+  "roe": 15.0,
+  "revenue_growth_yoy": -10.2,
+  "earnings_growth": 11.2,
+  "profit_margins": 14.92,
+  "dividend_yield": 109.0,
+  "fetched_at": "2026-08-25T18:29:53.196529"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "VIYASH.NS",
+  "company_name": "Viyash Scientific Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 278.35,
+  "market_cap_cr": 12244.83,
+  "pe_ratio": 58.6,
+  "pb_ratio": 4.17,
+  "eps": 4.75,
+  "debt_to_equity": 0.16,
+  "roe": 15.0,
+  "revenue_growth_yoy": 114.4,
+  "earnings_growth": 162.5,
+  "profit_margins": 5.91,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:27.382565"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "UNIMECH.NS",
+  "company_name": "Unimech Aerospace and Manufacturing Limited",
+  "sector": "Industrials",
+  "industry": "Aerospace & Defense",
+  "current_price": 1473.5,
+  "market_cap_cr": 7500.41,
+  "pe_ratio": 103.99,
+  "pb_ratio": 10.17,
+  "eps": 14.17,
+  "debt_to_equity": 0.17,
+  "roe": 15.0,
+  "revenue_growth_yoy": 70.9,
+  "earnings_growth": 45.5,
+  "profit_margins": 25.26,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:29:53.428563"
+}

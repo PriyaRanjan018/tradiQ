@@ -1,0 +1,23 @@
+{
+  "ticker": "BMWVENTLTD.NS",
+  "company_name": "BMW VENTURES LIMITED",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 56.97,
+  "market_cap_cr": 494.02,
+  "pe_ratio": 12.58,
+  "forward_pe": null,
+  "pb_ratio": 1.12,
+  "eps": 4.53,
+  "debt_to_equity": 0.58,
+  "roe": null,
+  "revenue_growth_yoy": 25.7,
+  "earnings_growth": -3.9,
+  "qoq_profit_growth": -5.65,
+  "profit_margins": 1.67,
+  "gross_margins": 9.26,
+  "dividend_yield": 526.0,
+  "beta": null,
+  "promoter_holding": 77.91,
+  "fetched_at": "2026-08-25T18:25:11.788559"
+}

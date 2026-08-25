@@ -1,0 +1,18 @@
+{
+  "ticker": "GUFICBIO.NS",
+  "company_name": "Gufic Biosciences Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 413.65,
+  "market_cap_cr": 4148.19,
+  "pe_ratio": 56.36,
+  "pb_ratio": 6.24,
+  "eps": 7.55,
+  "debt_to_equity": 0.61,
+  "roe": 15.0,
+  "revenue_growth_yoy": 16.6,
+  "earnings_growth": 70.8,
+  "profit_margins": 7.49,
+  "dividend_yield": 2.0,
+  "fetched_at": "2026-08-25T18:28:04.571877"
+}

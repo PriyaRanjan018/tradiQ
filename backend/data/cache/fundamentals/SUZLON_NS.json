@@ -1,0 +1,18 @@
+{
+  "ticker": "SUZLON.NS",
+  "company_name": "Suzlon Energy Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 46.75,
+  "market_cap_cr": 64261.53,
+  "pe_ratio": 20.24,
+  "pb_ratio": 6.57,
+  "eps": 2.31,
+  "debt_to_equity": 0.03,
+  "roe": 39.37,
+  "revenue_growth_yoy": 22.5,
+  "earnings_growth": -8.3,
+  "profit_margins": 18.09,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:23.854672"
+}

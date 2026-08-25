@@ -1,0 +1,23 @@
+{
+  "ticker": "CAPILLARY.NS",
+  "company_name": "CAPILLARY TECHNO INDIA L",
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "current_price": 510.4,
+  "market_cap_cr": 4056.25,
+  "pe_ratio": 95.94,
+  "forward_pe": 23.52,
+  "pb_ratio": 3.96,
+  "eps": 5.32,
+  "debt_to_equity": 0.05,
+  "roe": null,
+  "revenue_growth_yoy": 42.7,
+  "earnings_growth": null,
+  "qoq_profit_growth": 442.66,
+  "profit_margins": 5.19,
+  "gross_margins": 34.47,
+  "dividend_yield": null,
+  "beta": null,
+  "promoter_holding": 64.95,
+  "fetched_at": "2026-08-25T18:26:15.421199"
+}

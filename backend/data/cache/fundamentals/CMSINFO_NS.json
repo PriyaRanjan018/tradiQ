@@ -1,0 +1,23 @@
+{
+  "ticker": "CMSINFO.NS",
+  "company_name": "CMS Info Systems Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Business Services",
+  "current_price": 244.85,
+  "market_cap_cr": 3919.15,
+  "pe_ratio": 13.88,
+  "forward_pe": 9.64,
+  "pb_ratio": 1.65,
+  "eps": 17.64,
+  "debt_to_equity": 0.09,
+  "roe": null,
+  "revenue_growth_yoy": 1.2,
+  "earnings_growth": -8.8,
+  "qoq_profit_growth": 37.73,
+  "profit_margins": 11.77,
+  "gross_margins": 93.16,
+  "dividend_yield": 221.0,
+  "beta": 0.33,
+  "promoter_holding": 7.71,
+  "fetched_at": "2026-08-25T18:27:45.424299"
+}

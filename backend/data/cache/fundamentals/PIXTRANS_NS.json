@@ -1,0 +1,18 @@
+{
+  "ticker": "PIXTRANS.NS",
+  "company_name": "PIX Transmissions Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 1791.8,
+  "market_cap_cr": 2441.36,
+  "pe_ratio": 18.51,
+  "pb_ratio": 3.5,
+  "eps": 97.69,
+  "debt_to_equity": 0.03,
+  "roe": 15.0,
+  "revenue_growth_yoy": 22.8,
+  "earnings_growth": 89.3,
+  "profit_margins": 21.55,
+  "dividend_yield": 50.0,
+  "fetched_at": "2026-08-25T18:29:48.334110"
+}

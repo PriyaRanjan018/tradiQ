@@ -1,0 +1,23 @@
+{
+  "ticker": "ANANTRAJ.NS",
+  "company_name": "Anant Raj Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "current_price": 613.15,
+  "market_cap_cr": 22065.85,
+  "pe_ratio": 37.64,
+  "forward_pe": 21.0,
+  "pb_ratio": 3.81,
+  "eps": 16.29,
+  "debt_to_equity": 0.12,
+  "roe": null,
+  "revenue_growth_yoy": 6.6,
+  "earnings_growth": 13.4,
+  "qoq_profit_growth": 2.07,
+  "profit_margins": 22.77,
+  "gross_margins": 31.04,
+  "dividend_yield": 16.0,
+  "beta": 0.37,
+  "promoter_holding": 63.39,
+  "fetched_at": "2026-08-25T18:21:50.538477"
+}

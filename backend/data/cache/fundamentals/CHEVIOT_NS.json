@@ -1,0 +1,23 @@
+{
+  "ticker": "CHEVIOT.NS",
+  "company_name": "Cheviot Company Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "current_price": 1155.4,
+  "market_cap_cr": 674.97,
+  "pe_ratio": 9.89,
+  "forward_pe": null,
+  "pb_ratio": 0.96,
+  "eps": 116.86,
+  "debt_to_equity": 0.01,
+  "roe": null,
+  "revenue_growth_yoy": 42.5,
+  "earnings_growth": 57.7,
+  "qoq_profit_growth": -152.65,
+  "profit_margins": 11.41,
+  "gross_margins": 36.53,
+  "dividend_yield": 214.0,
+  "beta": 0.3,
+  "promoter_holding": 77.14,
+  "fetched_at": "2026-08-25T18:27:22.366540"
+}

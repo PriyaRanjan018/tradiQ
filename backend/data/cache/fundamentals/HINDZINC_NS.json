@@ -1,0 +1,18 @@
+{
+  "ticker": "HINDZINC.NS",
+  "company_name": "Hindustan Zinc Limited",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "current_price": 592.6,
+  "market_cap_cr": 250392.4,
+  "pe_ratio": 14.45,
+  "pb_ratio": 11.07,
+  "eps": 41.01,
+  "debt_to_equity": 0.39,
+  "roe": 15.0,
+  "revenue_growth_yoy": 71.7,
+  "earnings_growth": 144.6,
+  "profit_margins": 38.07,
+  "dividend_yield": 348.0,
+  "fetched_at": "2026-08-25T18:29:42.835343"
+}

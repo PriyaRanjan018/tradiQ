@@ -1,0 +1,18 @@
+{
+  "ticker": "TATASTEEL.NS",
+  "company_name": "Tata Steel Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 186.94,
+  "market_cap_cr": 233194.86,
+  "pe_ratio": 21.12,
+  "pb_ratio": 2.28,
+  "eps": 8.85,
+  "debt_to_equity": 0.89,
+  "roe": 15.0,
+  "revenue_growth_yoy": 14.3,
+  "earnings_growth": 11.4,
+  "profit_margins": 4.6,
+  "dividend_yield": 215.0,
+  "fetched_at": "2026-08-25T18:28:24.437835"
+}

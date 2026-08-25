@@ -1,0 +1,18 @@
+{
+  "ticker": "MINDTECK.NS",
+  "company_name": "Mindteck (India) Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "current_price": 169.35,
+  "market_cap_cr": 541.14,
+  "pe_ratio": 17.19,
+  "pb_ratio": 1.78,
+  "eps": 9.85,
+  "debt_to_equity": 0.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": 2.7,
+  "earnings_growth": -4.4,
+  "profit_margins": 7.59,
+  "dividend_yield": 59.0,
+  "fetched_at": "2026-08-25T18:28:12.456024"
+}

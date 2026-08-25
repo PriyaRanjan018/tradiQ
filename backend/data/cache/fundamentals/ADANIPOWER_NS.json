@@ -1,0 +1,23 @@
+{
+  "ticker": "ADANIPOWER.NS",
+  "company_name": "Adani Power Limited",
+  "sector": "Utilities",
+  "industry": "Utilities - Independent Power Producers",
+  "current_price": 206.33,
+  "market_cap_cr": 397901.12,
+  "pe_ratio": 27.92,
+  "forward_pe": 25.98,
+  "pb_ratio": 6.13,
+  "eps": 7.39,
+  "debt_to_equity": 0.82,
+  "roe": null,
+  "revenue_growth_yoy": 34.0,
+  "earnings_growth": 44.4,
+  "qoq_profit_growth": 19.63,
+  "profit_margins": 24.15,
+  "gross_margins": 43.48,
+  "dividend_yield": null,
+  "beta": 0.47,
+  "promoter_holding": 71.74,
+  "fetched_at": "2026-08-25T18:18:14.689772"
+}

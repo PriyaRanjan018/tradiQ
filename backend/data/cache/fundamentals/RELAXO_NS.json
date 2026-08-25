@@ -1,0 +1,18 @@
+{
+  "ticker": "RELAXO.NS",
+  "company_name": "Relaxo Footwears Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Footwear & Accessories",
+  "current_price": 368.55,
+  "market_cap_cr": 9174.63,
+  "pe_ratio": 49.54,
+  "pb_ratio": 4.16,
+  "eps": 7.44,
+  "debt_to_equity": 0.11,
+  "roe": 15.0,
+  "revenue_growth_yoy": 7.7,
+  "earnings_growth": 12.8,
+  "profit_margins": 6.73,
+  "dividend_yield": 93.0,
+  "fetched_at": "2026-08-25T18:28:18.865337"
+}

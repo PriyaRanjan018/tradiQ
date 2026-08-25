@@ -1,0 +1,18 @@
+{
+  "ticker": "IPL.NS",
+  "company_name": "India Pesticides Limited",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "current_price": 139.66,
+  "market_cap_cr": 1608.37,
+  "pe_ratio": 14.97,
+  "pb_ratio": 1.59,
+  "eps": 9.35,
+  "debt_to_equity": 0.11,
+  "roe": 15.0,
+  "revenue_growth_yoy": -8.5,
+  "earnings_growth": -34.7,
+  "profit_margins": 10.41,
+  "dividend_yield": 54.0,
+  "fetched_at": "2026-08-25T18:28:07.151042"
+}

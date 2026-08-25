@@ -1,0 +1,18 @@
+{
+  "ticker": "MASFIN.NS",
+  "company_name": "MAS Financial Services Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 299.6,
+  "market_cap_cr": 5436.34,
+  "pe_ratio": 13.79,
+  "pb_ratio": 1.83,
+  "eps": 21.72,
+  "debt_to_equity": 3.4,
+  "roe": 15.0,
+  "revenue_growth_yoy": 27.6,
+  "earnings_growth": 24.1,
+  "profit_margins": 40.51,
+  "dividend_yield": 68.0,
+  "fetched_at": "2026-08-25T18:28:11.905161"
+}

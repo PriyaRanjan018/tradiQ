@@ -1,0 +1,18 @@
+{
+  "ticker": "SKYGOLD.NS",
+  "company_name": "Sky Gold and Diamonds Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Luxury Goods",
+  "current_price": 842.3,
+  "market_cap_cr": 13045.03,
+  "pe_ratio": 38.66,
+  "pb_ratio": 10.89,
+  "eps": 21.79,
+  "debt_to_equity": 0.72,
+  "roe": 15.0,
+  "revenue_growth_yoy": 77.9,
+  "earnings_growth": 124.2,
+  "profit_margins": 4.67,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:29:50.904463"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "PIDILITIND.NS",
+  "company_name": "Pidilite Industries Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 1651.1,
+  "market_cap_cr": 168062.12,
+  "pe_ratio": 63.75,
+  "pb_ratio": 15.51,
+  "eps": 25.9,
+  "debt_to_equity": 0.04,
+  "roe": 15.0,
+  "revenue_growth_yoy": 21.3,
+  "earnings_growth": 29.6,
+  "profit_margins": 17.2,
+  "dividend_yield": 69.0,
+  "fetched_at": "2026-08-25T18:29:48.406674"
+}

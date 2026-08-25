@@ -1,0 +1,18 @@
+{
+  "ticker": "PENIND.NS",
+  "company_name": "Pennar Industries Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 157.34,
+  "market_cap_cr": 2123.24,
+  "pe_ratio": 15.13,
+  "pb_ratio": 1.83,
+  "eps": 10.54,
+  "debt_to_equity": 1.0,
+  "roe": 15.0,
+  "revenue_growth_yoy": 2.9,
+  "earnings_growth": 10.5,
+  "profit_margins": 3.9,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:16.430641"
+}

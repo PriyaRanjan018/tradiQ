@@ -1,0 +1,23 @@
+{
+  "ticker": "CENTEXT.NS",
+  "company_name": "Century Extrusions Limited",
+  "sector": "Basic Materials",
+  "industry": "Aluminum",
+  "current_price": 22.18,
+  "market_cap_cr": 177.44,
+  "pe_ratio": 15.62,
+  "forward_pe": null,
+  "pb_ratio": 2.14,
+  "eps": 1.42,
+  "debt_to_equity": 0.82,
+  "roe": null,
+  "revenue_growth_yoy": 32.8,
+  "earnings_growth": 56.7,
+  "qoq_profit_growth": 1.72,
+  "profit_margins": 2.41,
+  "gross_margins": 20.1,
+  "dividend_yield": null,
+  "beta": 0.12,
+  "promoter_holding": 52.62,
+  "fetched_at": "2026-08-25T18:26:53.424140"
+}

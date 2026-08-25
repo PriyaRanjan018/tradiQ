@@ -1,0 +1,18 @@
+{
+  "ticker": "KRSNAA.NS",
+  "company_name": "Krsnaa Diagnostics Limited",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "current_price": 564.8,
+  "market_cap_cr": 1832.14,
+  "pe_ratio": 19.04,
+  "pb_ratio": 1.87,
+  "eps": 29.6,
+  "debt_to_equity": 0.55,
+  "roe": 15.0,
+  "revenue_growth_yoy": 22.1,
+  "earnings_growth": -19.4,
+  "profit_margins": 11.58,
+  "dividend_yield": 36.0,
+  "fetched_at": "2026-08-25T18:29:45.392532"
+}

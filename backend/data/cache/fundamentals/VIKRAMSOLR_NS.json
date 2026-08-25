@@ -1,0 +1,18 @@
+{
+  "ticker": "VIKRAMSOLR.NS",
+  "company_name": "VIKRAM SOLAR LIMITED",
+  "sector": "Technology",
+  "industry": "Solar",
+  "current_price": 169.99,
+  "market_cap_cr": 6159.66,
+  "pe_ratio": 16.39,
+  "pb_ratio": 1.94,
+  "eps": 10.37,
+  "debt_to_equity": 0.2,
+  "roe": 15.0,
+  "revenue_growth_yoy": 37.9,
+  "earnings_growth": -87.1,
+  "profit_margins": 6.82,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:26.694738"
+}

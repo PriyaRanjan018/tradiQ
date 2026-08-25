@@ -1,0 +1,18 @@
+{
+  "ticker": "WAKEFIT.NS",
+  "company_name": "Wakefit Innovations Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Furnishings, Fixtures & Appliances",
+  "current_price": 145.14,
+  "market_cap_cr": 4808.95,
+  "pe_ratio": 24.27,
+  "pb_ratio": 4.22,
+  "eps": 5.98,
+  "debt_to_equity": 0.24,
+  "roe": 15.0,
+  "revenue_growth_yoy": 16.6,
+  "earnings_growth": 11.1,
+  "profit_margins": 12.47,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:27.701444"
+}

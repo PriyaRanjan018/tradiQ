@@ -1,0 +1,23 @@
+{
+  "ticker": "BALRAMCHIN.NS",
+  "company_name": "Balrampur Chini Mills Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Confectioners",
+  "current_price": 668.1,
+  "market_cap_cr": 14136.83,
+  "pe_ratio": 38.42,
+  "forward_pe": 17.89,
+  "pb_ratio": 3.26,
+  "eps": 17.39,
+  "debt_to_equity": 0.77,
+  "roe": null,
+  "revenue_growth_yoy": 6.1,
+  "earnings_growth": -15.4,
+  "qoq_profit_growth": 40.68,
+  "profit_margins": 5.83,
+  "gross_margins": 26.26,
+  "dividend_yield": 101.0,
+  "beta": 0.35,
+  "promoter_holding": 45.9,
+  "fetched_at": "2026-08-25T18:23:59.415469"
+}

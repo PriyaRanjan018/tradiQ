@@ -1,0 +1,23 @@
+{
+  "ticker": "GANDHITUBE.NS",
+  "company_name": "Gandhi Special Tubes Limited",
+  "sector": "Industrials",
+  "industry": "Metal Fabrication",
+  "current_price": 898.8,
+  "market_cap_cr": 1092.22,
+  "pe_ratio": 14.66,
+  "forward_pe": null,
+  "pb_ratio": 3.46,
+  "eps": 61.3,
+  "debt_to_equity": 0.0,
+  "roe": null,
+  "revenue_growth_yoy": 18.9,
+  "earnings_growth": 29.3,
+  "qoq_profit_growth": -52.46,
+  "profit_margins": 37.19,
+  "gross_margins": 65.73,
+  "dividend_yield": 168.0,
+  "beta": 0.84,
+  "promoter_holding": 76.65,
+  "fetched_at": "2026-08-25T18:29:09.609681"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "SUDARSCHEM.NS",
+  "company_name": "Sudarshan Chemical Industries Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 1231.3,
+  "market_cap_cr": 9802.08,
+  "pe_ratio": 136.96,
+  "pb_ratio": 2.81,
+  "eps": 8.99,
+  "debt_to_equity": 0.64,
+  "roe": 15.0,
+  "revenue_growth_yoy": 5.4,
+  "earnings_growth": 105.0,
+  "profit_margins": 0.73,
+  "dividend_yield": 40.0,
+  "fetched_at": "2026-08-25T18:29:51.661065"
+}

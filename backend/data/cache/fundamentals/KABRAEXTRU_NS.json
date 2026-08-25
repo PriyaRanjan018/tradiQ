@@ -1,0 +1,18 @@
+{
+  "ticker": "KABRAEXTRU.NS",
+  "company_name": "Kabra Extrusiontechnik Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 609.15,
+  "market_cap_cr": 2130.37,
+  "pe_ratio": 5076.25,
+  "pb_ratio": 4.83,
+  "eps": 0.12,
+  "debt_to_equity": 0.32,
+  "roe": 15.0,
+  "revenue_growth_yoy": -8.9,
+  "earnings_growth": 12.0,
+  "profit_margins": -0.31,
+  "dividend_yield": 125.0,
+  "fetched_at": "2026-08-25T18:29:44.683932"
+}

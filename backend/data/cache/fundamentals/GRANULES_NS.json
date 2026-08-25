@@ -1,0 +1,23 @@
+{
+  "ticker": "GRANULES.NS",
+  "company_name": "Granules India Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 845.95,
+  "market_cap_cr": 20962.38,
+  "pe_ratio": 31.49,
+  "forward_pe": 21.3,
+  "pb_ratio": 4.12,
+  "eps": 26.94,
+  "debt_to_equity": 0.3,
+  "roe": null,
+  "revenue_growth_yoy": 22.0,
+  "earnings_growth": 53.4,
+  "qoq_profit_growth": -10.72,
+  "profit_margins": 11.76,
+  "gross_margins": 62.0,
+  "dividend_yield": 20.0,
+  "beta": 0.14,
+  "promoter_holding": 39.31,
+  "fetched_at": "2026-08-25T18:29:34.058730"
+}

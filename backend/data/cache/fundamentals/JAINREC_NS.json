@@ -1,0 +1,18 @@
+{
+  "ticker": "JAINREC.NS",
+  "company_name": "Jain Resource Recycling Limited",
+  "sector": "Basic Materials",
+  "industry": "Other Industrial Metals & Mining",
+  "current_price": 288.4,
+  "market_cap_cr": 9952.27,
+  "pe_ratio": 27.0,
+  "pb_ratio": 6.52,
+  "eps": 10.68,
+  "debt_to_equity": 0.82,
+  "roe": 15.0,
+  "revenue_growth_yoy": 75.9,
+  "earnings_growth": 14.1,
+  "profit_margins": 3.13,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:07.708367"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "TATAINVEST.NS",
+  "company_name": "Tata Investment Corporation Limited",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "current_price": 644.35,
+  "market_cap_cr": 32601.08,
+  "pe_ratio": 75.54,
+  "pb_ratio": 1.12,
+  "eps": 8.53,
+  "debt_to_equity": 0.0,
+  "roe": 15.0,
+  "revenue_growth_yoy": 4.1,
+  "earnings_growth": -1.8,
+  "profit_margins": 105.25,
+  "dividend_yield": 53.0,
+  "fetched_at": "2026-08-25T18:29:52.231320"
+}

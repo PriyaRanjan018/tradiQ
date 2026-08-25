@@ -1,0 +1,23 @@
+{
+  "ticker": "ASIANENE.NS",
+  "company_name": "Asian Energy Services Limited",
+  "sector": "Energy",
+  "industry": "Oil & Gas Equipment & Services",
+  "current_price": 451.4,
+  "market_cap_cr": 2193.41,
+  "pe_ratio": 35.54,
+  "forward_pe": null,
+  "pb_ratio": 4.09,
+  "eps": 12.7,
+  "debt_to_equity": 0.32,
+  "roe": null,
+  "revenue_growth_yoy": 135.1,
+  "earnings_growth": 102.4,
+  "qoq_profit_growth": 83.17,
+  "profit_margins": 6.08,
+  "gross_margins": 20.95,
+  "dividend_yield": 21.0,
+  "beta": 0.84,
+  "promoter_holding": 68.31,
+  "fetched_at": "2026-08-25T18:22:59.206465"
+}

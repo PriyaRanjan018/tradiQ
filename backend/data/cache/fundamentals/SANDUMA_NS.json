@@ -1,0 +1,18 @@
+{
+  "ticker": "SANDUMA.NS",
+  "company_name": "The Sandur Manganese & Iron Ores Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 205.1,
+  "market_cap_cr": 9970.01,
+  "pe_ratio": 14.34,
+  "pb_ratio": 3.06,
+  "eps": 14.3,
+  "debt_to_equity": 0.31,
+  "roe": 15.0,
+  "revenue_growth_yoy": 21.1,
+  "earnings_growth": 34.2,
+  "profit_margins": 13.46,
+  "dividend_yield": 24.0,
+  "fetched_at": "2026-08-25T18:28:20.139012"
+}

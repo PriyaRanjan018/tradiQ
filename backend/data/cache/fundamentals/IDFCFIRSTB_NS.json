@@ -1,0 +1,18 @@
+{
+  "ticker": "IDFCFIRSTB.NS",
+  "company_name": "IDFC First Bank Limited",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "current_price": 85.0,
+  "market_cap_cr": 73284.53,
+  "pe_ratio": 32.82,
+  "pb_ratio": 1.54,
+  "eps": 2.59,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": -1.1,
+  "earnings_growth": -23.2,
+  "profit_margins": 32.78,
+  "dividend_yield": 29.0,
+  "fetched_at": "2026-08-25T18:28:05.918979"
+}

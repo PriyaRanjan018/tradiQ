@@ -1,0 +1,18 @@
+{
+  "ticker": "MAHLOG.NS",
+  "company_name": "Mahindra Logistics Limited",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "current_price": 399.7,
+  "market_cap_cr": 3965.92,
+  "pe_ratio": 94.94,
+  "pb_ratio": 5.03,
+  "eps": 4.25,
+  "debt_to_equity": 0.47,
+  "roe": 15.0,
+  "revenue_growth_yoy": 20.1,
+  "earnings_growth": 28.9,
+  "profit_margins": 0.52,
+  "dividend_yield": 62.0,
+  "fetched_at": "2026-08-25T18:28:11.310932"
+}

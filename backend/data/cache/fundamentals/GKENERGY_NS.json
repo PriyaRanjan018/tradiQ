@@ -1,0 +1,18 @@
+{
+  "ticker": "GKENERGY.NS",
+  "company_name": "GK ENERGY LIMITED",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "current_price": 126.19,
+  "market_cap_cr": 2559.35,
+  "pe_ratio": 10.6,
+  "pb_ratio": 2.88,
+  "eps": 11.9,
+  "debt_to_equity": 0.23,
+  "roe": 15.0,
+  "revenue_growth_yoy": 55.5,
+  "earnings_growth": 34.2,
+  "profit_margins": 11.96,
+  "dividend_yield": 40.0,
+  "fetched_at": "2026-08-25T18:28:03.398698"
+}

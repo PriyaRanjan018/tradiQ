@@ -1,0 +1,18 @@
+{
+  "ticker": "HONASA.NS",
+  "company_name": "Honasa Consumer Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "current_price": 485.5,
+  "market_cap_cr": 15828.48,
+  "pe_ratio": 62.65,
+  "pb_ratio": 11.17,
+  "eps": 7.75,
+  "debt_to_equity": 0.1,
+  "roe": 15.0,
+  "revenue_growth_yoy": 27.0,
+  "earnings_growth": 119.0,
+  "profit_margins": 9.75,
+  "dividend_yield": 61.0,
+  "fetched_at": "2026-08-25T18:28:05.564022"
+}

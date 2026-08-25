@@ -1,0 +1,18 @@
+{
+  "ticker": "INDOTHAI.NS",
+  "company_name": "Indo Thai Securities Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 53.85,
+  "market_cap_cr": 692.61,
+  "pe_ratio": 9.46,
+  "pb_ratio": 2.43,
+  "eps": 5.69,
+  "debt_to_equity": 0.08,
+  "roe": 15.0,
+  "revenue_growth_yoy": 43.1,
+  "earnings_growth": 18.2,
+  "profit_margins": 63.75,
+  "dividend_yield": 35.0,
+  "fetched_at": "2026-08-25T18:28:06.784588"
+}

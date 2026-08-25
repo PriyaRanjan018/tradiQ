@@ -1,0 +1,18 @@
+{
+  "ticker": "GANDHAR.NS",
+  "company_name": "Gandhar Oil Refinery (India) Limited",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "current_price": 255.42,
+  "market_cap_cr": 2500.04,
+  "pe_ratio": 8.3,
+  "pb_ratio": 1.85,
+  "eps": 30.79,
+  "debt_to_equity": 0.23,
+  "roe": 15.0,
+  "revenue_growth_yoy": 91.8,
+  "earnings_growth": 633.2,
+  "profit_margins": 5.95,
+  "dividend_yield": 127.0,
+  "fetched_at": "2026-08-25T18:28:02.833524"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "GFLLIMITED.NS",
+  "company_name": "GFL Limited",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "current_price": 54.37,
+  "market_cap_cr": 597.25,
+  "pe_ratio": 9.87,
+  "pb_ratio": 0.23,
+  "eps": 5.51,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 28.6,
+  "earnings_growth": 12.0,
+  "profit_margins": 2157.29,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:03.267540"
+}

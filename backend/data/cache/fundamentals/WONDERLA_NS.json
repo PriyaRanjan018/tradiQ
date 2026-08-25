@@ -1,0 +1,18 @@
+{
+  "ticker": "WONDERLA.NS",
+  "company_name": "Wonderla Holidays Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Leisure",
+  "current_price": 513.75,
+  "market_cap_cr": 3258.34,
+  "pe_ratio": 32.58,
+  "pb_ratio": 1.89,
+  "eps": 15.77,
+  "debt_to_equity": 0.0,
+  "roe": 15.0,
+  "revenue_growth_yoy": 44.2,
+  "earnings_growth": 38.3,
+  "profit_margins": 17.19,
+  "dividend_yield": 39.0,
+  "fetched_at": "2026-08-25T18:29:54.285588"
+}

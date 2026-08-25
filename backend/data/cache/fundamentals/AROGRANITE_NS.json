@@ -1,0 +1,23 @@
+{
+  "ticker": "AROGRANITE.NS",
+  "company_name": "Aro Granite Industries Limited",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "current_price": 24.76,
+  "market_cap_cr": 37.88,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "pb_ratio": 0.22,
+  "eps": -12.72,
+  "debt_to_equity": 0.87,
+  "roe": null,
+  "revenue_growth_yoy": -23.7,
+  "earnings_growth": null,
+  "qoq_profit_growth": -115.42,
+  "profit_margins": -28.8,
+  "gross_margins": 34.99,
+  "dividend_yield": null,
+  "beta": 0.5,
+  "promoter_holding": 58.41,
+  "fetched_at": "2026-08-25T18:22:39.549105"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "CDSL.NS",
+  "company_name": "Central Depository Services (India) Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 1394.8,
+  "market_cap_cr": 29151.32,
+  "pe_ratio": 61.77,
+  "forward_pe": 46.89,
+  "pb_ratio": 14.87,
+  "eps": 22.44,
+  "debt_to_equity": 0.0,
+  "roe": 23.91,
+  "revenue_growth_yoy": 4.2,
+  "earnings_growth": -19.9,
+  "qoq_profit_growth": 46.49,
+  "profit_margins": 36.92,
+  "gross_margins": 100.0,
+  "dividend_yield": 92.0,
+  "beta": 0.39,
+  "promoter_holding": null,
+  "fetched_at": "2026-08-25T18:26:35.500252"
+}

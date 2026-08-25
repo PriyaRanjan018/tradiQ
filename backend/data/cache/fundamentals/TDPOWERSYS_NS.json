@@ -1,0 +1,18 @@
+{
+  "ticker": "TDPOWERSYS.NS",
+  "company_name": "TD Power Systems Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 729.4,
+  "market_cap_cr": 22790.6,
+  "pe_ratio": 82.7,
+  "pb_ratio": 10.63,
+  "eps": 8.82,
+  "debt_to_equity": 0.02,
+  "roe": 15.0,
+  "revenue_growth_yoy": 72.1,
+  "earnings_growth": 72.0,
+  "profit_margins": 12.95,
+  "dividend_yield": 13.0,
+  "fetched_at": "2026-08-25T18:29:52.334853"
+}

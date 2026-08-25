@@ -1,0 +1,18 @@
+{
+  "ticker": "VIJAYA.NS",
+  "company_name": "Vijaya Diagnostic Centre Limited",
+  "sector": "Healthcare",
+  "industry": "Diagnostics & Research",
+  "current_price": 1483.4,
+  "market_cap_cr": 15278.68,
+  "pe_ratio": 81.37,
+  "pb_ratio": 15.94,
+  "eps": 17.94,
+  "debt_to_equity": 0.44,
+  "roe": 15.0,
+  "revenue_growth_yoy": 22.8,
+  "earnings_growth": 37.3,
+  "profit_margins": 21.87,
+  "dividend_yield": 13.0,
+  "fetched_at": "2026-08-25T18:29:53.594799"
+}

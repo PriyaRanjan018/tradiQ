@@ -1,0 +1,23 @@
+{
+  "ticker": "BELRISE.NS",
+  "company_name": "Belrise Industries Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 227.95,
+  "market_cap_cr": 22046.23,
+  "pe_ratio": 40.13,
+  "forward_pe": 24.89,
+  "pb_ratio": 3.88,
+  "eps": 5.68,
+  "debt_to_equity": 0.29,
+  "roe": null,
+  "revenue_growth_yoy": 12.6,
+  "earnings_growth": -8.7,
+  "qoq_profit_growth": 6.77,
+  "profit_margins": 5.17,
+  "gross_margins": 19.03,
+  "dividend_yield": 24.0,
+  "beta": null,
+  "promoter_holding": 62.2,
+  "fetched_at": "2026-08-25T18:24:28.035328"
+}

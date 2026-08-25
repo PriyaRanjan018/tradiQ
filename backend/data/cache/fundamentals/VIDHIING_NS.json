@@ -1,0 +1,18 @@
+{
+  "ticker": "VIDHIING.NS",
+  "company_name": "Vidhi Specialty Food Ingredients Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 346.85,
+  "market_cap_cr": 1732.34,
+  "pe_ratio": 34.17,
+  "pb_ratio": 5.29,
+  "eps": 10.15,
+  "debt_to_equity": 0.18,
+  "roe": 15.0,
+  "revenue_growth_yoy": 66.4,
+  "earnings_growth": 35.0,
+  "profit_margins": 12.17,
+  "dividend_yield": 203.0,
+  "fetched_at": "2026-08-25T18:28:26.707902"
+}

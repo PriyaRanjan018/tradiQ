@@ -1,0 +1,23 @@
+{
+  "ticker": "ASTRAMICRO.NS",
+  "company_name": "Astra Microwave Products Limited",
+  "sector": "Technology",
+  "industry": "Communication Equipment",
+  "current_price": 1708.0,
+  "market_cap_cr": 16216.61,
+  "pe_ratio": 86.35,
+  "forward_pe": 52.52,
+  "pb_ratio": 12.34,
+  "eps": 19.78,
+  "debt_to_equity": 0.22,
+  "roe": null,
+  "revenue_growth_yoy": -11.5,
+  "earnings_growth": -24.6,
+  "qoq_profit_growth": 126.38,
+  "profit_margins": 16.59,
+  "gross_margins": 51.09,
+  "dividend_yield": 14.0,
+  "beta": 0.52,
+  "promoter_holding": 30.57,
+  "fetched_at": "2026-08-25T18:23:10.074027"
+}

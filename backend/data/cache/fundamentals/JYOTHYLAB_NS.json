@@ -1,0 +1,18 @@
+{
+  "ticker": "JYOTHYLAB.NS",
+  "company_name": "Jyothy Labs Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "current_price": 212.64,
+  "market_cap_cr": 7808.45,
+  "pe_ratio": 27.47,
+  "pb_ratio": 4.92,
+  "eps": 8.01,
+  "debt_to_equity": 0.03,
+  "roe": 15.0,
+  "revenue_growth_yoy": 3.0,
+  "earnings_growth": -50.8,
+  "profit_margins": 9.57,
+  "dividend_yield": 165.0,
+  "fetched_at": "2026-08-25T18:28:08.822871"
+}

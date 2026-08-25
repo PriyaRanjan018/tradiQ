@@ -1,0 +1,18 @@
+{
+  "ticker": "HCLTECH.NS",
+  "company_name": "HCL Technologies Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "current_price": 1315.8,
+  "market_cap_cr": 356024.79,
+  "pe_ratio": 20.48,
+  "pb_ratio": 4.82,
+  "eps": 64.25,
+  "debt_to_equity": 0.07,
+  "roe": 24.07,
+  "revenue_growth_yoy": 3.0,
+  "earnings_growth": 8.4,
+  "profit_margins": 12.97,
+  "dividend_yield": 454.0,
+  "fetched_at": "2026-08-25T18:29:42.606543"
+}

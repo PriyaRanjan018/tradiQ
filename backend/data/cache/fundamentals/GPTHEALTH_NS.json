@@ -1,0 +1,18 @@
+{
+  "ticker": "GPTHEALTH.NS",
+  "company_name": "GPT Healthcare Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "current_price": 149.92,
+  "market_cap_cr": 1230.17,
+  "pe_ratio": 25.94,
+  "pb_ratio": 4.57,
+  "eps": 5.78,
+  "debt_to_equity": 0.34,
+  "roe": 15.0,
+  "revenue_growth_yoy": 17.8,
+  "earnings_growth": 64.9,
+  "profit_margins": 9.61,
+  "dividend_yield": 200.0,
+  "fetched_at": "2026-08-25T18:28:03.985860"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "CHENNPETRO.NS",
+  "company_name": "Chennai Petroleum Corporation Limited",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "current_price": 1401.2,
+  "market_cap_cr": 20865.46,
+  "pe_ratio": 4.93,
+  "forward_pe": 3.49,
+  "pb_ratio": 1.88,
+  "eps": 284.11,
+  "debt_to_equity": 0.18,
+  "roe": null,
+  "revenue_growth_yoy": 84.8,
+  "earnings_growth": null,
+  "qoq_profit_growth": -27.46,
+  "profit_margins": 5.48,
+  "gross_margins": 11.65,
+  "dividend_yield": 439.0,
+  "beta": 0.04,
+  "promoter_holding": 69.06,
+  "fetched_at": "2026-08-25T18:27:20.803912"
+}

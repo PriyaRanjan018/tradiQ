@@ -1,0 +1,18 @@
+{
+  "ticker": "GODIGIT.NS",
+  "company_name": "Go Digit General Insurance Limited",
+  "sector": "Financial Services",
+  "industry": "Insurance - Property & Casualty",
+  "current_price": 258.8,
+  "market_cap_cr": 23926.03,
+  "pe_ratio": 48.74,
+  "pb_ratio": 5.11,
+  "eps": 5.36,
+  "debt_to_equity": 0.07,
+  "roe": 15.0,
+  "revenue_growth_yoy": 8.6,
+  "earnings_growth": -37.6,
+  "profit_margins": 4.83,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:03.907830"
+}

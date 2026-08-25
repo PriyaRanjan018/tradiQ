@@ -1,0 +1,18 @@
+{
+  "ticker": "WHEELS.NS",
+  "company_name": "Wheels India Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 1499.3,
+  "market_cap_cr": 3663.24,
+  "pe_ratio": 22.43,
+  "pb_ratio": 3.52,
+  "eps": 66.83,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 2.5,
+  "earnings_growth": -9.8,
+  "profit_margins": 3.19,
+  "dividend_yield": 92.0,
+  "fetched_at": "2026-08-25T18:29:54.215772"
+}

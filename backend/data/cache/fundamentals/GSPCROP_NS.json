@@ -1,0 +1,23 @@
+{
+  "ticker": "GSPCROP.NS",
+  "company_name": "GSP Crop Science Limited",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "current_price": 631.4,
+  "market_cap_cr": 2937.19,
+  "pe_ratio": 30.55,
+  "forward_pe": null,
+  "pb_ratio": 3.29,
+  "eps": 20.67,
+  "debt_to_equity": 0.34,
+  "roe": null,
+  "revenue_growth_yoy": 2.4,
+  "earnings_growth": -5.8,
+  "qoq_profit_growth": -9.6,
+  "profit_margins": 6.6,
+  "gross_margins": 37.4,
+  "dividend_yield": 16.0,
+  "beta": null,
+  "promoter_holding": 88.91,
+  "fetched_at": "2026-08-25T18:29:40.080556"
+}

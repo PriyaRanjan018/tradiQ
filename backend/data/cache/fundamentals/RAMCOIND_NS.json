@@ -1,0 +1,18 @@
+{
+  "ticker": "RAMCOIND.NS",
+  "company_name": "Ramco Industries Limited",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "current_price": 348.85,
+  "market_cap_cr": 3029.47,
+  "pe_ratio": 9.09,
+  "pb_ratio": 0.67,
+  "eps": 38.38,
+  "debt_to_equity": 0.04,
+  "roe": 15.0,
+  "revenue_growth_yoy": 17.3,
+  "earnings_growth": 31.9,
+  "profit_margins": 17.38,
+  "dividend_yield": 37.0,
+  "fetched_at": "2026-08-25T18:28:18.090169"
+}

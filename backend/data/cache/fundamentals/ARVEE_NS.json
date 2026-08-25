@@ -1,0 +1,23 @@
+{
+  "ticker": "ARVEE.NS",
+  "company_name": "Arvee Laboratories (India) Ltd.",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 182.05,
+  "market_cap_cr": 200.62,
+  "pe_ratio": 97.35,
+  "forward_pe": null,
+  "pb_ratio": 5.96,
+  "eps": 1.87,
+  "debt_to_equity": 0.03,
+  "roe": null,
+  "revenue_growth_yoy": 130.3,
+  "earnings_growth": 926.7,
+  "qoq_profit_growth": 17988.12,
+  "profit_margins": 9.82,
+  "gross_margins": 45.49,
+  "dividend_yield": null,
+  "beta": 0.54,
+  "promoter_holding": null,
+  "fetched_at": "2026-08-25T18:22:43.499039"
+}

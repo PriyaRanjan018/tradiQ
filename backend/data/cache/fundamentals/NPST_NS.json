@@ -1,0 +1,18 @@
+{
+  "ticker": "NPST.NS",
+  "company_name": "Network People Services Technologies Limited",
+  "sector": "Technology",
+  "industry": "Software - Application",
+  "current_price": 1608.0,
+  "market_cap_cr": 3354.85,
+  "pe_ratio": 72.83,
+  "pb_ratio": 10.87,
+  "eps": 22.08,
+  "debt_to_equity": 0.03,
+  "roe": 15.0,
+  "revenue_growth_yoy": 68.0,
+  "earnings_growth": 42.2,
+  "profit_margins": 23.33,
+  "dividend_yield": 13.0,
+  "fetched_at": "2026-08-25T18:29:47.868537"
+}

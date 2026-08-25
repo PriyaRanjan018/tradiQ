@@ -1,0 +1,18 @@
+{
+  "ticker": "WELSPUNLIV.NS",
+  "company_name": "Welspun Living Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "current_price": 190.3,
+  "market_cap_cr": 18041.58,
+  "pe_ratio": 65.4,
+  "pb_ratio": 3.71,
+  "eps": 2.91,
+  "debt_to_equity": 0.47,
+  "roe": 15.0,
+  "revenue_growth_yoy": 23.7,
+  "earnings_growth": 83.7,
+  "profit_margins": 2.79,
+  "dividend_yield": 5.0,
+  "fetched_at": "2026-08-25T18:28:27.698827"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "UJJIVANSFB.NS",
+  "company_name": "Ujjivan Small Finance Bank Limited",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "current_price": 69.46,
+  "market_cap_cr": 13534.56,
+  "pe_ratio": 15.17,
+  "pb_ratio": 1.98,
+  "eps": 4.46,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 49.6,
+  "earnings_growth": 201.9,
+  "profit_margins": 19.63,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:25.758179"
+}

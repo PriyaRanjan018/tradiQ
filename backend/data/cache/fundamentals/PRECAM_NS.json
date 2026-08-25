@@ -1,0 +1,18 @@
+{
+  "ticker": "PRECAM.NS",
+  "company_name": "Precision Camshafts Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 130.41,
+  "market_cap_cr": 1238.71,
+  "pe_ratio": 30.26,
+  "pb_ratio": 1.48,
+  "eps": 4.31,
+  "debt_to_equity": 0.13,
+  "roe": 15.0,
+  "revenue_growth_yoy": -8.9,
+  "earnings_growth": -29.0,
+  "profit_margins": 5.34,
+  "dividend_yield": 76.0,
+  "fetched_at": "2026-08-25T18:28:17.144836"
+}

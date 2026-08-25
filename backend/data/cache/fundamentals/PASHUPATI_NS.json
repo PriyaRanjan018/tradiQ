@@ -1,0 +1,18 @@
+{
+  "ticker": "PASHUPATI.NS",
+  "company_name": "Pashupati Cotspin Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "current_price": 86.34,
+  "market_cap_cr": 1362.79,
+  "pe_ratio": null,
+  "pb_ratio": 7.98,
+  "eps": -0.74,
+  "debt_to_equity": 0.6,
+  "roe": 15.0,
+  "revenue_growth_yoy": 9.7,
+  "earnings_growth": 265.1,
+  "profit_margins": 2.24,
+  "dividend_yield": 6.0,
+  "fetched_at": "2026-08-25T18:28:16.124367"
+}

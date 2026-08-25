@@ -1,0 +1,18 @@
+{
+  "ticker": "MANBA.NS",
+  "company_name": "Manba Finance Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 127.61,
+  "market_cap_cr": 641.11,
+  "pe_ratio": 13.12,
+  "pb_ratio": 1.57,
+  "eps": 9.59,
+  "debt_to_equity": 3.8,
+  "roe": 15.0,
+  "revenue_growth_yoy": 19.0,
+  "earnings_growth": 36.1,
+  "profit_margins": 33.83,
+  "dividend_yield": 77.0,
+  "fetched_at": "2026-08-25T18:28:11.556447"
+}

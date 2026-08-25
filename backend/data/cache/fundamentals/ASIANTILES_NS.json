@@ -1,0 +1,23 @@
+{
+  "ticker": "ASIANTILES.NS",
+  "company_name": "Asian Granito India Limited",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "current_price": 46.37,
+  "market_cap_cr": 1374.76,
+  "pe_ratio": 79.95,
+  "forward_pe": 2.46,
+  "pb_ratio": 0.9,
+  "eps": 0.58,
+  "debt_to_equity": 0.28,
+  "roe": null,
+  "revenue_growth_yoy": 36.8,
+  "earnings_growth": -15.6,
+  "qoq_profit_growth": -258.9,
+  "profit_margins": 0.89,
+  "gross_margins": 25.11,
+  "dividend_yield": null,
+  "beta": 0.36,
+  "promoter_holding": 53.39,
+  "fetched_at": "2026-08-25T18:23:02.180598"
+}

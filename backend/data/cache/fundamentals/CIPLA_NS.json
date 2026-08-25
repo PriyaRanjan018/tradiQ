@@ -1,0 +1,23 @@
+{
+  "ticker": "CIPLA.NS",
+  "company_name": "Cipla Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 1422.0,
+  "market_cap_cr": 114876.72,
+  "pe_ratio": 34.1,
+  "forward_pe": 22.4,
+  "pb_ratio": 3.34,
+  "eps": 41.84,
+  "debt_to_equity": 0.02,
+  "roe": null,
+  "revenue_growth_yoy": 3.5,
+  "earnings_growth": -39.2,
+  "qoq_profit_growth": 42.26,
+  "profit_margins": 12.01,
+  "gross_margins": 63.28,
+  "dividend_yield": 90.0,
+  "beta": 0.09,
+  "promoter_holding": 34.58,
+  "fetched_at": "2026-08-25T18:27:36.336070"
+}

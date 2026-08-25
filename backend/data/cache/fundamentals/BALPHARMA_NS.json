@@ -1,0 +1,23 @@
+{
+  "ticker": "BALPHARMA.NS",
+  "company_name": "Bal Pharma Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 85.22,
+  "market_cap_cr": 135.68,
+  "pe_ratio": 18.65,
+  "forward_pe": null,
+  "pb_ratio": 1.65,
+  "eps": 4.57,
+  "debt_to_equity": 1.94,
+  "roe": null,
+  "revenue_growth_yoy": 34.5,
+  "earnings_growth": 446.2,
+  "qoq_profit_growth": 101.89,
+  "profit_margins": 2.15,
+  "gross_margins": 47.5,
+  "dividend_yield": 141.0,
+  "beta": 0.45,
+  "promoter_holding": 65.28,
+  "fetched_at": "2026-08-25T18:23:58.656267"
+}

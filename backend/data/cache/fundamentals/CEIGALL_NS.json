@@ -1,0 +1,23 @@
+{
+  "ticker": "CEIGALL.NS",
+  "company_name": "Ceigall India Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "current_price": 324.35,
+  "market_cap_cr": 5650.33,
+  "pe_ratio": 17.6,
+  "forward_pe": 13.63,
+  "pb_ratio": 2.59,
+  "eps": 18.43,
+  "debt_to_equity": 0.61,
+  "roe": null,
+  "revenue_growth_yoy": 15.7,
+  "earnings_growth": 24.1,
+  "qoq_profit_growth": 70.83,
+  "profit_margins": 7.7,
+  "gross_margins": 18.92,
+  "dividend_yield": 16.0,
+  "beta": 0.79,
+  "promoter_holding": 84.53,
+  "fetched_at": "2026-08-25T18:26:41.432548"
+}

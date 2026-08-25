@@ -1,0 +1,18 @@
+{
+  "ticker": "RPPINFRA.NS",
+  "company_name": "R.P.P. Infra Projects Limited",
+  "sector": "Industrials",
+  "industry": "Engineering & Construction",
+  "current_price": 57.88,
+  "market_cap_cr": 287.0,
+  "pe_ratio": null,
+  "pb_ratio": 0.54,
+  "eps": -0.13,
+  "debt_to_equity": 0.2,
+  "roe": 15.0,
+  "revenue_growth_yoy": 15.0,
+  "earnings_growth": -74.4,
+  "profit_margins": -0.04,
+  "dividend_yield": 87.0,
+  "fetched_at": "2026-08-25T18:28:19.209826"
+}

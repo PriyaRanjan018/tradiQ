@@ -1,0 +1,18 @@
+{
+  "ticker": "SNOWMAN.NS",
+  "company_name": "Snowman Logistics Limited",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "current_price": 37.37,
+  "market_cap_cr": 624.87,
+  "pe_ratio": 116.78,
+  "pb_ratio": 1.56,
+  "eps": 0.32,
+  "debt_to_equity": 0.78,
+  "roe": 15.0,
+  "revenue_growth_yoy": 9.2,
+  "earnings_growth": 80.0,
+  "profit_margins": 0.86,
+  "dividend_yield": 133.0,
+  "fetched_at": "2026-08-25T18:28:22.074765"
+}

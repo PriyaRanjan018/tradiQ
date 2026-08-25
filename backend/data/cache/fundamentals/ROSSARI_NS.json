@@ -1,0 +1,18 @@
+{
+  "ticker": "ROSSARI.NS",
+  "company_name": "Rossari Biotech Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 503.35,
+  "market_cap_cr": 2788.26,
+  "pe_ratio": 18.4,
+  "pb_ratio": 2.09,
+  "eps": 27.35,
+  "debt_to_equity": 0.33,
+  "roe": 15.0,
+  "revenue_growth_yoy": 28.2,
+  "earnings_growth": 4.5,
+  "profit_margins": 5.91,
+  "dividend_yield": 10.0,
+  "fetched_at": "2026-08-25T18:29:49.556751"
+}

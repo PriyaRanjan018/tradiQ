@@ -1,0 +1,23 @@
+{
+  "ticker": "BSHSL.NS",
+  "company_name": "Bombay Super Hybrid Seeds Limited",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "current_price": 88.6,
+  "market_cap_cr": 929.74,
+  "pe_ratio": 32.45,
+  "forward_pe": null,
+  "pb_ratio": 7.1,
+  "eps": 2.73,
+  "debt_to_equity": 0.83,
+  "roe": null,
+  "revenue_growth_yoy": 19.4,
+  "earnings_growth": 16.2,
+  "qoq_profit_growth": 96.6,
+  "profit_margins": 7.68,
+  "gross_margins": 18.73,
+  "dividend_yield": null,
+  "beta": 0.89,
+  "promoter_holding": 73.85,
+  "fetched_at": "2026-08-25T18:25:43.497110"
+}

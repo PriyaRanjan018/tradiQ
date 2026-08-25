@@ -1,0 +1,18 @@
+{
+  "ticker": "MACPOWER.NS",
+  "company_name": "Macpower CNC Machines Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 1903.0,
+  "market_cap_cr": 1903.79,
+  "pe_ratio": 56.35,
+  "pb_ratio": 10.86,
+  "eps": 33.77,
+  "debt_to_equity": 0.0,
+  "roe": 15.0,
+  "revenue_growth_yoy": 56.1,
+  "earnings_growth": 110.5,
+  "profit_margins": 10.59,
+  "dividend_yield": 8.0,
+  "fetched_at": "2026-08-25T18:29:45.894408"
+}

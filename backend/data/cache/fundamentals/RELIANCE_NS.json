@@ -1,0 +1,18 @@
+{
+  "ticker": "RELIANCE.NS",
+  "company_name": "Reliance Industries Limited",
+  "sector": "Energy",
+  "industry": "Oil & Gas Refining & Marketing",
+  "current_price": 1317.0,
+  "market_cap_cr": 1782226.67,
+  "pe_ratio": 23.83,
+  "pb_ratio": 1.97,
+  "eps": 55.27,
+  "debt_to_equity": 0.37,
+  "roe": 15.0,
+  "revenue_growth_yoy": 29.7,
+  "earnings_growth": -22.4,
+  "profit_margins": 6.61,
+  "dividend_yield": 46.0,
+  "fetched_at": "2026-08-25T18:29:49.320691"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "SALZERELEC.NS",
+  "company_name": "Salzer Electronics Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "current_price": 564.45,
+  "market_cap_cr": 998.1,
+  "pe_ratio": 22.78,
+  "pb_ratio": 1.68,
+  "eps": 24.78,
+  "debt_to_equity": 0.89,
+  "roe": 15.0,
+  "revenue_growth_yoy": 12.9,
+  "earnings_growth": -54.3,
+  "profit_margins": 2.41,
+  "dividend_yield": 44.0,
+  "fetched_at": "2026-08-25T18:29:49.823686"
+}

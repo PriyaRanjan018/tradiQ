@@ -1,0 +1,18 @@
+{
+  "ticker": "IDEAFORGE.NS",
+  "company_name": "ideaForge Technology Limited",
+  "sector": "Technology",
+  "industry": "Computer Hardware",
+  "current_price": 788.8,
+  "market_cap_cr": 3921.01,
+  "pe_ratio": 896.36,
+  "pb_ratio": 5.76,
+  "eps": 0.88,
+  "debt_to_equity": 0.14,
+  "roe": 15.0,
+  "revenue_growth_yoy": 436.7,
+  "earnings_growth": 12.0,
+  "profit_margins": 1.4,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:29:43.413444"
+}

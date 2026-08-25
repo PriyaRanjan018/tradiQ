@@ -1,0 +1,18 @@
+{
+  "ticker": "DBREALTY.NS",
+  "company_name": "Valor Estate Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "current_price": 107.28,
+  "market_cap_cr": 5818.94,
+  "pe_ratio": 429.12,
+  "pb_ratio": 1.15,
+  "eps": 0.25,
+  "debt_to_equity": 0.18,
+  "roe": 15.0,
+  "revenue_growth_yoy": -86.8,
+  "earnings_growth": 12.0,
+  "profit_margins": 1.36,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:27:59.944390"
+}

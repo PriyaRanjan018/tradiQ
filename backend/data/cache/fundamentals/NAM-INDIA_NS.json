@@ -1,0 +1,18 @@
+{
+  "ticker": "NAM-INDIA.NS",
+  "company_name": "Nippon Life India Asset Management Limited",
+  "sector": "Financial Services",
+  "industry": "Asset Management",
+  "current_price": 1224.4,
+  "market_cap_cr": 78334.86,
+  "pe_ratio": 48.57,
+  "pb_ratio": 16.77,
+  "eps": 25.21,
+  "debt_to_equity": 0.02,
+  "roe": 15.0,
+  "revenue_growth_yoy": 24.5,
+  "earnings_growth": 26.4,
+  "profit_margins": 52.51,
+  "dividend_yield": 172.0,
+  "fetched_at": "2026-08-25T18:29:46.966005"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "PONNIERODE.NS",
+  "company_name": "Ponni Sugars (Erode) Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Confectioners",
+  "current_price": 402.55,
+  "market_cap_cr": 346.13,
+  "pe_ratio": 7.03,
+  "pb_ratio": 0.61,
+  "eps": 57.52,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 52.2,
+  "earnings_growth": 12.0,
+  "profit_margins": 11.08,
+  "dividend_yield": 119.0,
+  "fetched_at": "2026-08-25T18:28:16.846649"
+}

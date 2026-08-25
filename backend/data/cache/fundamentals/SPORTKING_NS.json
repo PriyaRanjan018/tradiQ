@@ -1,0 +1,18 @@
+{
+  "ticker": "SPORTKING.NS",
+  "company_name": "Sportking India Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "current_price": 228.26,
+  "market_cap_cr": 2905.08,
+  "pe_ratio": 18.13,
+  "pb_ratio": 2.63,
+  "eps": 12.59,
+  "debt_to_equity": 0.42,
+  "roe": 15.0,
+  "revenue_growth_yoy": 20.1,
+  "earnings_growth": 115.9,
+  "profit_margins": 6.18,
+  "dividend_yield": 47.0,
+  "fetched_at": "2026-08-25T18:28:22.720198"
+}

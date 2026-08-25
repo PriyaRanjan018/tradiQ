@@ -1,0 +1,18 @@
+{
+  "ticker": "EDELWEISS.NS",
+  "company_name": "Edelweiss Financial Services Limited",
+  "sector": "Financial Services",
+  "industry": "Financial Conglomerates",
+  "current_price": 128.15,
+  "market_cap_cr": 12129.8,
+  "pe_ratio": 17.2,
+  "pb_ratio": 2.62,
+  "eps": 7.45,
+  "debt_to_equity": 3.2,
+  "roe": 15.0,
+  "revenue_growth_yoy": 23.0,
+  "earnings_growth": 27.3,
+  "profit_margins": 8.39,
+  "dividend_yield": 120.0,
+  "fetched_at": "2026-08-25T18:28:01.261318"
+}

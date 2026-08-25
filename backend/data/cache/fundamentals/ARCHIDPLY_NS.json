@@ -1,0 +1,23 @@
+{
+  "ticker": "ARCHIDPLY.NS",
+  "company_name": "Archidply Industries Limited",
+  "sector": "Basic Materials",
+  "industry": "Lumber & Wood Production",
+  "current_price": 114.33,
+  "market_cap_cr": 228.69,
+  "pe_ratio": 17.43,
+  "forward_pe": null,
+  "pb_ratio": 2.02,
+  "eps": 6.56,
+  "debt_to_equity": 1.63,
+  "roe": null,
+  "revenue_growth_yoy": 27.8,
+  "earnings_growth": 875.9,
+  "qoq_profit_growth": 95.64,
+  "profit_margins": 1.83,
+  "gross_margins": 33.67,
+  "dividend_yield": null,
+  "beta": 0.15,
+  "promoter_holding": 69.89,
+  "fetched_at": "2026-08-25T18:22:23.579090"
+}

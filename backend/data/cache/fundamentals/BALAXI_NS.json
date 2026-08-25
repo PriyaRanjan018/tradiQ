@@ -1,0 +1,23 @@
+{
+  "ticker": "BALAXI.NS",
+  "company_name": "Balaxi Pharmaceuticals Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 22.83,
+  "market_cap_cr": 126.04,
+  "pe_ratio": 87.81,
+  "forward_pe": null,
+  "pb_ratio": 0.51,
+  "eps": 0.26,
+  "debt_to_equity": 0.23,
+  "roe": 0.59,
+  "revenue_growth_yoy": -7.3,
+  "earnings_growth": -92.9,
+  "qoq_profit_growth": 100.92,
+  "profit_margins": 0.52,
+  "gross_margins": 44.16,
+  "dividend_yield": null,
+  "beta": 0.7,
+  "promoter_holding": null,
+  "fetched_at": "2026-08-25T18:23:51.945528"
+}

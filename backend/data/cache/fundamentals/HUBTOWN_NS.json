@@ -1,0 +1,18 @@
+{
+  "ticker": "HUBTOWN.NS",
+  "company_name": "Hubtown Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "current_price": 188.64,
+  "market_cap_cr": 2680.59,
+  "pe_ratio": 28.63,
+  "pb_ratio": 1.02,
+  "eps": 6.59,
+  "debt_to_equity": 0.45,
+  "roe": 15.0,
+  "revenue_growth_yoy": -17.0,
+  "earnings_growth": -69.7,
+  "profit_margins": 15.39,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:05.832543"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "IFBIND.NS",
+  "company_name": "IFB Industries Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Furnishings, Fixtures & Appliances",
+  "current_price": 1370.1,
+  "market_cap_cr": 5551.48,
+  "pe_ratio": 35.0,
+  "pb_ratio": 5.58,
+  "eps": 39.15,
+  "debt_to_equity": 0.16,
+  "roe": 15.0,
+  "revenue_growth_yoy": 18.4,
+  "earnings_growth": 64.4,
+  "profit_margins": 2.73,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:29:43.296744"
+}

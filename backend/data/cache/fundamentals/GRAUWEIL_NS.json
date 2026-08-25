@@ -1,0 +1,18 @@
+{
+  "ticker": "GRAUWEIL.NS",
+  "company_name": "Grauer & Weil (India) Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 67.83,
+  "market_cap_cr": 3075.49,
+  "pe_ratio": 19.16,
+  "pb_ratio": 2.85,
+  "eps": 3.54,
+  "debt_to_equity": 0.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": 17.9,
+  "earnings_growth": -8.3,
+  "profit_margins": 12.97,
+  "dividend_yield": 70.0,
+  "fetched_at": "2026-08-25T18:28:04.158224"
+}

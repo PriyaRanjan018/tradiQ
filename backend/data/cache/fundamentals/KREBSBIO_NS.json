@@ -1,0 +1,18 @@
+{
+  "ticker": "KREBSBIO.NS",
+  "company_name": "Krebs Biochemicals & Industries Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 53.78,
+  "market_cap_cr": 115.95,
+  "pe_ratio": null,
+  "pb_ratio": -0.71,
+  "eps": -6.59,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 27.4,
+  "earnings_growth": 12.0,
+  "profit_margins": -55.85,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:09.810092"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "IGL.NS",
+  "company_name": "Indraprastha Gas Limited",
+  "sector": "Utilities",
+  "industry": "Utilities - Regulated Gas",
+  "current_price": 148.68,
+  "market_cap_cr": 20815.22,
+  "pe_ratio": 16.32,
+  "pb_ratio": 1.81,
+  "eps": 9.11,
+  "debt_to_equity": 0.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": 17.2,
+  "earnings_growth": -43.8,
+  "profit_margins": 8.08,
+  "dividend_yield": 322.0,
+  "fetched_at": "2026-08-25T18:28:06.191247"
+}

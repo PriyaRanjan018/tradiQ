@@ -1,0 +1,18 @@
+{
+  "ticker": "NHPC.NS",
+  "company_name": "NHPC Limited",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "current_price": 76.62,
+  "market_cap_cr": 76965.06,
+  "pe_ratio": 28.07,
+  "pb_ratio": 1.86,
+  "eps": 2.73,
+  "debt_to_equity": 1.13,
+  "roe": 15.0,
+  "revenue_growth_yoy": 18.5,
+  "earnings_growth": 2.8,
+  "profit_margins": 31.09,
+  "dividend_yield": 210.0,
+  "fetched_at": "2026-08-25T18:28:14.220802"
+}

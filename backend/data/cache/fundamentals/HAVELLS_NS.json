@@ -1,0 +1,18 @@
+{
+  "ticker": "HAVELLS.NS",
+  "company_name": "Havells India Limited",
+  "sector": "Industrials",
+  "industry": "Electrical Equipment & Parts",
+  "current_price": 1269.1,
+  "market_cap_cr": 79643.85,
+  "pe_ratio": 48.83,
+  "pb_ratio": 8.42,
+  "eps": 25.99,
+  "debt_to_equity": 0.03,
+  "roe": 15.0,
+  "revenue_growth_yoy": 19.5,
+  "earnings_growth": -16.6,
+  "profit_margins": 6.92,
+  "dividend_yield": 95.0,
+  "fetched_at": "2026-08-25T18:29:42.889601"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "BAJAJINDEF.NS",
+  "company_name": "INDEF MANUFACTURING LTD",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "current_price": 225.93,
+  "market_cap_cr": 722.98,
+  "pe_ratio": 30.86,
+  "forward_pe": null,
+  "pb_ratio": 2.68,
+  "eps": 7.32,
+  "debt_to_equity": 0.02,
+  "roe": null,
+  "revenue_growth_yoy": -13.2,
+  "earnings_growth": -2.8,
+  "qoq_profit_growth": 39.36,
+  "profit_margins": 11.6,
+  "gross_margins": 44.89,
+  "dividend_yield": 93.0,
+  "beta": null,
+  "promoter_holding": 79.03,
+  "fetched_at": "2026-08-25T18:23:44.426843"
+}

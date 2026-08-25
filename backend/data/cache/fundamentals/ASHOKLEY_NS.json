@@ -1,0 +1,23 @@
+{
+  "ticker": "ASHOKLEY.NS",
+  "company_name": "Ashok Leyland Limited",
+  "sector": "Industrials",
+  "industry": "Farm & Heavy Construction Machinery",
+  "current_price": 174.69,
+  "market_cap_cr": 102610.36,
+  "pe_ratio": 29.46,
+  "forward_pe": 21.32,
+  "pb_ratio": 7.2,
+  "eps": 5.93,
+  "debt_to_equity": 3.45,
+  "roe": null,
+  "revenue_growth_yoy": 11.6,
+  "earnings_growth": 1.0,
+  "qoq_profit_growth": 58.66,
+  "profit_margins": 6.02,
+  "gross_margins": 40.06,
+  "dividend_yield": 202.0,
+  "beta": 0.45,
+  "promoter_holding": 36.36,
+  "fetched_at": "2026-08-25T18:22:57.138349"
+}

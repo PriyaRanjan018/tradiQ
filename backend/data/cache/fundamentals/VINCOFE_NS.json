@@ -1,0 +1,18 @@
+{
+  "ticker": "VINCOFE.NS",
+  "company_name": "Vintage Coffee and Beverages Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Non-Alcoholic",
+  "current_price": 160.9,
+  "market_cap_cr": 2344.13,
+  "pe_ratio": 30.36,
+  "pb_ratio": 4.12,
+  "eps": 5.3,
+  "debt_to_equity": 0.22,
+  "roe": 15.0,
+  "revenue_growth_yoy": 58.5,
+  "earnings_growth": 31.2,
+  "profit_margins": 12.86,
+  "dividend_yield": 6.0,
+  "fetched_at": "2026-08-25T18:28:27.005314"
+}

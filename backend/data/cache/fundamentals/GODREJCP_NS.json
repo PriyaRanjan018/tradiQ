@@ -1,0 +1,23 @@
+{
+  "ticker": "GODREJCP.NS",
+  "company_name": "Godrej Consumer Products Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "current_price": 929.2,
+  "market_cap_cr": 95085.5,
+  "pe_ratio": 49.56,
+  "forward_pe": 34.03,
+  "pb_ratio": 7.52,
+  "eps": 18.66,
+  "debt_to_equity": 0.35,
+  "roe": null,
+  "revenue_growth_yoy": 15.4,
+  "earnings_growth": 11.5,
+  "qoq_profit_growth": 11.68,
+  "profit_margins": 12.09,
+  "gross_margins": 49.72,
+  "dividend_yield": 215.0,
+  "beta": 0.37,
+  "promoter_holding": 65.71,
+  "fetched_at": "2026-08-25T18:29:28.783520"
+}

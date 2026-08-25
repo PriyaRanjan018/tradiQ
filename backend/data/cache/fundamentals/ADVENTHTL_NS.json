@@ -1,0 +1,23 @@
+{
+  "ticker": "ADVENTHTL.NS",
+  "company_name": "Advent Hotels International Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "current_price": 141.83,
+  "market_cap_cr": 765.07,
+  "pe_ratio": 11.91,
+  "forward_pe": null,
+  "pb_ratio": 0.85,
+  "eps": 11.91,
+  "debt_to_equity": 0.78,
+  "roe": null,
+  "revenue_growth_yoy": null,
+  "earnings_growth": -79.8,
+  "qoq_profit_growth": -89.93,
+  "profit_margins": 9.5,
+  "gross_margins": 74.87,
+  "dividend_yield": null,
+  "beta": null,
+  "promoter_holding": 63.9,
+  "fetched_at": "2026-08-25T18:20:36.214468"
+}

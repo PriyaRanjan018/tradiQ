@@ -1,0 +1,18 @@
+{
+  "ticker": "SHADOWFAX.NS",
+  "company_name": "SHADOWFAX TECHNOLOGIES L",
+  "sector": "Industrials",
+  "industry": "Integrated Freight & Logistics",
+  "current_price": 256.9,
+  "market_cap_cr": 15068.76,
+  "pe_ratio": 87.38,
+  "pb_ratio": 8.65,
+  "eps": 2.89,
+  "debt_to_equity": 0.14,
+  "roe": 15.0,
+  "revenue_growth_yoy": 64.9,
+  "earnings_growth": 633.3,
+  "profit_margins": 3.57,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:20.819123"
+}

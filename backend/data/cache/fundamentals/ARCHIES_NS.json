@@ -1,0 +1,23 @@
+{
+  "ticker": "ARCHIES.NS",
+  "company_name": "Archies Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Specialty Retail",
+  "current_price": 13.4,
+  "market_cap_cr": 45.27,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "pb_ratio": 0.36,
+  "eps": -1.29,
+  "debt_to_equity": 0.35,
+  "roe": null,
+  "revenue_growth_yoy": -41.9,
+  "earnings_growth": null,
+  "qoq_profit_growth": -5624.26,
+  "profit_margins": -12.06,
+  "gross_margins": 64.54,
+  "dividend_yield": null,
+  "beta": 0.84,
+  "promoter_holding": 63.1,
+  "fetched_at": "2026-08-25T18:22:26.195697"
+}

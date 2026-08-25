@@ -1,0 +1,18 @@
+{
+  "ticker": "GMRAIRPORT.NS",
+  "company_name": "GMR Airports Limited",
+  "sector": "Industrials",
+  "industry": "Airports & Air Services",
+  "current_price": 99.85,
+  "market_cap_cr": 105431.37,
+  "pe_ratio": 249.62,
+  "pb_ratio": -41.99,
+  "eps": 0.4,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 23.7,
+  "earnings_growth": 12.0,
+  "profit_margins": 3.07,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:03.563108"
+}

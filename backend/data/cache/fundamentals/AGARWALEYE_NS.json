@@ -1,0 +1,23 @@
+{
+  "ticker": "AGARWALEYE.NS",
+  "company_name": "DR AGARWALS HEALTH CARE L",
+  "sector": "Healthcare",
+  "industry": "Medical Instruments & Supplies",
+  "current_price": 500.4,
+  "market_cap_cr": 15861.83,
+  "pe_ratio": 107.61,
+  "forward_pe": 59.55,
+  "pb_ratio": 7.83,
+  "eps": 4.65,
+  "debt_to_equity": 0.5,
+  "roe": null,
+  "revenue_growth_yoy": 26.0,
+  "earnings_growth": 49.5,
+  "qoq_profit_growth": 13.9,
+  "profit_margins": 6.72,
+  "gross_margins": 43.61,
+  "dividend_yield": null,
+  "beta": null,
+  "promoter_holding": 67.85,
+  "fetched_at": "2026-08-25T18:20:56.330251"
+}

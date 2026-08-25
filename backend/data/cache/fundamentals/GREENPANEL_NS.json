@@ -1,0 +1,18 @@
+{
+  "ticker": "GREENPANEL.NS",
+  "company_name": "Greenpanel Industries Limited",
+  "sector": "Basic Materials",
+  "industry": "Lumber & Wood Production",
+  "current_price": 156.34,
+  "market_cap_cr": 1917.16,
+  "pe_ratio": 284.25,
+  "pb_ratio": 1.41,
+  "eps": 0.55,
+  "debt_to_equity": 0.27,
+  "roe": 15.0,
+  "revenue_growth_yoy": 6.6,
+  "earnings_growth": 12.0,
+  "profit_margins": 0.43,
+  "dividend_yield": 32.0,
+  "fetched_at": "2026-08-25T18:28:04.270074"
+}

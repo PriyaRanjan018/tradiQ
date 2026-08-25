@@ -1,0 +1,23 @@
+{
+  "ticker": "BOSCH-HCIL.NS",
+  "company_name": "Bosch Home Comfort India Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Furnishings, Fixtures & Appliances",
+  "current_price": 1664.8,
+  "market_cap_cr": 4526.74,
+  "pe_ratio": 962.31,
+  "forward_pe": null,
+  "pb_ratio": 9.06,
+  "eps": 1.73,
+  "debt_to_equity": 0.16,
+  "roe": null,
+  "revenue_growth_yoy": 28.5,
+  "earnings_growth": 48.2,
+  "qoq_profit_growth": 314.77,
+  "profit_margins": 0.16,
+  "gross_margins": 30.48,
+  "dividend_yield": 381.0,
+  "beta": 0.63,
+  "promoter_holding": 75.25,
+  "fetched_at": "2026-08-25T18:25:27.858843"
+}

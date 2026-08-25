@@ -1,0 +1,18 @@
+{
+  "ticker": "VMART.NS",
+  "company_name": "V-Mart Retail Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Department Stores",
+  "current_price": 862.15,
+  "market_cap_cr": 6860.59,
+  "pe_ratio": 49.89,
+  "pb_ratio": 7.2,
+  "eps": 17.28,
+  "debt_to_equity": 1.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": 23.0,
+  "earnings_growth": 40.4,
+  "profit_margins": 3.45,
+  "dividend_yield": 12.0,
+  "fetched_at": "2026-08-25T18:29:53.864073"
+}

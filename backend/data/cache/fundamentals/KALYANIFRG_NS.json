@@ -1,0 +1,18 @@
+{
+  "ticker": "KALYANIFRG.NS",
+  "company_name": "Kalyani Forge Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 677.95,
+  "market_cap_cr": 246.64,
+  "pe_ratio": 19.57,
+  "pb_ratio": 2.58,
+  "eps": 34.64,
+  "debt_to_equity": 1.11,
+  "roe": 15.0,
+  "revenue_growth_yoy": 4.2,
+  "earnings_growth": 218.1,
+  "profit_margins": 5.22,
+  "dividend_yield": 59.0,
+  "fetched_at": "2026-08-25T18:29:44.724617"
+}

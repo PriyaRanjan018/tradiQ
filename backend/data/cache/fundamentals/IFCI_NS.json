@@ -1,0 +1,18 @@
+{
+  "ticker": "IFCI.NS",
+  "company_name": "IFCI Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 83.25,
+  "market_cap_cr": 22430.17,
+  "pe_ratio": 126.14,
+  "pb_ratio": 2.46,
+  "eps": 0.66,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 15.0,
+  "earnings_growth": 12.0,
+  "profit_margins": 10.0,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:06.069250"
+}

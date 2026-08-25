@@ -1,0 +1,18 @@
+{
+  "ticker": "SJVN.NS",
+  "company_name": "SJVN Limited",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "current_price": 65.86,
+  "market_cap_cr": 25881.63,
+  "pe_ratio": 37.42,
+  "pb_ratio": 1.82,
+  "eps": 1.76,
+  "debt_to_equity": 2.27,
+  "roe": 15.0,
+  "revenue_growth_yoy": 52.0,
+  "earnings_growth": -1.7,
+  "profit_margins": 12.77,
+  "dividend_yield": 228.0,
+  "fetched_at": "2026-08-25T18:28:22.065277"
+}

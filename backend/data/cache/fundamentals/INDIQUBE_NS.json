@@ -1,0 +1,18 @@
+{
+  "ticker": "INDIQUBE.NS",
+  "company_name": "INDIQUBE SPACES LIMITED",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "current_price": 192.5,
+  "market_cap_cr": 4080.95,
+  "pe_ratio": 80.21,
+  "pb_ratio": 7.93,
+  "eps": -4.65,
+  "debt_to_equity": 10.12,
+  "roe": 15.0,
+  "revenue_growth_yoy": 36.7,
+  "earnings_growth": 12.0,
+  "profit_margins": -5.97,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:06.395083"
+}

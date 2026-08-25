@@ -1,0 +1,18 @@
+{
+  "ticker": "KARMAENG.NS",
+  "company_name": "Karma Energy Limited",
+  "sector": "Utilities",
+  "industry": "Utilities - Renewable",
+  "current_price": 38.2,
+  "market_cap_cr": 44.2,
+  "pe_ratio": 41.52,
+  "pb_ratio": 1.08,
+  "eps": 0.92,
+  "debt_to_equity": 0.04,
+  "roe": 15.0,
+  "revenue_growth_yoy": 4.8,
+  "earnings_growth": -28.3,
+  "profit_margins": 8.9,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:08.921614"
+}

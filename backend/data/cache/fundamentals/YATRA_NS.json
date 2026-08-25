@@ -1,0 +1,18 @@
+{
+  "ticker": "YATRA.NS",
+  "company_name": "Yatra Online Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Travel Services",
+  "current_price": 113.92,
+  "market_cap_cr": 1787.59,
+  "pe_ratio": 56.68,
+  "pb_ratio": 2.16,
+  "eps": 2.01,
+  "debt_to_equity": 0.12,
+  "roe": 15.0,
+  "revenue_growth_yoy": -10.4,
+  "earnings_growth": -98.0,
+  "profit_margins": 3.16,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:28.014682"
+}

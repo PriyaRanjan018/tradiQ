@@ -1,0 +1,18 @@
+{
+  "ticker": "POLYPLEX.NS",
+  "company_name": "Polyplex Corporation Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 1180.2,
+  "market_cap_cr": 3846.05,
+  "pe_ratio": 23.87,
+  "pb_ratio": 0.87,
+  "eps": 50.51,
+  "debt_to_equity": 0.13,
+  "roe": 15.0,
+  "revenue_growth_yoy": 29.6,
+  "earnings_growth": 12.0,
+  "profit_margins": 2.04,
+  "dividend_yield": 17.0,
+  "fetched_at": "2026-08-25T18:29:48.642163"
+}

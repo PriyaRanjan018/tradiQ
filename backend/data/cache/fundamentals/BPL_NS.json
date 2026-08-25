@@ -1,0 +1,23 @@
+{
+  "ticker": "BPL.NS",
+  "company_name": "BPL Limited",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "current_price": 50.22,
+  "market_cap_cr": 245.96,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "pb_ratio": 1.04,
+  "eps": -3.01,
+  "debt_to_equity": 0.85,
+  "roe": -3.91,
+  "revenue_growth_yoy": 9.8,
+  "earnings_growth": null,
+  "qoq_profit_growth": -6554.47,
+  "profit_margins": -18.36,
+  "gross_margins": 36.2,
+  "dividend_yield": null,
+  "beta": 0.17,
+  "promoter_holding": 63.13,
+  "fetched_at": "2026-08-25T18:25:32.788764"
+}

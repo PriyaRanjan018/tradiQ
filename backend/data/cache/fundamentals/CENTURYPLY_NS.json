@@ -1,0 +1,23 @@
+{
+  "ticker": "CENTURYPLY.NS",
+  "company_name": "Century Plyboards (India) Limited",
+  "sector": "Basic Materials",
+  "industry": "Lumber & Wood Production",
+  "current_price": 757.55,
+  "market_cap_cr": 16830.71,
+  "pe_ratio": 56.45,
+  "forward_pe": 29.32,
+  "pb_ratio": 6.46,
+  "eps": 13.42,
+  "debt_to_equity": 0.67,
+  "roe": null,
+  "revenue_growth_yoy": 33.5,
+  "earnings_growth": 54.9,
+  "qoq_profit_growth": 2.85,
+  "profit_margins": 5.03,
+  "gross_margins": 48.18,
+  "dividend_yield": 13.0,
+  "beta": 0.21,
+  "promoter_holding": 71.88,
+  "fetched_at": "2026-08-25T18:27:01.731057"
+}

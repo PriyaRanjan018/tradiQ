@@ -1,0 +1,23 @@
+{
+  "ticker": "DSSL.NS",
+  "company_name": "Dynacons Systems & Solutions Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "current_price": 1089.2,
+  "market_cap_cr": 1387.32,
+  "pe_ratio": 16.32,
+  "forward_pe": null,
+  "pb_ratio": 4.38,
+  "eps": 66.75,
+  "debt_to_equity": 0.75,
+  "roe": null,
+  "revenue_growth_yoy": -4.6,
+  "earnings_growth": 0.8,
+  "qoq_profit_growth": -19.42,
+  "profit_margins": 6.02,
+  "gross_margins": 12.87,
+  "dividend_yield": 5.0,
+  "beta": 0.77,
+  "promoter_holding": 63.48,
+  "fetched_at": "2026-08-25T18:28:37.964758"
+}

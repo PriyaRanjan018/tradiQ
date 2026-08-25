@@ -1,0 +1,23 @@
+{
+  "ticker": "AARTIPHARM.NS",
+  "company_name": "Aarti Pharmalabs Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 834.95,
+  "market_cap_cr": 7571.31,
+  "pe_ratio": 36.94,
+  "forward_pe": 32.74,
+  "pb_ratio": 3.56,
+  "eps": 22.6,
+  "debt_to_equity": 0.37,
+  "roe": null,
+  "revenue_growth_yoy": 38.7,
+  "earnings_growth": 53.7,
+  "qoq_profit_growth": 24.57,
+  "profit_margins": 10.4,
+  "gross_margins": 54.19,
+  "dividend_yield": 47.0,
+  "beta": 0.23,
+  "promoter_holding": 44.1,
+  "fetched_at": "2026-08-25T18:17:26.350559"
+}

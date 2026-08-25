@@ -1,0 +1,18 @@
+{
+  "ticker": "MERCURYEV.NS",
+  "company_name": "Mercury Ev-Tech Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Manufacturers",
+  "current_price": 37.4,
+  "market_cap_cr": 710.5,
+  "pe_ratio": 155.83,
+  "pb_ratio": 2.57,
+  "eps": 0.24,
+  "debt_to_equity": 0.5,
+  "roe": 3.09,
+  "revenue_growth_yoy": 46.3,
+  "earnings_growth": 22.4,
+  "profit_margins": 4.76,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:12.442016"
+}

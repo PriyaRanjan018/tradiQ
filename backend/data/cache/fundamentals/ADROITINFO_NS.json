@@ -1,0 +1,23 @@
+{
+  "ticker": "ADROITINFO.NS",
+  "company_name": "Adroit Infotech Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "current_price": 10.1,
+  "market_cap_cr": 55.17,
+  "pe_ratio": 13.12,
+  "forward_pe": null,
+  "pb_ratio": 0.71,
+  "eps": 0.77,
+  "debt_to_equity": 0.34,
+  "roe": null,
+  "revenue_growth_yoy": 52.7,
+  "earnings_growth": -25.0,
+  "qoq_profit_growth": -55.71,
+  "profit_margins": 5.73,
+  "gross_margins": 45.72,
+  "dividend_yield": null,
+  "beta": -0.2,
+  "promoter_holding": 55.56,
+  "fetched_at": "2026-08-25T18:20:30.819150"
+}

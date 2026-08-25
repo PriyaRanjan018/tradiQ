@@ -1,0 +1,23 @@
+{
+  "ticker": "GLOBUSSPR.NS",
+  "company_name": "Globus Spirits Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Beverages - Wineries & Distilleries",
+  "current_price": 917.7,
+  "market_cap_cr": 2887.2,
+  "pe_ratio": 10.61,
+  "forward_pe": 19.61,
+  "pb_ratio": 2.41,
+  "eps": 86.47,
+  "debt_to_equity": 0.48,
+  "roe": null,
+  "revenue_growth_yoy": 12.7,
+  "earnings_growth": 48.7,
+  "qoq_profit_growth": 24.58,
+  "profit_margins": 3.59,
+  "gross_margins": 34.21,
+  "dividend_yield": 72.0,
+  "beta": 0.42,
+  "promoter_holding": 51.53,
+  "fetched_at": "2026-08-25T18:29:18.194231"
+}

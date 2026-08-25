@@ -1,0 +1,23 @@
+{
+  "ticker": "ASTERDM.NS",
+  "company_name": "Aster DM Quality Care Limited",
+  "sector": "Healthcare",
+  "industry": "Medical Care Facilities",
+  "current_price": 765.25,
+  "market_cap_cr": 66704.74,
+  "pe_ratio": 125.86,
+  "forward_pe": 39.3,
+  "pb_ratio": 8.62,
+  "eps": 6.16,
+  "debt_to_equity": 0.46,
+  "roe": null,
+  "revenue_growth_yoy": 21.6,
+  "earnings_growth": -81.4,
+  "qoq_profit_growth": -88.54,
+  "profit_margins": 6.54,
+  "gross_margins": 58.62,
+  "dividend_yield": 53.0,
+  "beta": -0.06,
+  "promoter_holding": 70.85,
+  "fetched_at": "2026-08-25T18:23:07.030074"
+}

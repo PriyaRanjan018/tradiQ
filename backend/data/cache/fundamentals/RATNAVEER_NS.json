@@ -1,0 +1,18 @@
+{
+  "ticker": "RATNAVEER.NS",
+  "company_name": "Ratnaveer Precision Engineering Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 263.43,
+  "market_cap_cr": 1889.47,
+  "pe_ratio": 14.29,
+  "pb_ratio": 2.68,
+  "eps": 18.43,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 18.9,
+  "earnings_growth": -9.7,
+  "profit_margins": 6.04,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:18.088082"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "SONAMLTD.NS",
+  "company_name": "Sonam Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Furnishings, Fixtures & Appliances",
+  "current_price": 64.76,
+  "market_cap_cr": 259.25,
+  "pe_ratio": 35.39,
+  "pb_ratio": 3.63,
+  "eps": 1.83,
+  "debt_to_equity": 0.3,
+  "roe": 15.0,
+  "revenue_growth_yoy": 76.0,
+  "earnings_growth": 127.3,
+  "profit_margins": 4.51,
+  "dividend_yield": 93.0,
+  "fetched_at": "2026-08-25T18:28:22.307354"
+}

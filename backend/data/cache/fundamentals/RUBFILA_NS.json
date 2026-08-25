@@ -1,0 +1,18 @@
+{
+  "ticker": "RUBFILA.NS",
+  "company_name": "Rubfila International Limited",
+  "sector": "Basic Materials",
+  "industry": "Specialty Chemicals",
+  "current_price": 65.43,
+  "market_cap_cr": 355.07,
+  "pe_ratio": 12.83,
+  "pb_ratio": 1.12,
+  "eps": 4.87,
+  "debt_to_equity": 0.0,
+  "roe": 8.43,
+  "revenue_growth_yoy": -7.9,
+  "earnings_growth": -13.0,
+  "profit_margins": 4.35,
+  "dividend_yield": 302.0,
+  "fetched_at": "2026-08-25T18:28:19.412410"
+}

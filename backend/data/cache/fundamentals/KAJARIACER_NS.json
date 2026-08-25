@@ -1,0 +1,18 @@
+{
+  "ticker": "KAJARIACER.NS",
+  "company_name": "Kajaria Ceramics Limited",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "current_price": 1213.9,
+  "market_cap_cr": 19075.6,
+  "pe_ratio": 35.37,
+  "pb_ratio": 6.31,
+  "eps": 34.32,
+  "debt_to_equity": 0.07,
+  "roe": 15.0,
+  "revenue_growth_yoy": 20.4,
+  "earnings_growth": 55.4,
+  "profit_margins": 10.8,
+  "dividend_yield": 100.0,
+  "fetched_at": "2026-08-25T18:29:44.723249"
+}

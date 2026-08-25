@@ -1,0 +1,18 @@
+{
+  "ticker": "MONTECARLO.NS",
+  "company_name": "Monte Carlo Fashions Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Manufacturing",
+  "current_price": 545.1,
+  "market_cap_cr": 1130.1,
+  "pe_ratio": 10.78,
+  "pb_ratio": 1.25,
+  "eps": 50.55,
+  "debt_to_equity": 0.64,
+  "roe": 15.0,
+  "revenue_growth_yoy": 7.6,
+  "earnings_growth": 12.0,
+  "profit_margins": 8.15,
+  "dividend_yield": 364.0,
+  "fetched_at": "2026-08-25T18:29:46.954960"
+}

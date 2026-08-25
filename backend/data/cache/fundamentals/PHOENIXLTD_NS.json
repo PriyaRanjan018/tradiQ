@@ -1,0 +1,18 @@
+{
+  "ticker": "PHOENIXLTD.NS",
+  "company_name": "The Phoenix Mills Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Diversified",
+  "current_price": 1930.0,
+  "market_cap_cr": 69029.1,
+  "pe_ratio": 52.91,
+  "pb_ratio": 6.28,
+  "eps": 36.48,
+  "debt_to_equity": 0.37,
+  "roe": 15.0,
+  "revenue_growth_yoy": 12.8,
+  "earnings_growth": 23.3,
+  "profit_margins": 28.16,
+  "dividend_yield": 13.0,
+  "fetched_at": "2026-08-25T18:29:48.024293"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "TEXRAIL.NS",
+  "company_name": "Texmaco Rail & Engineering Limited",
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "current_price": 108.06,
+  "market_cap_cr": 4396.58,
+  "pe_ratio": 20.31,
+  "pb_ratio": 1.85,
+  "eps": 5.32,
+  "debt_to_equity": 0.37,
+  "roe": 15.0,
+  "revenue_growth_yoy": -16.9,
+  "earnings_growth": 68.5,
+  "profit_margins": 5.1,
+  "dividend_yield": 72.0,
+  "fetched_at": "2026-08-25T18:28:24.585005"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "HERANBA.NS",
+  "company_name": "Heranba Industries Limited",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "current_price": 174.27,
+  "market_cap_cr": 697.31,
+  "pe_ratio": null,
+  "pb_ratio": 0.92,
+  "eps": -17.66,
+  "debt_to_equity": 0.75,
+  "roe": 15.0,
+  "revenue_growth_yoy": -15.3,
+  "earnings_growth": 16.3,
+  "profit_margins": -4.94,
+  "dividend_yield": 56.0,
+  "fetched_at": "2026-08-25T18:28:05.238624"
+}

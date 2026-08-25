@@ -1,0 +1,18 @@
+{
+  "ticker": "GUJAPOLLO.NS",
+  "company_name": "Gujarat Apollo Industries Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 349.55,
+  "market_cap_cr": 453.37,
+  "pe_ratio": 72.82,
+  "pb_ratio": 0.9,
+  "eps": 4.55,
+  "debt_to_equity": 0.08,
+  "roe": 15.0,
+  "revenue_growth_yoy": -10.0,
+  "earnings_growth": -35.4,
+  "profit_margins": 9.34,
+  "dividend_yield": 57.0,
+  "fetched_at": "2026-08-25T18:28:04.573675"
+}

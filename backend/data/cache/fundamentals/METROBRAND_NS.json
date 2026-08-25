@@ -1,0 +1,18 @@
+{
+  "ticker": "METROBRAND.NS",
+  "company_name": "Metro Brands Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Retail",
+  "current_price": 922.1,
+  "market_cap_cr": 25135.78,
+  "pe_ratio": 61.6,
+  "pb_ratio": 12.6,
+  "eps": 14.97,
+  "debt_to_equity": 0.77,
+  "roe": 15.0,
+  "revenue_growth_yoy": 14.7,
+  "earnings_growth": -5.0,
+  "profit_margins": 13.75,
+  "dividend_yield": 66.0,
+  "fetched_at": "2026-08-25T18:29:46.623467"
+}

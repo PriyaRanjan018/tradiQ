@@ -1,0 +1,18 @@
+{
+  "ticker": "ZYDUSWELL.NS",
+  "company_name": "Zydus Wellness Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Packaged Foods",
+  "current_price": 525.45,
+  "market_cap_cr": 16717.76,
+  "pe_ratio": 92.35,
+  "pb_ratio": 2.87,
+  "eps": 5.69,
+  "debt_to_equity": 0.55,
+  "roe": 15.0,
+  "revenue_growth_yoy": 66.9,
+  "earnings_growth": -7.0,
+  "profit_margins": 4.15,
+  "dividend_yield": 23.0,
+  "fetched_at": "2026-08-25T18:29:54.592034"
+}

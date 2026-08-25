@@ -1,0 +1,18 @@
+{
+  "ticker": "KCP.NS",
+  "company_name": "The KCP Limited",
+  "sector": "Basic Materials",
+  "industry": "Building Materials",
+  "current_price": 177.06,
+  "market_cap_cr": 2282.68,
+  "pe_ratio": 13.37,
+  "pb_ratio": 1.28,
+  "eps": 13.24,
+  "debt_to_equity": 0.29,
+  "roe": 13.09,
+  "revenue_growth_yoy": 7.7,
+  "earnings_growth": 126.0,
+  "profit_margins": 7.65,
+  "dividend_yield": 57.0,
+  "fetched_at": "2026-08-25T18:28:09.205813"
+}

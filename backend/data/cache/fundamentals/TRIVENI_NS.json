@@ -1,0 +1,18 @@
+{
+  "ticker": "TRIVENI.NS",
+  "company_name": "Triveni Engineering & Industries Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Confectioners",
+  "current_price": 292.88,
+  "market_cap_cr": 6453.99,
+  "pe_ratio": 23.13,
+  "pb_ratio": 1.93,
+  "eps": 12.66,
+  "debt_to_equity": 0.65,
+  "roe": 15.0,
+  "revenue_growth_yoy": -1.1,
+  "earnings_growth": -15.0,
+  "profit_margins": 4.27,
+  "dividend_yield": 177.0,
+  "fetched_at": "2026-08-25T18:28:25.435518"
+}

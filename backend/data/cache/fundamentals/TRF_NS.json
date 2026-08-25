@@ -1,0 +1,18 @@
+{
+  "ticker": "TRF.NS",
+  "company_name": "TRF Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 231.7,
+  "market_cap_cr": 254.97,
+  "pe_ratio": null,
+  "pb_ratio": -0.72,
+  "eps": -5.53,
+  "debt_to_equity": 1.54,
+  "roe": -5.33,
+  "revenue_growth_yoy": -28.5,
+  "earnings_growth": 12.0,
+  "profit_margins": -5.26,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:25.433334"
+}

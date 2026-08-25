@@ -1,0 +1,23 @@
+{
+  "ticker": "ATAM.NS",
+  "company_name": "Atam Valves Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 55.49,
+  "market_cap_cr": 63.61,
+  "pe_ratio": 26.94,
+  "forward_pe": null,
+  "pb_ratio": 1.67,
+  "eps": 2.06,
+  "debt_to_equity": 0.39,
+  "roe": null,
+  "revenue_growth_yoy": -0.7,
+  "earnings_growth": -49.1,
+  "qoq_profit_growth": 248.61,
+  "profit_margins": 3.84,
+  "gross_margins": 36.04,
+  "dividend_yield": 153.0,
+  "beta": 0.1,
+  "promoter_holding": 56.29,
+  "fetched_at": "2026-08-25T18:23:04.168383"
+}

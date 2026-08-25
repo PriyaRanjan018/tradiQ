@@ -1,0 +1,18 @@
+{
+  "ticker": "OSWALAGRO.NS",
+  "company_name": "Oswal Agro Mills Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "current_price": 37.25,
+  "market_cap_cr": 501.19,
+  "pe_ratio": null,
+  "pb_ratio": 0.56,
+  "eps": -2.58,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": -76.9,
+  "earnings_growth": -70.8,
+  "profit_margins": 10.0,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:15.551355"
+}

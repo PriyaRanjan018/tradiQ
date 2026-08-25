@@ -1,0 +1,23 @@
+{
+  "ticker": "EMCURE.NS",
+  "company_name": "Emcure Pharmaceuticals Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 1846.9,
+  "market_cap_cr": 35032.03,
+  "pe_ratio": 34.42,
+  "forward_pe": 23.76,
+  "pb_ratio": 7.07,
+  "eps": 53.65,
+  "debt_to_equity": 0.31,
+  "roe": null,
+  "revenue_growth_yoy": 22.8,
+  "earnings_growth": 41.9,
+  "qoq_profit_growth": 20.78,
+  "profit_margins": 10.44,
+  "gross_margins": 59.43,
+  "dividend_yield": 19.0,
+  "beta": -0.06,
+  "promoter_holding": 81.77,
+  "fetched_at": "2026-08-25T18:28:48.157440"
+}

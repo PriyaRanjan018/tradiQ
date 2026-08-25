@@ -1,0 +1,23 @@
+{
+  "ticker": "AAREYDRUGS.NS",
+  "company_name": "Aarey Drugs & Pharmaceuticals Limited",
+  "sector": "Healthcare",
+  "industry": "Drug Manufacturers - Specialty & Generic",
+  "current_price": 76.91,
+  "market_cap_cr": 256.53,
+  "pe_ratio": 58.27,
+  "forward_pe": null,
+  "pb_ratio": 1.45,
+  "eps": 1.32,
+  "debt_to_equity": 0.4,
+  "roe": null,
+  "revenue_growth_yoy": -56.3,
+  "earnings_growth": -25.0,
+  "qoq_profit_growth": 173.47,
+  "profit_margins": 0.87,
+  "gross_margins": 3.82,
+  "dividend_yield": null,
+  "beta": 1.25,
+  "promoter_holding": 43.18,
+  "fetched_at": "2026-08-25T18:17:19.827200"
+}

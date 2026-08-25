@@ -1,0 +1,23 @@
+{
+  "ticker": "AMJLAND.NS",
+  "company_name": "AMJ Land Holdings Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "current_price": 38.32,
+  "market_cap_cr": 157.11,
+  "pe_ratio": 10.73,
+  "forward_pe": null,
+  "pb_ratio": 0.74,
+  "eps": 3.57,
+  "debt_to_equity": null,
+  "roe": null,
+  "revenue_growth_yoy": 2.5,
+  "earnings_growth": -7.1,
+  "qoq_profit_growth": 295.69,
+  "profit_margins": 23.47,
+  "gross_margins": 56.25,
+  "dividend_yield": 52.0,
+  "beta": 0.33,
+  "promoter_holding": 72.14,
+  "fetched_at": "2026-08-25T18:21:43.740276"
+}

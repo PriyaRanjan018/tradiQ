@@ -1,0 +1,23 @@
+{
+  "ticker": "BIOCON.NS",
+  "company_name": "Biocon Limited",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "current_price": 417.2,
+  "market_cap_cr": 67932.42,
+  "pe_ratio": 121.28,
+  "forward_pe": 37.91,
+  "pb_ratio": 1.99,
+  "eps": 3.4,
+  "debt_to_equity": 0.42,
+  "roe": null,
+  "revenue_growth_yoy": 10.0,
+  "earnings_growth": 234.6,
+  "qoq_profit_growth": 12.07,
+  "profit_margins": 2.86,
+  "gross_margins": 61.19,
+  "dividend_yield": 12.0,
+  "beta": 0.31,
+  "promoter_holding": 48.12,
+  "fetched_at": "2026-08-25T18:24:49.499418"
+}

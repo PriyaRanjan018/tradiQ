@@ -1,0 +1,18 @@
+{
+  "ticker": "RACE.NS",
+  "company_name": "Race Eco Chain Limited",
+  "sector": "Industrials",
+  "industry": "Waste Management",
+  "current_price": 100.27,
+  "market_cap_cr": 173.04,
+  "pe_ratio": 26.81,
+  "pb_ratio": 2.21,
+  "eps": 3.7,
+  "debt_to_equity": 1.04,
+  "roe": 15.0,
+  "revenue_growth_yoy": 21.9,
+  "earnings_growth": 12.0,
+  "profit_margins": 1.15,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:17.753294"
+}

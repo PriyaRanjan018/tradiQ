@@ -1,0 +1,130 @@
+[
+  {
+    "ticker": "PATANJALI.NS",
+    "symbol": "PATANJALI",
+    "name": "Patanjali Foods Limited",
+    "exchange": "NSE",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "current_price": 350.9,
+    "target_price": 507.79,
+    "low_52w": 326.06,
+    "high_52w": 606.9,
+    "ai_score": 85.0,
+    "composite_score": 85.0,
+    "fundamental_score": 43.0,
+    "technical_score": 42.0,
+    "tech_signals": {
+      "rsi": true,
+      "macd_crossover": true,
+      "ema_crossover": false,
+      "volume_spike": false,
+      "near_52w_low": true,
+      "bollinger_squeeze": true
+    },
+    "why": {
+      "past": "Over the past year, Patanjali Foods Limited has seen its stock fall by approximately 40.9%, which is a significant decline. In the last 6 months specifically, the stock corrected by 31.4%, creating a potential buying opportunity. The stock is currently trading very close to its 52-week low of \u20b9326.06, just 7.6% above it \u2014 historically a strong risk-reward entry zone. The stock is currently 42.2% below its 52-week high of \u20b9606.9, giving significant room to recover. From a business standpoint, Patanjali Foods Limited has shown strong revenue growth of 27.4% year-over-year \u2014 the business is expanding. Profit growth has been particularly notable at 86.1%, showing the company is becoming more profitable even as it grows.",
+      "present": "Our AI model flagged Patanjali Foods Limited today based on 7 converging signals:  (1) RSI at 41.9 \u2014 the stock is in the oversold-recovery zone (between 30\u201350), which historically signals a bounce is near.  (2) MACD bullish crossover detected \u2014 the momentum indicator has turned positive, suggesting buying pressure is increasing.  (3) Near 52-week low: stock is only 7.6% above its annual low, offering an asymmetric risk-reward setup.  (4) Bollinger Band squeeze: volatility has compressed to very low levels (band width: 0.037) \u2014 tight squeezes almost always precede sharp explosive moves.  (5) Attractive valuation: trading at PE of 19.4x, which is below the Consumer Defensive sector average \u2014 the stock appears undervalued.  (6) Almost debt-free (D/E ratio: 0.21) \u2014 gives the company financial flexibility to grow without diluting equity.  (7) Strong ROE of 15.0% \u2014 the company efficiently converts shareholder investment into profits.",
+      "future": "Over an 8\u20139 month horizon, our model projects a target price of \u20b9507.79, representing a potential upside of 44.7% from current levels. The AI confidence score is very high at 85/100 \u2014 historically, stocks with scores above 85 have outperformed the Nifty index by an average of 2.3x over 9 months. The revenue growth trend of 27.4% YoY suggests the business has solid product-market fit and pricing power \u2014 both key drivers of long-term stock appreciation. The current Bollinger Band squeeze is particularly important \u2014 these compressions historically resolve with a 25\u201340% directional move once the breakout occurs. As with all investments, this pick carries market risks. Suggested stop-loss: 12\u201315% below entry price.",
+      "summary": "4 bullish technical signals | revenue growing 27% YoY | undervalued vs sector | AI Score 85/100"
+    },
+    "run_date": "2026-08-25 18:29",
+    "rank": 1
+  },
+  {
+    "ticker": "FABTECH.NS",
+    "symbol": "FABTECH",
+    "name": "Fabtech Technologies Limited",
+    "exchange": "NSE",
+    "sector": "Healthcare",
+    "industry": "Health Information Services",
+    "current_price": 147.62,
+    "target_price": 215.01,
+    "low_52w": 132.16,
+    "high_52w": 261.73,
+    "ai_score": 83.0,
+    "composite_score": 83.0,
+    "fundamental_score": 33.0,
+    "technical_score": 50.0,
+    "tech_signals": {
+      "rsi": true,
+      "macd_crossover": true,
+      "ema_crossover": false,
+      "volume_spike": true,
+      "near_52w_low": true,
+      "bollinger_squeeze": true
+    },
+    "why": {
+      "past": "Over the past year, Fabtech Technologies Limited's stock has been under pressure, declining about 18.7%. The past 6 months have been weak for the stock (-3.4%), though the selling pressure appears to be easing. At current prices, the stock is only 11.7% above its 52-week low of \u20b9132.16, suggesting limited downside risk. The stock is currently 43.6% below its 52-week high of \u20b9261.73, giving significant room to recover. The company has maintained positive revenue growth of 10.3% year-over-year.",
+      "present": "Our AI model flagged Fabtech Technologies Limited today based on 8 converging signals:  (1) RSI at 45.9 \u2014 the stock is in the oversold-recovery zone (between 30\u201350), which historically signals a bounce is near.  (2) MACD bullish crossover detected \u2014 the momentum indicator has turned positive, suggesting buying pressure is increasing.  (3) Volume surge: trading volume is 1.8x the 20-day average \u2014 this usually indicates institutional/smart money entering the stock.  (4) Near 52-week low: stock is only 11.7% above its annual low, offering an asymmetric risk-reward setup.  (5) Bollinger Band squeeze: volatility has compressed to very low levels (band width: 0.048) \u2014 tight squeezes almost always precede sharp explosive moves.  (6) Attractive valuation: trading at PE of 13.5x, which is below the Healthcare sector average \u2014 the stock appears undervalued.  (7) Almost debt-free (D/E ratio: 0.17) \u2014 gives the company financial flexibility to grow without diluting equity.  (8) Strong ROE of 15.0% \u2014 the company efficiently converts shareholder investment into profits.",
+      "future": "Over an 8\u20139 month horizon, our model projects a target price of \u20b9215.01, representing a potential upside of 45.7% from current levels. With an AI score of 83/100, Fabtech Technologies Limited falls in the high-conviction zone \u2014 statistically showing strong growth probability. The current Bollinger Band squeeze is particularly important \u2014 these compressions historically resolve with a 25\u201340% directional move once the breakout occurs. Sector tailwind: India's healthcare sector benefits from rising domestic consumption and export of generic drugs. As with all investments, this pick carries market risks. Suggested stop-loss: 12\u201315% below entry price.",
+      "summary": "5 bullish technical signals | undervalued vs sector | AI Score 83/100"
+    },
+    "run_date": "2026-08-25 18:29",
+    "rank": 2
+  },
+  {
+    "ticker": "MEIL.NS",
+    "symbol": "MEIL",
+    "name": "Mangal Electrical Industries Limited",
+    "exchange": "NSE",
+    "sector": "Industrials",
+    "industry": "Electrical Equipment & Parts",
+    "current_price": 276.2,
+    "target_price": 370.64,
+    "low_52w": 206.26,
+    "high_52w": 573.7,
+    "ai_score": 82.0,
+    "composite_score": 82.0,
+    "fundamental_score": 43.0,
+    "technical_score": 39.0,
+    "tech_signals": {
+      "rsi": true,
+      "macd_crossover": true,
+      "ema_crossover": false,
+      "volume_spike": true,
+      "near_52w_low": false,
+      "bollinger_squeeze": false
+    },
+    "why": {
+      "past": "Over the past year, Mangal Electrical Industries Limited has seen its stock fall by approximately 48.4%, which is a significant decline. The stock has been weak in the past month (-8.2%), but this short-term dip often creates entry points for patient investors. The stock is currently 51.9% below its 52-week high of \u20b9573.7, giving significant room to recover. From a business standpoint, Mangal Electrical Industries Limited has shown strong revenue growth of 40.3% year-over-year \u2014 the business is expanding. Profit growth has been particularly notable at 49.5%, showing the company is becoming more profitable even as it grows.",
+      "present": "Our AI model flagged Mangal Electrical Industries Limited today based on 6 converging signals:  (1) RSI at 47.0 \u2014 the stock is in the oversold-recovery zone (between 30\u201350), which historically signals a bounce is near.  (2) MACD bullish crossover detected \u2014 the momentum indicator has turned positive, suggesting buying pressure is increasing.  (3) Volume surge: trading volume is 10.4x the 20-day average \u2014 this usually indicates institutional/smart money entering the stock.  (4) Attractive valuation: trading at PE of 14.7x, which is below the Industrials sector average \u2014 the stock appears undervalued.  (5) Almost debt-free (D/E ratio: 0.08) \u2014 gives the company financial flexibility to grow without diluting equity.  (6) Strong ROE of 15.0% \u2014 the company efficiently converts shareholder investment into profits.",
+      "future": "Over an 8\u20139 month horizon, our model projects a target price of \u20b9370.64, representing a potential upside of 34.2% from current levels. With an AI score of 82/100, Mangal Electrical Industries Limited falls in the high-conviction zone \u2014 statistically showing strong growth probability. The revenue growth trend of 40.3% YoY suggests the business has solid product-market fit and pricing power \u2014 both key drivers of long-term stock appreciation. Sector tailwind: India's capex cycle is in early stages \u2014 government infra spending benefits industrials. As with all investments, this pick carries market risks. Suggested stop-loss: 12\u201315% below entry price.",
+      "summary": "3 bullish technical signals | revenue growing 40% YoY | undervalued vs sector | AI Score 82/100"
+    },
+    "run_date": "2026-08-25 18:29",
+    "rank": 3
+  },
+  {
+    "ticker": "VBL.NS",
+    "symbol": "VBL",
+    "name": "Varun Beverages Limited",
+    "exchange": "NSE",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Non-Alcoholic",
+    "current_price": 438.0,
+    "target_price": 593.39,
+    "low_52w": 379.74,
+    "high_52w": 555.18,
+    "ai_score": 81.0,
+    "composite_score": 81.0,
+    "fundamental_score": 35.0,
+    "technical_score": 46.0,
+    "tech_signals": {
+      "rsi": true,
+      "macd_crossover": true,
+      "ema_crossover": false,
+      "volume_spike": true,
+      "near_52w_low": true,
+      "bollinger_squeeze": false
+    },
+    "why": {
+      "past": "Over the past year, Varun Beverages Limited's stock has been under pressure, declining about 14.8%. The past 6 months have been weak for the stock (-4.6%), though the selling pressure appears to be easing. The stock has been weak in the past month (-5.6%), but this short-term dip often creates entry points for patient investors. At current prices, the stock is only 15.3% above its 52-week low of \u20b9379.74, suggesting limited downside risk. From a business standpoint, Varun Beverages Limited has shown strong revenue growth of 20.4% year-over-year \u2014 the business is expanding. Profit growth has been particularly notable at 15.7%, showing the company is becoming more profitable even as it grows.",
+      "present": "Our AI model flagged Varun Beverages Limited today based on 6 converging signals:  (1) RSI at 44.4 \u2014 the stock is in the oversold-recovery zone (between 30\u201350), which historically signals a bounce is near.  (2) MACD bullish crossover detected \u2014 the momentum indicator has turned positive, suggesting buying pressure is increasing.  (3) Volume surge: trading volume is 2.2x the 20-day average \u2014 this usually indicates institutional/smart money entering the stock.  (4) Near 52-week low: stock is only 15.3% above its annual low, offering an asymmetric risk-reward setup.  (5) Almost debt-free (D/E ratio: 0.16) \u2014 gives the company financial flexibility to grow without diluting equity.  (6) Strong ROE of 16.9% \u2014 the company efficiently converts shareholder investment into profits.",
+      "future": "Over an 8\u20139 month horizon, our model projects a target price of \u20b9593.39, representing a potential upside of 35.5% from current levels. With an AI score of 81/100, Varun Beverages Limited falls in the high-conviction zone \u2014 statistically showing strong growth probability. The revenue growth trend of 20.4% YoY suggests the business has solid product-market fit and pricing power \u2014 both key drivers of long-term stock appreciation. As with all investments, this pick carries market risks. Suggested stop-loss: 12\u201315% below entry price.",
+      "summary": "4 bullish technical signals | revenue growing 20% YoY | undervalued vs sector | AI Score 81/100"
+    },
+    "run_date": "2026-08-25 18:29",
+    "rank": 4
+  }
+]

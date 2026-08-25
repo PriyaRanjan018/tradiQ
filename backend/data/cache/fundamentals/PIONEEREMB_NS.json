@@ -1,0 +1,18 @@
+{
+  "ticker": "PIONEEREMB.NS",
+  "company_name": "Pioneer Embroideries Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "current_price": 21.98,
+  "market_cap_cr": 67.73,
+  "pe_ratio": 109.9,
+  "pb_ratio": 0.43,
+  "eps": 0.2,
+  "debt_to_equity": 0.58,
+  "roe": 15.0,
+  "revenue_growth_yoy": 12.3,
+  "earnings_growth": -88.6,
+  "profit_margins": -0.1,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:16.637889"
+}

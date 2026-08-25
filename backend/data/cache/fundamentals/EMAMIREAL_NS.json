@@ -1,0 +1,18 @@
+{
+  "ticker": "EMAMIREAL.NS",
+  "company_name": "Emami Realty Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate - Development",
+  "current_price": 68.21,
+  "market_cap_cr": 354.92,
+  "pe_ratio": null,
+  "pb_ratio": -1.21,
+  "eps": -34.88,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": -5.7,
+  "earnings_growth": 12.0,
+  "profit_margins": -167.52,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:01.509503"
+}

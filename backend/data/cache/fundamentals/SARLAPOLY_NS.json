@@ -1,0 +1,18 @@
+{
+  "ticker": "SARLAPOLY.NS",
+  "company_name": "Sarla Performance Fibers Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "current_price": 101.2,
+  "market_cap_cr": 804.57,
+  "pe_ratio": 215.32,
+  "pb_ratio": 1.94,
+  "eps": 0.47,
+  "debt_to_equity": 0.4,
+  "roe": 15.0,
+  "revenue_growth_yoy": 10.6,
+  "earnings_growth": 76.1,
+  "profit_margins": 0.47,
+  "dividend_yield": 200.0,
+  "fetched_at": "2026-08-25T18:28:20.211155"
+}

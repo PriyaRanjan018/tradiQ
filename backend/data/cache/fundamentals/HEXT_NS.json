@@ -1,0 +1,18 @@
+{
+  "ticker": "HEXT.NS",
+  "company_name": "Hexaware Technologies Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "current_price": 556.9,
+  "market_cap_cr": 33959.32,
+  "pe_ratio": 24.2,
+  "pb_ratio": 5.06,
+  "eps": 23.01,
+  "debt_to_equity": 0.1,
+  "roe": 21.47,
+  "revenue_growth_yoy": 17.9,
+  "earnings_growth": -12.5,
+  "profit_margins": 9.32,
+  "dividend_yield": 253.0,
+  "fetched_at": "2026-08-25T18:29:42.587335"
+}

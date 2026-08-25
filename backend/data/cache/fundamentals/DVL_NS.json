@@ -1,0 +1,18 @@
+{
+  "ticker": "DVL.NS",
+  "company_name": "Dhunseri Ventures Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 280.89,
+  "market_cap_cr": 983.81,
+  "pe_ratio": 5.48,
+  "pb_ratio": 0.3,
+  "eps": 51.28,
+  "debt_to_equity": 0.29,
+  "roe": 15.0,
+  "revenue_growth_yoy": 32.5,
+  "earnings_growth": 144.5,
+  "profit_margins": 39.07,
+  "dividend_yield": 176.0,
+  "fetched_at": "2026-08-25T18:28:01.116984"
+}

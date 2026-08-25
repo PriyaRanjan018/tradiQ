@@ -1,0 +1,18 @@
+{
+  "ticker": "MONARCH.NS",
+  "company_name": "Monarch Networth Capital Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 383.25,
+  "market_cap_cr": 3039.49,
+  "pe_ratio": 16.77,
+  "pb_ratio": 3.13,
+  "eps": 22.86,
+  "debt_to_equity": 0.04,
+  "roe": 15.0,
+  "revenue_growth_yoy": -8.3,
+  "earnings_growth": -0.2,
+  "profit_margins": 50.53,
+  "dividend_yield": 26.0,
+  "fetched_at": "2026-08-25T18:28:13.046615"
+}

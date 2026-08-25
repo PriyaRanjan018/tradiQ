@@ -1,0 +1,23 @@
+{
+  "ticker": "ARIES.NS",
+  "company_name": "Aries Agro Limited",
+  "sector": "Basic Materials",
+  "industry": "Agricultural Inputs",
+  "current_price": 446.75,
+  "market_cap_cr": 580.97,
+  "pe_ratio": 12.33,
+  "forward_pe": null,
+  "pb_ratio": 1.74,
+  "eps": 36.22,
+  "debt_to_equity": 0.16,
+  "roe": null,
+  "revenue_growth_yoy": 16.3,
+  "earnings_growth": 48.8,
+  "qoq_profit_growth": -125.64,
+  "profit_margins": 6.23,
+  "gross_margins": 40.48,
+  "dividend_yield": 33.0,
+  "beta": 0.07,
+  "promoter_holding": 54.1,
+  "fetched_at": "2026-08-25T18:22:30.254629"
+}

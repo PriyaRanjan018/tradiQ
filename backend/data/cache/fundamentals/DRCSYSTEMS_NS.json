@@ -1,0 +1,18 @@
+{
+  "ticker": "DRCSYSTEMS.NS",
+  "company_name": "DRC Systems India Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "current_price": 12.9,
+  "market_cap_cr": 185.86,
+  "pe_ratio": 8.84,
+  "pb_ratio": 1.65,
+  "eps": 1.46,
+  "debt_to_equity": 0.0,
+  "roe": 15.0,
+  "revenue_growth_yoy": 27.8,
+  "earnings_growth": 15.2,
+  "profit_margins": 20.35,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:00.909107"
+}

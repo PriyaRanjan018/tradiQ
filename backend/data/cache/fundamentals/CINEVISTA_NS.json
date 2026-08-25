@@ -1,0 +1,23 @@
+{
+  "ticker": "CINEVISTA.NS",
+  "company_name": "Cinevista Limited",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "current_price": 14.37,
+  "market_cap_cr": 82.54,
+  "pe_ratio": 13.56,
+  "forward_pe": null,
+  "pb_ratio": 1.46,
+  "eps": 1.06,
+  "debt_to_equity": 0.27,
+  "roe": null,
+  "revenue_growth_yoy": 61.8,
+  "earnings_growth": null,
+  "qoq_profit_growth": -76.84,
+  "profit_margins": 22.76,
+  "gross_margins": 49.03,
+  "dividend_yield": null,
+  "beta": 0.35,
+  "promoter_holding": 73.6,
+  "fetched_at": "2026-08-25T18:27:35.074064"
+}

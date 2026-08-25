@@ -1,0 +1,18 @@
+{
+  "ticker": "WEWORK.NS",
+  "company_name": "WeWork India Management Limited",
+  "sector": "Real Estate",
+  "industry": "Real Estate Services",
+  "current_price": 674.9,
+  "market_cap_cr": 9353.46,
+  "pe_ratio": 109.74,
+  "pb_ratio": 30.42,
+  "eps": 6.08,
+  "debt_to_equity": 18.55,
+  "roe": 15.0,
+  "revenue_growth_yoy": 27.7,
+  "earnings_growth": 12.0,
+  "profit_margins": 3.25,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:29:54.153773"
+}

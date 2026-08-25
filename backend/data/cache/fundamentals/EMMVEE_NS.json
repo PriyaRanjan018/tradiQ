@@ -1,0 +1,18 @@
+{
+  "ticker": "EMMVEE.NS",
+  "company_name": "Emmvee Photovoltaic Power Limited",
+  "sector": "Technology",
+  "industry": "Solar",
+  "current_price": 333.7,
+  "market_cap_cr": 23103.55,
+  "pe_ratio": 18.14,
+  "pb_ratio": 6.25,
+  "eps": 18.34,
+  "debt_to_equity": 0.1,
+  "roe": 15.0,
+  "revenue_growth_yoy": 51.3,
+  "earnings_growth": 73.7,
+  "profit_margins": 22.84,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:01.686138"
+}

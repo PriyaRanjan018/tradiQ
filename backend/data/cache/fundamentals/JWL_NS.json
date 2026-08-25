@@ -1,0 +1,18 @@
+{
+  "ticker": "JWL.NS",
+  "company_name": "Jupiter Wagons Limited",
+  "sector": "Industrials",
+  "industry": "Railroads",
+  "current_price": 246.9,
+  "market_cap_cr": 10551.78,
+  "pe_ratio": 62.98,
+  "pb_ratio": 3.57,
+  "eps": 3.92,
+  "debt_to_equity": 0.33,
+  "roe": 15.0,
+  "revenue_growth_yoy": 46.0,
+  "earnings_growth": -14.3,
+  "profit_margins": 5.33,
+  "dividend_yield": 69.0,
+  "fetched_at": "2026-08-25T18:28:08.824629"
+}

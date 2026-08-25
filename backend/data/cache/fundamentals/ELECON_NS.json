@@ -1,0 +1,18 @@
+{
+  "ticker": "ELECON.NS",
+  "company_name": "Elecon Engineering Company Limited",
+  "sector": "Industrials",
+  "industry": "Specialty Industrial Machinery",
+  "current_price": 426.25,
+  "market_cap_cr": 9565.05,
+  "pe_ratio": 40.48,
+  "pb_ratio": 4.15,
+  "eps": 10.53,
+  "debt_to_equity": 0.12,
+  "roe": 15.0,
+  "revenue_growth_yoy": 6.1,
+  "earnings_growth": -59.8,
+  "profit_margins": 9.85,
+  "dividend_yield": 46.0,
+  "fetched_at": "2026-08-25T18:28:01.262229"
+}

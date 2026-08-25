@@ -1,0 +1,23 @@
+{
+  "ticker": "CHALET.NS",
+  "company_name": "Chalet Hotels Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "current_price": 894.05,
+  "market_cap_cr": 19579.17,
+  "pe_ratio": 37.05,
+  "forward_pe": 28.39,
+  "pb_ratio": 5.29,
+  "eps": 23.88,
+  "debt_to_equity": 0.64,
+  "roe": null,
+  "revenue_growth_yoy": -42.7,
+  "earnings_growth": -57.7,
+  "qoq_profit_growth": -47.17,
+  "profit_margins": 22.12,
+  "gross_margins": 69.15,
+  "dividend_yield": 23.0,
+  "beta": -0.06,
+  "promoter_holding": 67.41,
+  "fetched_at": "2026-08-25T18:27:14.031866"
+}

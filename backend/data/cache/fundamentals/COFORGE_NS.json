@@ -1,0 +1,23 @@
+{
+  "ticker": "COFORGE.NS",
+  "company_name": "Coforge Limited",
+  "sector": "Technology",
+  "industry": "Information Technology Services",
+  "current_price": 1892.8,
+  "market_cap_cr": 83835.99,
+  "pe_ratio": 38.72,
+  "forward_pe": 26.52,
+  "pb_ratio": 6.67,
+  "eps": 48.89,
+  "debt_to_equity": 0.08,
+  "roe": null,
+  "revenue_growth_yoy": 49.9,
+  "earnings_growth": 30.9,
+  "qoq_profit_growth": -15.3,
+  "profit_margins": 9.64,
+  "gross_margins": 37.25,
+  "dividend_yield": 85.0,
+  "beta": 0.29,
+  "promoter_holding": 21.81,
+  "fetched_at": "2026-08-25T18:27:52.724769"
+}

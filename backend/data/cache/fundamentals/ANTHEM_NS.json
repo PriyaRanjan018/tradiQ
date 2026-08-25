@@ -1,0 +1,23 @@
+{
+  "ticker": "ANTHEM.NS",
+  "company_name": "Anthem Biosciences Limited",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "current_price": 874.7,
+  "market_cap_cr": 49133.11,
+  "pe_ratio": 86.09,
+  "forward_pe": 57.87,
+  "pb_ratio": 16.15,
+  "eps": 10.16,
+  "debt_to_equity": 0.02,
+  "roe": null,
+  "revenue_growth_yoy": -22.6,
+  "earnings_growth": -12.8,
+  "qoq_profit_growth": -36.79,
+  "profit_margins": 28.69,
+  "gross_margins": 61.66,
+  "dividend_yield": 23.0,
+  "beta": null,
+  "promoter_holding": 84.13,
+  "fetched_at": "2026-08-25T18:22:04.997991"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "PAISALO.NS",
+  "company_name": "Paisalo Digital Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 69.29,
+  "market_cap_cr": 6334.14,
+  "pe_ratio": 24.92,
+  "pb_ratio": 3.49,
+  "eps": 2.77,
+  "debt_to_equity": 2.43,
+  "roe": 15.0,
+  "revenue_growth_yoy": 20.7,
+  "earnings_growth": 28.8,
+  "profit_margins": 45.76,
+  "dividend_yield": 14.0,
+  "fetched_at": "2026-08-25T18:28:15.795699"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "ROSSELLIND.NS",
+  "company_name": "Rossell India Limited",
+  "sector": "Industrials",
+  "industry": "Conglomerates",
+  "current_price": 57.31,
+  "market_cap_cr": 216.04,
+  "pe_ratio": 18.79,
+  "pb_ratio": 1.08,
+  "eps": 3.05,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 15.0,
+  "earnings_growth": 12.0,
+  "profit_margins": 5.31,
+  "dividend_yield": 70.0,
+  "fetched_at": "2026-08-25T18:28:19.142220"
+}

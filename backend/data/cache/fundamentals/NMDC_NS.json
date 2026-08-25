@@ -1,0 +1,18 @@
+{
+  "ticker": "NMDC.NS",
+  "company_name": "NMDC Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 85.94,
+  "market_cap_cr": 75556.88,
+  "pe_ratio": 10.13,
+  "pb_ratio": 2.21,
+  "eps": 8.48,
+  "debt_to_equity": 0.19,
+  "roe": 15.0,
+  "revenue_growth_yoy": 0.8,
+  "earnings_growth": 0.4,
+  "profit_margins": 23.22,
+  "dividend_yield": 407.0,
+  "fetched_at": "2026-08-25T18:28:14.729911"
+}

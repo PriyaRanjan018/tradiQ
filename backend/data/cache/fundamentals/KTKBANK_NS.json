@@ -1,0 +1,18 @@
+{
+  "ticker": "KTKBANK.NS",
+  "company_name": "The Karnataka Bank Limited",
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "current_price": 334.6,
+  "market_cap_cr": 12653.96,
+  "pe_ratio": 8.69,
+  "pb_ratio": 0.96,
+  "eps": 38.52,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 26.1,
+  "earnings_growth": 43.3,
+  "profit_margins": 41.45,
+  "dividend_yield": 150.0,
+  "fetched_at": "2026-08-25T18:28:10.150996"
+}

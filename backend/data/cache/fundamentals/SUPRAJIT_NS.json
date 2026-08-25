@@ -1,0 +1,18 @@
+{
+  "ticker": "SUPRAJIT.NS",
+  "company_name": "Suprajit Engineering Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Auto Parts",
+  "current_price": 503.25,
+  "market_cap_cr": 6903.55,
+  "pe_ratio": 37.17,
+  "pb_ratio": 4.81,
+  "eps": 13.54,
+  "debt_to_equity": 0.69,
+  "roe": 15.0,
+  "revenue_growth_yoy": 23.9,
+  "earnings_growth": 8.6,
+  "profit_margins": 4.63,
+  "dividend_yield": 69.0,
+  "fetched_at": "2026-08-25T18:29:51.858325"
+}

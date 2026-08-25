@@ -1,0 +1,18 @@
+{
+  "ticker": "TRIDENT.NS",
+  "company_name": "Trident Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "current_price": 24.42,
+  "market_cap_cr": 12443.42,
+  "pe_ratio": 31.31,
+  "pb_ratio": 2.61,
+  "eps": 0.78,
+  "debt_to_equity": 0.38,
+  "roe": 15.0,
+  "revenue_growth_yoy": 4.7,
+  "earnings_growth": 14.8,
+  "profit_margins": 5.83,
+  "dividend_yield": 409.0,
+  "fetched_at": "2026-08-25T18:28:25.432049"
+}

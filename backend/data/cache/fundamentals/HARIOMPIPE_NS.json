@@ -1,0 +1,18 @@
+{
+  "ticker": "HARIOMPIPE.NS",
+  "company_name": "Hariom Pipe Industries Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 348.95,
+  "market_cap_cr": 1080.6,
+  "pe_ratio": 15.71,
+  "pb_ratio": 1.67,
+  "eps": 22.17,
+  "debt_to_equity": 0.62,
+  "roe": 15.0,
+  "revenue_growth_yoy": -6.9,
+  "earnings_growth": -29.7,
+  "profit_margins": 4.2,
+  "dividend_yield": 18.0,
+  "fetched_at": "2026-08-25T18:28:04.617274"
+}

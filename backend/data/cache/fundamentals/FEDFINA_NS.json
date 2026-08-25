@@ -1,0 +1,18 @@
+{
+  "ticker": "FEDFINA.NS",
+  "company_name": "Fedbank Financial Services Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 159.02,
+  "market_cap_cr": 5962.63,
+  "pe_ratio": 15.67,
+  "pb_ratio": 2.03,
+  "eps": 10.15,
+  "debt_to_equity": 4.67,
+  "roe": 15.0,
+  "revenue_growth_yoy": 32.4,
+  "earnings_growth": 50.7,
+  "profit_margins": 28.99,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T18:28:02.396784"
+}

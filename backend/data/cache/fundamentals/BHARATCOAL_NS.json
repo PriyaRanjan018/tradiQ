@@ -1,0 +1,23 @@
+{
+  "ticker": "BHARATCOAL.NS",
+  "company_name": "BHARAT COKING COAL LTD",
+  "sector": "Basic Materials",
+  "industry": "Coking Coal",
+  "current_price": 34.35,
+  "market_cap_cr": null,
+  "pe_ratio": null,
+  "forward_pe": null,
+  "pb_ratio": 2.77,
+  "eps": -0.25,
+  "debt_to_equity": 0.39,
+  "roe": null,
+  "revenue_growth_yoy": -3.6,
+  "earnings_growth": null,
+  "qoq_profit_growth": -349.6,
+  "profit_margins": -0.86,
+  "gross_margins": 68.52,
+  "dividend_yield": null,
+  "beta": null,
+  "promoter_holding": 90.0,
+  "fetched_at": "2026-08-25T18:24:41.114805"
+}

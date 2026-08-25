@@ -1,0 +1,18 @@
+{
+  "ticker": "SUPRIYA.NS",
+  "company_name": "Supriya Lifescience Limited",
+  "sector": "Healthcare",
+  "industry": "Biotechnology",
+  "current_price": 791.65,
+  "market_cap_cr": 6371.42,
+  "pe_ratio": 32.14,
+  "pb_ratio": 5.32,
+  "eps": 24.63,
+  "debt_to_equity": 0.0,
+  "roe": 15.0,
+  "revenue_growth_yoy": 32.6,
+  "earnings_growth": -30.8,
+  "profit_margins": 22.74,
+  "dividend_yield": 13.0,
+  "fetched_at": "2026-08-25T18:29:51.854721"
+}
