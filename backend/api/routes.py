@@ -195,6 +195,12 @@ async def get_status():
         "model_loaded":     os.path.exists(ML_MODEL_PATH),
     }
 
+
+@router.get("/api/health")
+async def health_check():
+    """Lightweight keep-alive endpoint pinged every 10 minutes by the scheduler."""
+    return {"status": "ok", "timestamp": datetime.utcnow().isoformat()}
+
 from fetcher.stock_list import get_full_universe
 
 @router.get("/api/search")
@@ -245,15 +251,10 @@ async def analyze_single_stock(symbol: str):
         raise HTTPException(status_code=500, detail=str(e))
 
 
-@router.post("/api/build-pool")
-async def trigger_pool_build(background_tasks: BackgroundTasks):
-    """Trigger the overnight candidate pool build (Top 500 stocks)."""
-    from main_pipeline import build_candidate_pool
-    background_tasks.add_task(build_candidate_pool, 500)
-    return {
-        "status": "started",
-        "message": "Building candidate pool of 500 stocks in background..."
-    }
+# /api/build-pool has been removed — pool building is fully automated by the scheduler.
+# Mon–Sat: Nightly batched scan at 2:00 AM IST
+# Saturday: Deep scan at 11:00 PM IST
+# The scheduler runs batch_scanner.run_batched_scan() automatically.
 
 
 @router.get("/api/pool-status")

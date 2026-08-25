@@ -34,7 +34,11 @@ async def lifespan(app: FastAPI):
     logger.info("🤖 TradiQ starting up...")
     _scheduler = create_scheduler()
     _scheduler.start()
-    logger.info("⏰ Sunday scheduler started (runs every Sunday 9:00 AM IST)")
+    logger.info("⏰ Scheduler started — 4 jobs active:")
+    logger.info("   💓 Keep-alive ping       every 10 minutes")
+    logger.info("   🌙 Nightly batched scan  2:00 AM IST Mon–Sat")
+    logger.info("   🔭 Saturday deep scan    11:00 PM IST Saturday")
+    logger.info("   📋 Sunday weekly report  9:00 AM IST Sunday")
     yield
     logger.info("🛑 TradiQ shutting down...")
     if _scheduler:

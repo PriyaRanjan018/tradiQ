@@ -28,7 +28,6 @@ export default function App() {
   const [scanning, setScanning] = useState(false);
   const [hasScanned, setHasScanned] = useState(false);
   const [runDate, setRunDate] = useState(null);
-  const [wakeUpMessage, setWakeUpMessage] = useState(null); // cold-start status
   const [selectedWhyStock, setSelectedWhyStock] = useState(null);
   const [alertModalStock, setAlertModalStock] = useState(null);
   const [showNotificationsDrawer, setShowNotificationsDrawer] = useState(false);
@@ -97,71 +96,49 @@ export default function App() {
   // Reactive filtered picks
   const displayedPicks = useMemo(() => applyFilters(allPicks, filters), [allPicks, filters]);
 
-  // Helper: try to POST /api/run, retrying silently if the server is cold-starting
+  // Trigger live scan on backend (server is always awake via keep-alive pings)
   const handleScan = async () => {
     setScanning(true);
-    setWakeUpMessage(null);
+    try {
+      const params = new URLSearchParams({
+        price_min: filters.priceMin,
+        price_max: filters.priceMax >= 99999 ? 99999 : filters.priceMax,
+        exchange:  filters.exchange,
+        min_score: filters.minScore,
+        sector:    filters.sector,
+        top_n:     20,
+      });
+      const runRes = await fetch(`${API_BASE}/api/run?${params}`, { method: 'POST' });
+      if (!runRes.ok) throw new Error('Backend failed to start scan');
 
-    const params = new URLSearchParams({
-      price_min: filters.priceMin,
-      price_max: filters.priceMax >= 99999 ? 99999 : filters.priceMax,
-      exchange:  filters.exchange,
-      min_score: filters.minScore,
-      sector:    filters.sector,
-      top_n:     20,
-    });
-
-    // Auto-retry for up to 60 seconds (cold-start window)
-    const MAX_RETRIES = 12;   // 12 × 5 s = 60 s
-    const RETRY_DELAY = 5000; // 5 seconds between attempts
-    let attempt = 0;
-    let runRes = null;
-
-    while (attempt < MAX_RETRIES) {
-      try {
-        runRes = await fetch(`${API_BASE}/api/run?${params}`, { method: 'POST' });
-        if (runRes.ok) break; // success — exit retry loop
-        throw new Error(`HTTP ${runRes.status}`);
-      } catch {
-        attempt++;
-        if (attempt >= MAX_RETRIES) {
-          setWakeUpMessage('⚠️ Backend did not respond after 60 s. Please try again in a minute.');
-          setScanning(false);
-          return;
-        }
-        const remaining = Math.round(((MAX_RETRIES - attempt) * RETRY_DELAY) / 1000);
-        setWakeUpMessage(`☁️ Cloud server is waking up… retrying in 5 s (up to ${remaining} s left)`);
-        await new Promise(r => setTimeout(r, RETRY_DELAY));
-      }
-    }
-
-    // Server is awake — clear the wake-up message and start polling for results
-    setWakeUpMessage(null);
-
-    const poll = setInterval(async () => {
-      try {
-        const st = await fetch(`${API_BASE}/api/status`);
-        if (st.ok) {
-          const data = await st.json();
-          if (!data.pipeline_running) {
-            clearInterval(poll);
-            const picksRes = await fetch(`${API_BASE}/api/picks/latest`);
-            if (picksRes.ok) {
-              const liveData = await picksRes.json();
-              if (Array.isArray(liveData) && liveData.length > 0) {
-                setAllPicks(liveData);
-                setHasScanned(true);
-                setRunDate(`Live Scan · ${new Date().toLocaleTimeString('en-IN', { hour: '2-digit', minute: '2-digit' })}`);
+      const poll = setInterval(async () => {
+        try {
+          const st = await fetch(`${API_BASE}/api/status`);
+          if (st.ok) {
+            const data = await st.json();
+            if (!data.pipeline_running) {
+              clearInterval(poll);
+              const picksRes = await fetch(`${API_BASE}/api/picks/latest`);
+              if (picksRes.ok) {
+                const liveData = await picksRes.json();
+                if (Array.isArray(liveData) && liveData.length > 0) {
+                  setAllPicks(liveData);
+                  setHasScanned(true);
+                  setRunDate(`Live Scan · ${new Date().toLocaleTimeString('en-IN', { hour: '2-digit', minute: '2-digit' })}`);
+                }
               }
+              setScanning(false);
             }
-            setScanning(false);
           }
+        } catch (e) {
+          clearInterval(poll);
+          setScanning(false);
         }
-      } catch (e) {
-        clearInterval(poll);
-        setScanning(false);
-      }
-    }, 3000);
+      }, 3000);
+    } catch (err) {
+      console.error('Scan error:', err);
+      setScanning(false);
+    }
   };
 
   return (
@@ -174,19 +151,6 @@ export default function App() {
         onToggleNotifications={() => setShowNotificationsDrawer(prev => !prev)}
       />
 
-      {/* Cold-start wake-up banner */}
-      {wakeUpMessage && (
-        <div style={{
-          position: 'fixed', top: 0, left: 0, right: 0,
-          background: 'linear-gradient(90deg, #f59e0b, #d97706)',
-          color: '#fff', textAlign: 'center',
-          padding: '10px 16px', fontSize: '14px', fontWeight: 600,
-          zIndex: 9999, letterSpacing: '0.02em',
-          boxShadow: '0 2px 12px rgba(0,0,0,0.25)',
-        }}>
-          {wakeUpMessage}
-        </div>
-      )}
 
       <Dashboard
         picks={displayedPicks}
