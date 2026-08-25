@@ -1,0 +1,18 @@
+{
+  "ticker": "CREATIVEYE.NS",
+  "company_name": "Creative Eye Limited",
+  "sector": "Communication Services",
+  "industry": "Entertainment",
+  "current_price": 6.15,
+  "market_cap_cr": 12.34,
+  "pe_ratio": null,
+  "pb_ratio": 0.82,
+  "eps": -2.65,
+  "debt_to_equity": 0.45,
+  "roe": 15.0,
+  "revenue_growth_yoy": 15.0,
+  "earnings_growth": 12.0,
+  "profit_margins": 10.0,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T21:04:54.871698"
+}

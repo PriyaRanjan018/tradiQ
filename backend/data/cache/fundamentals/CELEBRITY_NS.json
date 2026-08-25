@@ -1,0 +1,18 @@
+{
+  "ticker": "CELEBRITY.NS",
+  "company_name": "Celebrity Fashions Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Manufacturing",
+  "current_price": 6.89,
+  "market_cap_cr": 44.47,
+  "pe_ratio": null,
+  "pb_ratio": 3.74,
+  "eps": -1.87,
+  "debt_to_equity": 6.05,
+  "roe": 15.0,
+  "revenue_growth_yoy": -35.0,
+  "earnings_growth": 12.0,
+  "profit_margins": -7.2,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T21:04:54.668197"
+}

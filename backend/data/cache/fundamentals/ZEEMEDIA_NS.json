@@ -1,0 +1,18 @@
+{
+  "ticker": "ZEEMEDIA.NS",
+  "company_name": "Zee Media Corporation Limited",
+  "sector": "Communication Services",
+  "industry": "Broadcasting",
+  "current_price": 9.12,
+  "market_cap_cr": 597.75,
+  "pe_ratio": 304.0,
+  "pb_ratio": 2.57,
+  "eps": 0.03,
+  "debt_to_equity": 0.37,
+  "roe": 15.0,
+  "revenue_growth_yoy": 4.7,
+  "earnings_growth": 12.0,
+  "profit_margins": -0.18,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T21:04:58.269706"
+}

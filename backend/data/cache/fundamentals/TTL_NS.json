@@ -1,0 +1,18 @@
+{
+  "ticker": "TTL.NS",
+  "company_name": "T.T. Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Textile Manufacturing",
+  "current_price": 6.49,
+  "market_cap_cr": 167.64,
+  "pe_ratio": 649.0,
+  "pb_ratio": 1.34,
+  "eps": 0.01,
+  "debt_to_equity": 0.64,
+  "roe": 15.0,
+  "revenue_growth_yoy": -3.6,
+  "earnings_growth": 50.0,
+  "profit_margins": 0.27,
+  "dividend_yield": 79.0,
+  "fetched_at": "2026-08-25T21:04:57.678704"
+}

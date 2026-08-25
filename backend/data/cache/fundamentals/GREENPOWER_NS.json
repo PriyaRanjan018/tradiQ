@@ -1,0 +1,18 @@
+{
+  "ticker": "GREENPOWER.NS",
+  "company_name": "Orient Green Power Company Limited",
+  "sector": "Utilities",
+  "industry": "Utilities - Independent Power Producers",
+  "current_price": 9.42,
+  "market_cap_cr": 1105.0,
+  "pe_ratio": 17.44,
+  "pb_ratio": 0.96,
+  "eps": 0.54,
+  "debt_to_equity": 0.45,
+  "roe": 15.0,
+  "revenue_growth_yoy": -6.8,
+  "earnings_growth": -20.0,
+  "profit_margins": 22.26,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T21:04:55.488466"
+}

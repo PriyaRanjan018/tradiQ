@@ -1,0 +1,18 @@
+{
+  "ticker": "BAIDFIN.NS",
+  "company_name": "Baid Finserv Limited",
+  "sector": "Financial Services",
+  "industry": "Credit Services",
+  "current_price": 9.7,
+  "market_cap_cr": 150.24,
+  "pe_ratio": 8.66,
+  "pb_ratio": 0.65,
+  "eps": 1.12,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 59.7,
+  "earnings_growth": 28.2,
+  "profit_margins": 28.61,
+  "dividend_yield": 104.0,
+  "fetched_at": "2026-08-25T21:04:54.671913"
+}

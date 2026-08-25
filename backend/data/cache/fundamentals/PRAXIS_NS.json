@@ -1,0 +1,18 @@
+{
+  "ticker": "PRAXIS.NS",
+  "company_name": "Praxis Home Retail Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Specialty Retail",
+  "current_price": 5.25,
+  "market_cap_cr": 97.55,
+  "pe_ratio": null,
+  "pb_ratio": -1.26,
+  "eps": -3.53,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 13.2,
+  "earnings_growth": 12.0,
+  "profit_margins": -61.98,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T21:04:56.756986"
+}

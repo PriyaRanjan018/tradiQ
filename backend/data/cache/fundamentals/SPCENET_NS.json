@@ -1,0 +1,18 @@
+{
+  "ticker": "SPCENET.NS",
+  "company_name": "Spacenet Enterprises India Limited",
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "current_price": 3.34,
+  "market_cap_cr": 189.62,
+  "pe_ratio": 11.52,
+  "pb_ratio": 0.98,
+  "eps": 0.29,
+  "debt_to_equity": 0.14,
+  "roe": 15.0,
+  "revenue_growth_yoy": -8.5,
+  "earnings_growth": 228.6,
+  "profit_margins": 13.17,
+  "dividend_yield": 59.0,
+  "fetched_at": "2026-08-25T21:04:57.455835"
+}

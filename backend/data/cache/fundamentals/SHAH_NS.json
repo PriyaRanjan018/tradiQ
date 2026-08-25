@@ -1,0 +1,18 @@
+{
+  "ticker": "SHAH.NS",
+  "company_name": "Shah Metacorp Limited",
+  "sector": "Basic Materials",
+  "industry": "Steel",
+  "current_price": 3.2,
+  "market_cap_cr": 317.56,
+  "pe_ratio": 26.67,
+  "pb_ratio": 0.97,
+  "eps": 0.12,
+  "debt_to_equity": 0.78,
+  "roe": 15.0,
+  "revenue_growth_yoy": 102.1,
+  "earnings_growth": 12.0,
+  "profit_margins": 5.55,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T21:04:57.740978"
+}

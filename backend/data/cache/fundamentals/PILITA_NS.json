@@ -1,0 +1,18 @@
+{
+  "ticker": "PILITA.NS",
+  "company_name": "Pil Italica Lifestyle Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Furnishings, Fixtures & Appliances",
+  "current_price": 7.93,
+  "market_cap_cr": 186.35,
+  "pe_ratio": 61.0,
+  "pb_ratio": 2.22,
+  "eps": 0.13,
+  "debt_to_equity": 0.18,
+  "roe": 15.0,
+  "revenue_growth_yoy": -30.5,
+  "earnings_growth": -85.7,
+  "profit_margins": 3.1,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T21:04:56.852666"
+}

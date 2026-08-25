@@ -1,0 +1,18 @@
+{
+  "ticker": "LCCINFOTEC.NS",
+  "company_name": "LCC Infotech Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Education & Training Services",
+  "current_price": 3.41,
+  "market_cap_cr": 43.17,
+  "pe_ratio": null,
+  "pb_ratio": 0.72,
+  "eps": -0.04,
+  "debt_to_equity": 0.01,
+  "roe": 15.0,
+  "revenue_growth_yoy": 6.2,
+  "earnings_growth": 12.0,
+  "profit_margins": 10.0,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T21:04:56.344786"
+}

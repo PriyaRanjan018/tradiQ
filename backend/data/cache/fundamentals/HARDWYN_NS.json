@@ -1,0 +1,18 @@
+{
+  "ticker": "HARDWYN.NS",
+  "company_name": "Hardwyn India Limited",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "current_price": 9.03,
+  "market_cap_cr": 617.48,
+  "pe_ratio": 47.53,
+  "pb_ratio": 1.52,
+  "eps": 0.19,
+  "debt_to_equity": 0.02,
+  "roe": 15.0,
+  "revenue_growth_yoy": -19.4,
+  "earnings_growth": 20.0,
+  "profit_margins": 6.46,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T21:04:55.569038"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "JHS.NS",
+  "company_name": "JHS Svendgaard Laboratories Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Household & Personal Products",
+  "current_price": 8.89,
+  "market_cap_cr": 77.7,
+  "pe_ratio": 5.89,
+  "pb_ratio": 0.44,
+  "eps": -0.2,
+  "debt_to_equity": 0.09,
+  "roe": 15.0,
+  "revenue_growth_yoy": 24.6,
+  "earnings_growth": 12.0,
+  "profit_margins": -1.7,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T21:04:56.251318"
+}

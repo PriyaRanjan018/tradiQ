@@ -1,0 +1,18 @@
+{
+  "ticker": "BAGFILMS.NS",
+  "company_name": "B.A.G. Films and Media Limited",
+  "sector": "Communication Services",
+  "industry": "Broadcasting",
+  "current_price": 4.38,
+  "market_cap_cr": 95.45,
+  "pe_ratio": 24.33,
+  "pb_ratio": 0.35,
+  "eps": 0.18,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 22.6,
+  "earnings_growth": -55.6,
+  "profit_margins": 2.99,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T21:04:54.624134"
+}

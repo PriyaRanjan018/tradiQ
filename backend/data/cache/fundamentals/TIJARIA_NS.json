@@ -1,0 +1,18 @@
+{
+  "ticker": "TIJARIA.NS",
+  "company_name": "Tijaria Polypipes Limited",
+  "sector": "Industrials",
+  "industry": "Building Products & Equipment",
+  "current_price": 5.51,
+  "market_cap_cr": 15.99,
+  "pe_ratio": null,
+  "pb_ratio": -0.47,
+  "eps": -0.45,
+  "debt_to_equity": 0.5,
+  "roe": 15.0,
+  "revenue_growth_yoy": 147.2,
+  "earnings_growth": 12.0,
+  "profit_margins": 10.0,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T21:04:57.549297"
+}

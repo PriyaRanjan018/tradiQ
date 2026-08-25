@@ -1,0 +1,18 @@
+{
+  "ticker": "SHANTI.NS",
+  "company_name": "Shanti Overseas (India) Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Farm Products",
+  "current_price": 6.31,
+  "market_cap_cr": 7.01,
+  "pe_ratio": null,
+  "pb_ratio": 1.75,
+  "eps": -2.5,
+  "debt_to_equity": 4.04,
+  "roe": 15.0,
+  "revenue_growth_yoy": 15.0,
+  "earnings_growth": -86.7,
+  "profit_margins": -73.3,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T21:04:57.391374"
+}

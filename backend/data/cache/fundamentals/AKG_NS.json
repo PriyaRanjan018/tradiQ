@@ -1,0 +1,18 @@
+{
+  "ticker": "AKG.NS",
+  "company_name": "AKG Exim Limited",
+  "sector": "Industrials",
+  "industry": "Industrial Distribution",
+  "current_price": 8.99,
+  "market_cap_cr": 28.57,
+  "pe_ratio": 81.73,
+  "pb_ratio": 0.58,
+  "eps": 0.11,
+  "debt_to_equity": 0.11,
+  "roe": 15.0,
+  "revenue_growth_yoy": -27.4,
+  "earnings_growth": 50.0,
+  "profit_margins": 0.47,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T21:04:54.858391"
+}

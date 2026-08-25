@@ -1,0 +1,18 @@
+{
+  "ticker": "HAVISHA.NS",
+  "company_name": "Sri Havisha Hospitality and Infrastructure Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Lodging",
+  "current_price": 1.39,
+  "market_cap_cr": 21.34,
+  "pe_ratio": null,
+  "pb_ratio": 1.8,
+  "eps": -0.17,
+  "debt_to_equity": 2.37,
+  "roe": 15.0,
+  "revenue_growth_yoy": 3.3,
+  "earnings_growth": 12.0,
+  "profit_margins": -37.32,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T21:04:55.887772"
+}

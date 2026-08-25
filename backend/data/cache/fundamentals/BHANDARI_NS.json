@@ -1,0 +1,18 @@
+{
+  "ticker": "BHANDARI.NS",
+  "company_name": "Bhandari Hosiery Exports Limited",
+  "sector": "Consumer Cyclical",
+  "industry": "Apparel Manufacturing",
+  "current_price": 3.04,
+  "market_cap_cr": 101.22,
+  "pe_ratio": 13.82,
+  "pb_ratio": 0.52,
+  "eps": 0.22,
+  "debt_to_equity": 0.58,
+  "roe": 15.0,
+  "revenue_growth_yoy": -19.3,
+  "earnings_growth": -40.7,
+  "profit_margins": 2.77,
+  "dividend_yield": 33.0,
+  "fetched_at": "2026-08-25T21:04:55.459947"
+}

@@ -136,7 +136,7 @@ export default function App() {
         }
       }, 3000);
     } catch (err) {
-      alert('Backend offline. Ensure uvicorn is running on port 8000.');
+      alert('Cloud Backend is spinning up or offline. Free server instances wake up after ~30 seconds of inactivity. Please wait a moment and click again!');
       setScanning(false);
     }
   };

@@ -1,0 +1,18 @@
+{
+  "ticker": "TREEHOUSE.NS",
+  "company_name": "Tree House Education & Accessories Limited",
+  "sector": "Consumer Defensive",
+  "industry": "Education & Training Services",
+  "current_price": 6.08,
+  "market_cap_cr": 25.72,
+  "pe_ratio": null,
+  "pb_ratio": 0.21,
+  "eps": -2.17,
+  "debt_to_equity": 0.03,
+  "roe": 15.0,
+  "revenue_growth_yoy": -20.2,
+  "earnings_growth": 12.0,
+  "profit_margins": 10.0,
+  "dividend_yield": 1.0,
+  "fetched_at": "2026-08-25T21:04:57.622902"
+}
